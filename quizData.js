@@ -2,689 +2,708 @@
     const quizText = `
 
 [TIMER: 80]
+1.Synonym of  ebullient ?
 
-1.Which province in Pakistan reported the highest number of polio cases in 2024?
+A.gloomy
+*B.exuberant
+C.sad
+D.apathetic
 
-A.Khyber Pakhtunkhwa
-B.Punjab
-C.Sindh
-*D.Balochistan
+2.  Synonym of  ecstasy?
 
-2. Pakistan Navy is hosting the ____ Multinational Maritime Exercise AMAN-25?
-
-*A.9th
-B.10th
-C.11th
-D.14th
-
-3.Who has been appointed as the new spokesperson for the Ministry of Foreign Affairs?
-
-A.Dr. Shamsher Ali
-*B.Shafqat Ali Khan
-C.Tariq Fatemi
+A.Remorse
+B.Grimness
+*C.Bliss
 D.None of these
 
-4.Who is the Vice President for South Asia at the World Bank who visited Pakistan in January 2025?
+3.Synonym of facade ?
 
-A.Sri Mulyani Indrawati
-B.David Malpass
-C.Jim Yong Kim
-*D.Martin Raiser
+A.Aembankment
+B.cosmetic
+C.long arcade
+*D.building front
 
-5.According to the Henley Passport Index 2025, what is the global ranking of Pakistan's passport?
+4. Synonym of facile ?
 
-A.102nd
-*B.103rd
-C.104th
+A.Cheerful
+B.Clean
+*C.effortless
+D.Humorous
+
+5.  Synonym of factitious ?
+
+*A.fake
+B.real
+C.fact
+D.strong
+
+6. Synonym of gainsay ?
+
+A.Suppress
+*B.contradict
+C.Yielding
+D.animation
+
+7. Synonym of hackneyed ?
+
+A.Fresh
+B.Spotless
+C.Dip
+*D.Common
+
+8.Synonym of haggard ?
+
+A.wise
+B.sluggish
+*C.exhausted
+D.witty
+
+9.Synonym of halcyon days ?
+
+*A.Golden or peaceful time
+B.shimmering
+C.exhausting
+D.turbulent
+
+10. Synonym of hallowed ?
+
+A.Historical
+B.Decayed
+*C.Sacred
+D.Ancient
+
+11.  The idiom: The Alpha and Omega means?
+
+A.A beautiful object
+B.A good man
+C.Something divine
+*D.Beginning and end
+
+12.  The idiom: “Apple of discord” means?
+
+A.A person that is not too smart; a person that acts stupid
+B.To further a loss with sarcasm or indignity; to worsen an unfavorable situation
+C.To speak the truth, even to the point of being blunt and rude
+*D.reason for quarrel
+
+13. choose the right meaning of idiom ” In the blue funk ” ?
+
+A.To get rid off
+*B.In a state of terror
+C.To be against person wishes
+D.To make a challenge.
+
+14. choose the correct meaning of idiom ” Leave in the Lurch” :
+
+*A.To leave someone in difficulty
+B.To assist someone in adverse circumstances
+C.To meet suddenly with someone
+D.A difficult situation
+
+15.  Idiom “Between Scylla and Charybdis” means?
+
+A.Between two lovers
+B.Between two parties
+C.Between two Happy Moments
+*D.Between two dangers/evils
+
+16. To be at daggers drawn means ?
+
+*A.To be bitter enemy
+B.Strong Friendship
+C.Complete Agreement
 D.None of these
 
-6.On January 1, 2025, which two countries became full members of Schengen Area?
+17. The idiom 'Add fuel to the fire' means ?
 
-A.Croatia and Poland
-*B.Romania and Bulgaria
-C.Hungary and Slovakia
-D.Bulgaria and Cyprus
-
-7. Zoran Milanovic was elected president of which country in January 2025?
-
-*A.Croatia
-B.Slovenia
-C.Serbia
+A.Calm down
+B.Tie the know
+*C.to make a problem worse
 D.None of these
 
-8.Who was sworn in as the 50th vice president of the United States on January 20, 2025?
+18. Have an Axe to Grind means?
 
-A.Tim Scott
-B.Kamala Harris
-*C.James David Vance
-D.Mike Pence
+A.To use axe frequently
+*B.Selfish motive
+C.To have a dispute with someone
+D.To be fair with someone
 
-9. Micheal Martin was elected as the prime minister of which country in January 2025?
+19.Antonym of Gad ?
 
-*A.Ireland
-B.United Kingdom
-C.France
-D.Italy
+*A.stay
+B.travel
+C.leave
+D.stop
 
-10.Where did the world’s largest compressed air energy storage project break ground?
+20.Antonym of haggle ?
 
-A.US
-B.Japan
-*C.China
-D.Germany
+A.argue
+B.barter
+*C.comply
+D.fight
 
-11.How many Pakistani Universities were listed in the 2025 world rankings?
+21.Antonym of gaffe ?
 
-A. 36
-B. 42
-*C. 47
-D. 26
+*A.Accuracy
+B.Damage
+C.blunder
+D.careless
 
-12.Pakistan’s first-ever Chief Minister’s Minority Card Program was officially launched in which province?
+22.Antonym of edacious ?
 
-A. KPK
-B. Sindh
-C. Balochistan
-*D. Punjab
+*A.generous
+B.greedy
+C.selfish
+D.none of these
 
-13.PIA resumed flights to which city of Europe after a four-year EU ban?
+23.Antonym of ecumenical ?
 
-A.London
-*B.Paris
-C.Mandrid
-D.Frankfurt
+A.spiritual
+B.cosmic
+C.secular
+*D.particular
 
-14.which country did US remove from the US terrorism list?
+24.Antonym of eccentric ?
 
-*A.cuba
-B.pakistan
-C.afghanistan
-D.iraq
+*A.Conventional
+B.unusual
+C.odd
+D.deviating from the norm
 
-15.Which country holds the ASEAN chairmanship in 2025?
+25.Antonym of ebb ?
 
-*A.Malaysia
-B.Indonesia
-C.Philippines
-D.Singapore
+A.fade
+B.weaken
+C.retreat
+*D.progress
 
-16. Which country holds the G7 presidency in 2025? 
+26. What is the rank of Pakistan in Democracy Index 2024?
 
-A.Germany
-B.Japan
-*C.Canada
-D.United Kingdom
+A.120th
+*B.124th
+C.128th
+D.135th
 
-17.What is the goal of Mission 300 Africa Energy Summit?
+27. Which country’s President reached Pakistan on a two-day official visit from 12-13 February 2025?
 
-A.Reach carbon neutrality by 2030
-*B.Connect 300 million to electricity by 2030
-C.Reduce energy consumption by 50% by 2030
+A.UAE
+*B.Türkiye
+C.China
+D.Iran
+
+28. What is the duration of the Aman 2025 exercise?
+
+*A.February 7 to 11
+B.February 5 to 10
+C.February 10 to 15
 D.None of these
 
-18. Where was the 2025 World Economic Forum (WEF) annual meeting held on 20-24?
+29. Pakistan’s (SUPARCO) has partnered with China’s (CNSA) for the lunar mission, scheduled for launch in 2028, named?
 
-A.Paris, France
-*B.Davos, Switzerland
-C.London, UK
-D.New York, USA
+A.Tianwen-2
+*B.Chang’e-8
+C.Yutu-2
+D.Xuntian
 
-19.Which two countries have recently signed the 20-year Comprehensive Strategic Partnership treaty on 17 January 2025?
+30. How many countries are participating in Aman 2025?
 
-
-A.China and Pakistan
-B.Saudi Arabia and China
-*C.Iran and Russia
+A.Over 50
+*B.Over 60
+C.Over 70
 D.None of these
 
-20.Which is the world’s strongest currency according to a recent Forbes report?
+31. Who has become the first female manager of Pakistan Cricket Board (PCB)?
 
-*A.Kuwaiti Dinar
-B.Swiss Franc
-C.United States Dollar
-D.Euro
+A.Sumbal Imtiaz
+B.Fatima Noor
+C.Maryam Khan
+*D.Hina Munawar
 
-21.Who won the 3rd SAARC Snooker Championship?
+32. Which country did Pakistan hold the 3rd Round of Bilateral Political Consultations with in Tashkent on February 5, 2025?
 
-A.Muhammad Bilal
-*B.Mohammad Asif
-C.Amir Tariq
+A.Kazakhstan
+*B.Uzbekistan
+C.Turkmenistan
+D.Kyrgyzstan
+
+33. As per recent UN report, What is the fertility rate of Pakistan?
+
+A.2 live births per woman
+B.2.6 live births per woman
+*C.3.6 live births per woman
+D.5 live births per woman
+
+34. The 2025 Tri-Nation Series was the first tri-nation series hosted by Pakistan since:
+
+A.2000
+B.2002
+*C.2004
+D.2007
+
+35. Which country recently announced its decision to withdraw from the WHO?
+
+A.North Korea
+*B.Argentina
+C.United States
+D.China
+
+36. International Mother Language Day is celebrated on:
+
+A.January 21
+*B.February 21
+C.December 21
 D.None of these
 
-22.What new law did Pakistan’s National Assembly pass on January 21, 2025?
+37. Which volcano recently erupted in Indonesia?
 
-A.Digital Media Regulation Act
-B.None of these
-C.Social Media Control Act
-*D.Social Media Protection and Regulation Law
+A.Mount Sinabung
+B.Mount Merapi
+C.Mount Semeru
+*D.Mount Dukono
 
-23.Which country had the highest economic losses from internet shutdowns in 2024?
+38. Which country will the World Governments Summit 2025 be held in?
 
-*A.Pakistan
-B.Nigeria
+A.USA
+B.Saudi Arabia
+*C.UAE
+D.France
+
+39. The US recently imposed 25% tariff on which economic bloc ?
+
+*A.European Union
+B.SAARC
+C.ASEAN
+D.BRICS
+
+40. Which  country has withdrawn from China's Belt and Road Initiative (BRI) ?
+
+*A.Panama
+B.Pakistan
 C.Iran
+D.Turkey
+
+41. Which of the following is a nonrenewable energy resource?
+
+A.solar
+B.methane
+C.hydroelectric
+*D.coal
+
+42. Which of the following is a renewable source of energy?
+
+A.Coal
+*B.Water
+C.Gas
 D.None of these
 
-24.What is the ranking of the PAF in the world’s most powerful air forces by Global Firepower?
+43.   What kind of energy is stored in a dry cell?
 
-A.5th
-B.6th
-*C.7th
-D.12th
+A.Solar
+*B.Chemical
+C.Electrical
+D.Mechanical
 
-25.Who resigned as Serbian Prime Minister after months of mass protests recently?
+44. The energy stored in a dam is
 
-A.Zoran Zivkovic
-B.Aleksandar Vucic
-C.Vucic Milos
-*D.Ana Brnabic
-
-26.Who discovered the Solar system ?
-
-*A. Copernicus
-B. Newton
-C. Galileo
-D. Kepler
-
-27.Second densest planet in the solar system is
-
-*A.Mercury
-B.Venus
-C.Mars
-D.Earth
-
-28.Mercury is the closest planet to the Sun, but Venus is hotter than Mercury because of its_________?
-
-A.Pressure
-B.axis
-*C.atmosphere
-D.surface
-
-29.The Word “Tsunami” belongs to which language?
-
-*A.Japanese
-B.Chinese
-C.English
-D.Urdu
-
-30.Mouna Loa is an example of?
-
-*A.Active volcano
-B.Extinct volcano
-C.Plateau in volcanic region
+A.Kinetic energy
+B.Electrical energy
+*C.Potential energy
 D.None of these
 
-31.The point where movement occurred which triggered the earthquake is the _______ .
+45. Wind energy is the __________ energy.
 
-A.dip
-B.epicenter
-*C.focus
-D.strike
+A.Potential
+B.Transverse
+*C.Kinetic
+D.Mechanical
 
-32.How many time zones are there in the world?
+46. A device which converts chemical energy into electrical energy is called 
 
-A.22
-B.12
-C.16
-*D.24
+A.motor
+B.generator
+C.moving-coil meter
+*D.battery
 
-33.Which of the following lines is considered to be zero degrees longitude?
+47. What is the fundamental principle of energy conversion?
 
-A.International date line
-*B.Prime Meridian
-C.American date line
-D.Latin date line
+A.Energy can be created from nothing.
+B.Energy can be destroyed and converted to matter.
+*C.Energy can neither be created nor destroyed, only transformed.
+D.Energy can be created by using other forms of energy.
 
-34.The largest planet of the solar system is___________?
+48. Which of the following is the largest organ in the human body? 
 
-A.Earth
-B.Mars
-*C.Jupiter
-D.Saturn
+A.Liver
+B.Brain
+C.Heart
+*D.Skin
 
-35.Which planet is much brighter in our solar system?
+49. What is number of bones in human body?
 
-A.Earth
-*B.Venus
-C.Mercury
-D.Jupiter
+A.306
+B.106
+*C.206
+D.215
 
-36.What is right order of planets, nearest to farther; starting from closest to Sun?
+50.  What is number of milk teeth in human body?
 
-*A.Mercury, Venus, Earth, Mars
-B.Mars, Mercury, Earth, Venus
-C.Mercury, Venus, Mars, Earth
+A.10
+*B.20
+C.30
+D.None of above
+
+51. Which is the largest internal organ in human body?
+
+A.Heart
+B.Kidney
+*C.Liver
+D.None of above
+
+52. The smallest bones in the human body are found in the...
+
+*A.Ears
+B.nose
+C.skull
+D.leg
+
+53. Which gland in the human body is called the master gland?
+
+A.Pancreas
+B.Thyroid
+*C.Pituitary
+D.Spleen
+
+54. Iodine is concentrated in which gland  ?
+
+A.Spleen
+B.Pituitary
+*C.Thyroid
+D.Pancreas
+
+ 
+55. Who first discovered how blood circulates in the human body?
+
+A.Edward Jenner
+B.Joseph Lister
+*C.William Harvey
+D.Gregor Mendel
+
+56. The first organ to be successfully transplanted was
+
+A.Heart
+B.Lung
+*C.Kidney
+D.Eye
+
+57. __________ are called the powerhouses of the cell?
+
+*A.Mitochondria
+B.Vesicles
+C.Lungs
+D.Liver
+
+58. The image formed on the retina of the human eye is?
+
+A.Real and upright
+*B.Real and inverted
+C.Virtual and upright
+D.Real and enlarge
+
+59. Nervous system is affected by the shortage of?
+
+*A.Sodium
+B.Carbon
+C.Sulphur
+D.Oxygen
+
+60. Which one of the following is known as graveyard of RBCs?
+
+A.Liver
+*B.Spleen
+C.Pancreas
 D.None of these
 
-37.Which is the largest among the following?
+61. The main constituent of hemoglobin is___________?
 
-A.Earth
-B.The Sun
-C.Solar System
-*D.Galaxy
-
-38.The planet of the solar system which has maximum numbers of Moon/Satellites?
-
-A.Jupiter
-B.Venus
-*C.Saturn
-D.Uranus
-39. The planet with the shortest rotation time around its axis is ____?
-
-*A.Jupiter
-B.Mars
-C.Earth
+A.Chlorine
+*B.Iron
+C.Calcium
 D.None of these
 
-40.What is the main composition of the sun?
+62. The longest bone in human body is___________?
 
-A. Oxygen and Ammonia
-*B. Hydrogen and  Helium
-C. Hydrogen and Oxygen
-D. Methane and Hydrogen
+A.Tibia
+*B.Femur
+C.Humerus
+D.Ulna
 
-41.Where do most of Asteroids lie?
+63. A person of which of the following blood groups is called a universal donor?
 
-*A. In asteroid belt between the orbits of Mars and Jupiter
-B. In asteroid belt between the orbits of Mars and Venus
-C. In asteroid belt between the orbits of Jupiter and Venus
-D. Everywhere in the sky
+*A.O
+B.AB
+C.A
+D.B
 
-42.Which ocean is called “Ring of Fire”?
+64. The red blood cells originate in the ____________?
 
-A. Indian Ocean
-*B. Pacific Ocean
-C. Atlantic Ocean
-D. Antarctic Ocean
+A.Brain
+B.Muscles
+C.Ligaments
+*D.Bone Marrow
 
-43.Which planet is much brighter in our solar system?
+65. The largest part of the human brain is 
 
-A. Earth
-*B. Venus
-C. Mercury
-D. Jupiter
-
-44.Which Planet is Called Great Red Spot?
-
-A. Neptune
-B. Mars
-*C. Jupiter
-D. Mercury
-
-45.Earth revolves around the sun from?
-
-A. East to West
-*B. West to East
-C. South to North
-D. North to South
-
-46.The second largest moon “titan” is belongs to which planet?
-
-A. Uranus
-B. Venus
-*C. Saturn
-D. Mercury
-
-47.Largest moon in our solar system is ________?
-
-A. Deimos
-*B. Ganymede
-C. Phobos
-D. Arche
-
-48.The most abundant element in the Earth’s crust is __________?
-
-*A. Oxygen
-B. Hydrogen
-C. Carbon Dioxide
-D. Silicon
-
-49.What is the main gas (78%) composing the Earth's atmosphere?
-A. Oxygen
-B. Carbon dioxide
-*C. Nitrogen
-D Argon
-
-50.Which is the only planet that rotates clockwise?
-
-A. Jupiter
-*B. Venus
-C. Earth
-D. Mercury
-
-51.Genuine : Authentic : : Mirage : _________?
-
-A. Hideout
-*B. Illusion
-C. Image
-D. Reflection
-
-52.Synonym of Abrogate
-
-A.elope
-B.gate-crash
-*C.abolish
-D.Refrain
-
-53.Synonym of ABOMINABLE
-
-*A.Detestable
-B.Odd
-C.Moderate
-D.Fine
-
-54.Synonym of Baffle 
-
-A.Confirm
-B.Clear
-*C.Confuse
+A.Medulla oblongata
+B.Cerebellum
+*C.Cerebrum
 D.None of these
 
-55. synonym of 'Callous' 
+66. A device used to measure potential difference is called ______?
 
-A.Kind
-*B.Heartless
-C.Polite
-D.All of these
-
-56.Synonym of DEFT
-
-*A.Skilful
-B.Vigorous
-C.Swift
-D.Deceitful
-
-57.Synonym of EGREGIOUS
-
-A.Progressive
-*B.Superficial
-C.Shocking
-D.Cowardly
-
-58.Aboriginal   :      :: Naïve :   unsophisticated
-
-A.learned
-B.arid
-*C.Native
-D.Alien
-
-59.Synonym of Baleful
-
-A.Useful
-B.Helpful
-*C.Harmful
-D.Doubtful
-
-60.Synonym of Cadaver 
-
-*A. Corpse
-B. Friendship
-C. Hatred
-D. Outline
-
-
-61.Antonym of abstemious
-
-A. Gluttonous
-*B. Greedy
-C. Hungry
-D. All of these
-
-62.Antonym of  camouflage
-
-A.Mask
-B.Conceal
-C.Disguise
-*D.Reveal
-
-63.Antonym of  abate
-
-*A.Increase
-B.Diminish
-C.Decline
-D.Trivial
-
-64.Antonym of abet
-
-A.risk
-*B.hinder
-C.aid
-D.pacify
-
-65.Antonym of De Jure
-
-A.by law
-B.by right
-*C.unlawful
-D.legally
-
-66.Antonym of  cadge
-
-A.beg
-B.borrow
-*C.give
-D.scrounge
-
-67.Antonym of absolve
-
-A.Execute
-B.Condemn
-*C.Both a&b
-D.Exculpate
-
-68.Antonym of  abseil
-
-A.descend
-*B.climb
-C.fall
-D.execute
-
-69.Antonym of  Abridge
-
-A.Subdue
-*B.Expand
-C.Encourage
-D.Elaborate
-
-70.Antonym of daft 
-
-A.silly
-B.foolish
-*C.intelligent
-D.scare
-
-71. he main occupation of the people of the Indus valley civilization was_____________?
-
-*A. Agriculture
-B. Cattle rearing
-C. Hunting
-D. Trade
-
-72.The Script Of Indus Valley Civilization Was_________?
-
-A.Persian
-*B.Dravidian
-C.Sanskrit
+A.Galvanometer
+B.Ammeter
+*C.Voltmeter
 D.None of these
 
-73.The Great Bath of the Indus Valley Civilization was discovered in___________?
+67. What is the weight of the average human brain?
 
-A.Harappa
-B.Lothal
-*C.Mohenjodaro
-D.Ropar
+*A.1.2 to 1.4 Kg
+B.1.4 to 1.8 Kg
+C.2.1 to 2.8 Kg
+D.3.1 to 3.4 Kg
 
-74.How many years slave dynasty ruled India?
+68. The volume of Blood in a Human body to be approximately _________ of body weight?
 
-A.82
-*B.84
-C.86
+A.6%
+*B.7%
+C.8%
+D.9%
+
+69.Which Khulifa-e-Rashid announced the war against the people who were unwilling to pay zakat?
+
+*A.Hazrat Abu Bakar Siddique (R.A)
+B.Hazrat Umar Farooq (R.A)
+C.Hazrat Usman Ghani (R.A)
+D.Hazrat Ali (R.A)
+
+70.How many prayers were initially made obligatory in Shab-e-Meraj?
+
+A.15
+B.10
+C.20
+*D.50
+
+71. Which book was revealed by Hazrat Dawood (a.s)?
+
+A.Tawrat (Torah)
+*B.Zabur (Psalms)
+C.Injeel (Gospel)
+D.Quran
+
+72. How many Takbeers are in Namaz-e-Janaza?
+
+*A.Six
+B.Four
+C.Two
+D.One
+
+73. Who are not entitled to get Zakat?
+
+*A.Parents, Husband, wife and children
+B.Uncle, Sister, and Hisband
+C.Brother, Nephew and children
+D.Parents, brother and wife
+
+74. Number of heads for distribution of Zakat is ______.
+
+A.7
+B.9
+C.10
+*D.8
+
+75. The literal meaning of Zakat is ______.
+
+A.Adultration
+*B.Purification
+C.Spending
+D.Saving
+
+76. Last Mughal Empire was___________?
+
+A.Babar
+B.Shah Jahan
+*C.Bahadur Shah II
+D.Jahangir
+
+77. Beginning of Mughal empire started after defeat of__________?
+
+*A.Ibrahim Lodhi
+B.Momal Lodhi
+C.Ranjeet Lodhi
 D.None of these
 
-75.Which Slave Ruler Died While Playing Polo?
+78. Which Mughal Emperor transferred the Mughal Capital from Agra to Delhi?
 
-*A. Qutb-ud-Aibak
-B. Aram Shah
-C. Shams-ud-Din Iltutmish
-D. Rukn-ud-Din Feroz
+A.Jahangir
+B.Aurangzeb
+*C.Shah jahan
+D.Bahadur Shah
 
-76.What is called as the most brutal sin (“Zulm-e-Azeem”) by the Holy Quran?
+79. which Mughal emperor built the Agra fort?
 
-A.Murder
-*B.Shirk
-C.Adultery
-D.Quitting Salah
 
-77.Which prophet of Allah is called Abu Al-Bashar?
+A.Aurangzeb
+B.Shah jahan
+*C.Akbar
+D.Bahadur shah zafar
 
-A. Hazrat Nooh (AH)
-B. Hazrat Ibrahim (AH)
-*C. Hazrat Adam (AH)
-D. Hazrat Ayub (AH)
+80. Mughal emperor Akbar enforced Din-I-Ilahi in____________?
 
-78.Rooh Ullah is a title of which prophet?
+A.1581
+*B.1582
+C.1583
+D.1584
 
-A. Hazrat IBRAHIM (A.S)
-B. HAZRAT DAUD (A.S)
-*C. HAZRAT ESA (A.S)
-D. HAZRAT MOOSA (A.S)
+81. The biggest road constructed by Sher Shah Suri reaches from Peshawar to ______ is known as Grand Trunk (GT) Road.
 
-79.What was the relation between Prophet Moosa (A.S) and Prophet Haroon (A.S)?
-
-A. Prophet Moosa (A.S) was father of Prophet Haroon (A.S)
-B. Prophet Haroon (A.S) was father of Prophet Moosa (A.S)
-*C. Brothers
-D. Cousins
-
-80.What is the present shape of Quran?
-A.Toukeeli
-B.Tawakkal
-*C.Taufeeqi
+*A.Bengal
+B.Delhi
+C.Mumbai
 D.None of these
 
-81.Habibullah is the title of which prophet?
+82. Total number of Mughal emperor ?
 
-A.Hazrat Ibrahim (AS)
-B.Hazrat Moosa (AS)
-C.Hazrat Younis (AS)
-*D.Hazrat Muhammad (PBUH)
+A.20
+*B.21
+C.22
+D.None of These
 
-82.Injeel means________________?
-A. Light
-B. Sign
-C. Peace
-*D. Good news
+83. Badshahi mosque at Lahore in 1673 was made by?
 
-83.In the Holy Quran, Rooh-ul-Ameen is the title of _____?
+A.Shah Jahan
+*B.Aurangzeb
+C.Akbar
+D.None of these
 
-A. Angel Michael
-*B.Angel Jibril
-C.Angel Israfil
-D.Angel Azrael
+84. The Mughal emperor who allowed a chain with bells to be hung outside his palace was_________?
 
-84.When ?ve prayers became Farz?
-A. 12th Nabvi
-*B. 10th Nabvi
-C. 13th Nabvi
-D. 11th Nabvi
+A.Akbar
+*B.Jahangir
+C.Shah Jahan
+D.None of these
 
-85.How many prayers were initially made obligatory in Shab-e-Meraj?
-A. 3
-B. 4
-C. 10
-*D. 50
+85. The first Mughul emperor Babar’s tomb is situated in_________?
 
-86.When Wazu (Ablution) was ordered?
+A.Agra
+B.Delhi
+C.Lahore
+*D.Kabul
 
-A.2 A.H
-B.3 A.H
-C.4 A.H
-*D.5 A.H
+86.Humayun-nama was written by_____________?
 
-87.First Azan was called out in_______ A.H.
-A. 3 A.H.
-B. 2 A.H.
-*C. 1 A.H.
-D. 4 A.H.
+A.Abul Fazal
+B.Humayun
+C.Badauni
+*D.Gulbadan Begum
 
-88.Salat-e-Istasqa is offered on the occasion of?
-*A. Shortage of Rain
-B. Solar eclipse
-C. Famin
-D. None of them
+87. Sher Shah Suri is well-known for his___________?
 
-89.When was the Qiblah changed?
-*A. 2nd Hijri
-B. 3rd Hijri
-C. 4th Hijri
-D. Ist Hijri
+A.Education System
+B.Military System
+*C.Land Revenue System
+D.Both A & C
 
-90.In which Hijri year Zakat was imposed?
-*A. 2 Hajri
-B. 3 Hajri
-C. 4 Hajri
-D. 5 Hajri
+88. Battle of Chausa was fought between Humayun and Sher Shah Suri at Chausa, near Bihar in which year?
 
-91.How many times word zakat is uesd in Makki surahs?
-*A. 22 
-B. 21
-C. 19
-D. 23
+*A.1539
+B.1540
+C.1545
+D.1555
 
-92.Which Khulifa-e-Rashid announced the war against the people who were unwilling to pay zakat?
-*A. Hazrat Abu Bakar Siddique (R.A)
-B. Hazrat Umar Farooq (R.A)
-C. Hazrat Usman Ghani (R.A)
-D. Hazrat Ali (R.A)
+89. Real name of Sher Shah Suri was__________?
 
-93.Fasting was made obligatory in ______.
-*A. 2 A.H
-B. 5 A.H
-C. 6 A.H
-D. 1 A.H
+*A.Farid khan
+B.Khurram
+C.Salim
+D.None
 
-94.First Ashra (First ten days of Ramadan) is known as?
-*A. Days of Mercy
-B. Days of Forgiveness
-C. Days to seek refuge from Hellfire
-D. None of these
+90.   Who was the first Governor General of Bengal?
 
-95.when was first Hajj performed by muslims
-*A. 9 Hajri
-B. 10 Hijri
-C. 11 Hijri
-D. 8 Hijri
+*A.Warren Hastings
+B.Robert Clive
+C.William Bentinck
+D.Lord Cornwallis
 
-96.How many Hajj were performed by Hazrat Muhammad (P.B.U.H)?
-*A. One
-B. Two
-C. Three
-D. Four
+91.  Who was the first Governor General of India?
 
-97.How much camels were sacrificed on the occasion of Hajj by Hazrat Muhammad (P.B.U.H)?
-A. 60 camels
-*B. 63 camels
-C. 65 camels
-D. 67 camels
+A.Warren Hastings
+*B.William Bentick
+C.Lord Delhousie
+D.Lord Canning
 
-98.When did Holy prophet (SAW) go to perform Hajj?
-*A. 10th Hijri
-B. 9th Hijri
-C. 11th Hijrid
-D. 8th Hijri
+92. The title of Governor General was changed to Viceroy in the year :
 
-99.How many cows render are to pay Zakat?
+*A.1858 AD
+B.1880 AD
+C.1840 AD
+D.1860 AD
 
-*A. 30-40
-B. 40-50
-C. 50-55
-D. 55-57
+93. Who created a permanent police force in India?
 
-100. On gold falqaram (nisab) is____________?
-*A. 7 1/2 Tolas
-B. 8 1/2 Tolas
-C. 9 1/2 Tolas
-D. 10 1/2 Tolas
+A.Lord Warren Hastings
+B.Lord Hastings
+C.Lord Wellesley
+*D.Lord Cornwallis
+
+94. The Gandhi-irwin Pact was signed in___________?
+
+A.1930
+B.1935
+C.1932
+*D.1931
+
+95. The Cripps Mission visited India in?
+
+*A.1942
+B.1944
+C.1947
+D.1940
+
+96. Sir Syed Ahmed Khan founded Scientific Society in___________?
+
+A.1858
+B.1860
+*C.1864
+D.1867
+
+97. Shah Walliullah was born in the year:
+
+A.1700
+*B.1703
+C.1705
+D.1707
+
+98. Who wrote the Persian translation of Holy Quran at first?
+
+A.Al-Ghazzali
+*B.Shah walliullah
+C.Ibn-e-Khaldun
+D.Al-Mawardi
+
+99. Shaykh Ahmad Sirhindi’s line of Sufism was:
+
+A.Qadiriya
+B.Suhrawardiya
+C.Chishtiyya
+*D.None of these
+
+100. First battle of Panipat began on _________.
+
+A.1524
+*B.1526
+C.1529
+D.1522
+
 
 
 
