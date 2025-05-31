@@ -2,707 +2,947 @@
     const quizText = `
 
 [TIMER: 80]
-1.Synonym of  ebullient ?
 
-A.gloomy
-*B.exuberant
-C.sad
-D.apathetic
+1.The revolt of 1857 started first at__________________
+*A. Meeruth
+B. Delhi
+C. Lahore
+D. Maysore
 
-2.  Synonym of  ecstasy?
+2.In 1861 which Act was passed?
+A. Independence Act
+B. Settlement Act
+*C. Indian Councils Act
+D. Reforms Act
 
-A.Remorse
-B.Grimness
-*C.Bliss
-D.None of these
+3.Urdu-Hindi Controversy started in___________?
+A. 1837
+*B. 1867
+C. 1906
+D. 1910
 
-3.Synonym of facade ?
+4.Who banned urdu in 1871 in bengal?
+A.Lord Hastings 
+B.Warren Hastings
+*C.George Campbell
+D. Hardinge
 
-A.Aembankment
-B.cosmetic
-C.long arcade
-*D.building front
 
-4. Synonym of facile ?
+5.Who was the Viceroy of India at the time of partition of Bengal?
+*A. Lord Curzon
+B. Lord Wavell
+C. Lord Minto
+D. Lord Algan
 
-A.Cheerful
-B.Clean
-*C.effortless
-D.Humorous
+6.The annulment of partition of Bengal took place ?
+A. 1906
+B. 1908
+C. 1909
+*D. 1911
 
-5.  Synonym of factitious ?
+7.Which Hindu leader started a movement against the partition of Bengal ?
+*A. Surindar Nath Beneijee
+B. Raja Ram Mohn Ray
+C. Dayananda Saraswati
+D. None of these
 
-*A.fake
-B.real
-C.fact
-D.strong
+8.The main demand of Simla deputation was __________ ?
+A. Funds for establishing a university for Muslims
+B. Equal rights and justice for Muslims
+C. Equal employment opportunities
+*D. Separate Electorate
 
-6. Synonym of gainsay ?
+9.The constitution of All India Muslim League was drafted by a committee in 1907 headed by _________,which is also called green book?
+*A. Maulana Muhammad Ali Jauhar
+B. Nawab Mohsin-ul-Mulk
+C. Nawab Viqar-ul-Mulk
+D. Justice Shah Din
 
-A.Suppress
-*B.contradict
-C.Yielding
-D.animation
+10.Who presided over first session of the Muslim League?
 
-7. Synonym of hackneyed ?
+A.Agha Khan
+*B.Sir Adamjee Pir Bhai
+C.Maulana Muhammad Ali Johar
+D.Liaqat Al Khan
 
-A.Fresh
-B.Spotless
-C.Dip
-*D.Common
+11.Which of the following leaders was involved in the Lucknow Pact? 
+A.Mahatma Gandhi
+B.Jawaharlal Nehru
+*C.Bal Gangadhar Tilak
+D.Subhas Chandra Bose 
 
-8.Synonym of haggard ?
+12. Who ordered the firing at Jallianwala Bagh?
 
-A.wise
-B.sluggish
-*C.exhausted
-D.witty
+*A. General Dyer
 
-9.Synonym of halcyon days ?
+B. Mahatma Gandhi
 
-*A.Golden or peaceful time
-B.shimmering
-C.exhausting
-D.turbulent
+C. Jawaharlal Nehru
 
-10. Synonym of hallowed ?
+D. Winston Churchill
 
-A.Historical
-B.Decayed
-*C.Sacred
-D.Ancient
 
-11.  The idiom: The Alpha and Omega means?
+13.Report of Montagu - Chelmsford reforms was enacted in year ____?
+A. 1917
+*B. 1919
+C. 1921
+D 1923
 
-A.A beautiful object
-B.A good man
-C.Something divine
-*D.Beginning and end
+14.In March 1920, an Indian Khilafat Deputation visited England. The Deputation was headed by?
+A. Sir Aga Khan
+B. Mohsin-ul-Mulk
+*C. Maulana M.A. Johar
+D. Sir M. Shafi
 
-12.  The idiom: “Apple of discord” means?
 
-A.A person that is not too smart; a person that acts stupid
-B.To further a loss with sarcasm or indignity; to worsen an unfavorable situation
-C.To speak the truth, even to the point of being blunt and rude
-*D.reason for quarrel
+15.Viceroy of India during Simon Commission was___________?
+*A. Lord Irwin
+B. Lord Canning
+C. Lord Mountbaton
+D. None
 
-13. choose the right meaning of idiom ” In the blue funk ” ?
 
-A.To get rid off
-*B.In a state of terror
-C.To be against person wishes
-D.To make a challenge.
 
-14. choose the correct meaning of idiom ” Leave in the Lurch” :
+16.Which report provided that India should be given the status of Dominion on a unity basis with a parliamentary form of government ?
 
-*A.To leave someone in difficulty
-B.To assist someone in adverse circumstances
-C.To meet suddenly with someone
-D.A difficult situation
+A. Leaders Report
+B. Political Report
+*C. Nehru Report
+D. Indians Report
 
-15.  Idiom “Between Scylla and Charybdis” means?
 
-A.Between two lovers
-B.Between two parties
-C.Between two Happy Moments
-*D.Between two dangers/evils
+17.Quaid-e-Azam gave his Fourteen Points in reaction to_________?
+A. Simon Commission
+*B. Nehru report
+C. British people
+D. None of these
 
-16. To be at daggers drawn means ?
 
-*A.To be bitter enemy
-B.Strong Friendship
-C.Complete Agreement
-D.None of these
 
-17. The idiom 'Add fuel to the fire' means ?
 
-A.Calm down
-B.Tie the know
-*C.to make a problem worse
-D.None of these
+18.Allama Muhammad Iqbal delivered his famous Allahabad Address in?
+A. 1929
+*B. 1930
+C. 1931
+D. 1932
 
-18. Have an Axe to Grind means?
 
-A.To use axe frequently
-*B.Selfish motive
-C.To have a dispute with someone
-D.To be fair with someone
+19.The second Round Table Conference was held in London from___________?
+A. 12 November 1930 to 19 January 1931
+*B. 7 September 1931 to 1 December 1931
+C. 17 November 1932 – 24 December 1932)
+D. None of the above
 
-19.Antonym of Gad ?
+20.Government of India Act 1935 divided the country into how many provinces?
+A. 7
+B. 9
+*C. 11
+D. 13
 
-*A.stay
-B.travel
-C.leave
-D.stop
 
-20.Antonym of haggle ?
+21.How many paragraphs were in lahore resolution?
+A. 2
+B. 3
+*C. 5
+D. None of these
 
-A.argue
-B.barter
-*C.comply
-D.fight
 
-21.Antonym of gaffe ?
 
-*A.Accuracy
-B.Damage
-C.blunder
-D.careless
 
-22.Antonym of edacious ?
+22.The Cripps Mission arrived in Delhi in?
+A. 1947
+B. 1956
+C. 1946
+*D. 1942
 
-*A.generous
-B.greedy
-C.selfish
-D.none of these
+23. In which year was the Wavell Plan introduced?
+A. 1942
 
-23.Antonym of ecumenical ?
+*B. 1945
 
-A.spiritual
-B.cosmic
-C.secular
-*D.particular
+C. 1946
 
-24.Antonym of eccentric ?
+D. 1947
 
-*A.Conventional
-B.unusual
-C.odd
-D.deviating from the norm
 
-25.Antonym of ebb ?
+24.Who represented the Indian National Congress at the Simla Conference?
 
-A.fade
-B.weaken
-C.retreat
-*D.progress
+A.Jawaharlal Nehru
 
-26. What is the rank of Pakistan in Democracy Index 2024?
+B. Subhas Chandra Bose
 
-A.120th
-*B.124th
-C.128th
-D.135th
+*C. Maulana Abul Kalam Azad
 
-27. Which country’s President reached Pakistan on a two-day official visit from 12-13 February 2025?
+D. Sardar Vallabhbhai Pate
 
-A.UAE
-*B.Türkiye
-C.China
-D.Iran
 
-28. What is the duration of the Aman 2025 exercise?
+25. Who were the members of the Cabinet Mission?
 
-*A.February 7 to 11
-B.February 5 to 10
-C.February 10 to 15
-D.None of these
+A. Cripps, Mountbatten, and Wavell
 
-29. Pakistan’s (SUPARCO) has partnered with China’s (CNSA) for the lunar mission, scheduled for launch in 2028, named?
+B. Attlee, Churchill, and Jinnah
+*C. Cripps, Pethick-Lawrence, and Alexander
 
-A.Tianwen-2
-*B.Chang’e-8
-C.Yutu-2
-D.Xuntian
+D. Nehru, Azad, and Patel
 
-30. How many countries are participating in Aman 2025?
 
-A.Over 50
-*B.Over 60
-C.Over 70
-D.None of these
+26.Which British Prime Minister announced the decision to grant independence to India by June 1948?
 
-31. Who has become the first female manager of Pakistan Cricket Board (PCB)?
+A. Winston Churchill
 
-A.Sumbal Imtiaz
-B.Fatima Noor
-C.Maryam Khan
-*D.Hina Munawar
+*B. Clement Attlee
 
-32. Which country did Pakistan hold the 3rd Round of Bilateral Political Consultations with in Tashkent on February 5, 2025?
+C. Harold Macmillan
 
-A.Kazakhstan
-*B.Uzbekistan
-C.Turkmenistan
-D.Kyrgyzstan
+D. Ramsay MacDonald
 
-33. As per recent UN report, What is the fertility rate of Pakistan?
+27.4. Who presided over the first session of the Constituent Assembly before Jinnah's election?
+A. Liaquat Ali Khan
 
-A.2 live births per woman
-B.2.6 live births per woman
-*C.3.6 live births per woman
-D.5 live births per woman
+*B. Jogendra Nath Mandal
 
-34. The 2025 Tri-Nation Series was the first tri-nation series hosted by Pakistan since:
+C. Quaid-e-Azam
 
-A.2000
-B.2002
-*C.2004
-D.2007
+D. Muhammad Zafarullah Khan
 
-35. Which country recently announced its decision to withdraw from the WHO?
+28.Who presented the Objective Resolution in the Constituent Assembly?
+A. Muhammad Ali Jinnah
 
-A.North Korea
-*B.Argentina
-C.United States
-D.China
+*B. Liaquat Ali Khan
 
-36. International Mother Language Day is celebrated on:
+C. Khawaja Nazimuddin
 
-A.January 21
-*B.February 21
-C.December 21
-D.None of these
+D. Iskander Mirza
 
-37. Which volcano recently erupted in Indonesia?
+29. In which year was the Bogra Formula introduced?
 
-A.Mount Sinabung
-B.Mount Merapi
-C.Mount Semeru
-*D.Mount Dukono
+A. 1949
 
-38. Which country will the World Governments Summit 2025 be held in?
+*B. 1953
 
-A.USA
-B.Saudi Arabia
-*C.UAE
-D.France
+C. 1956
 
-39. The US recently imposed 25% tariff on which economic bloc ?
+D. 1958
 
-*A.European Union
-B.SAARC
-C.ASEAN
-D.BRICS
+30.How many Schedules were there in the 1956 Constitution of Pakistan?
+A. 7
 
-40. Which  country has withdrawn from China's Belt and Road Initiative (BRI) ?
+B. 8
 
-*A.Panama
-B.Pakistan
-C.Iran
-D.Turkey
+C. 10
 
-41. Which of the following is a nonrenewable energy resource?
+*D. 6
 
-A.solar
-B.methane
-C.hydroelectric
-*D.coal
+31.What is the meaning of the idiom "ever and anon"?
+A. All the time
 
-42. Which of the following is a renewable source of energy?
+*B.Seldom
+C. Never
 
-A.Coal
-*B.Water
-C.Gas
-D.None of these
+D. Immediately
 
-43.   What kind of energy is stored in a dry cell?
+32.What does the idiom "at the drop of a hat" mean?
 
-A.Solar
-*B.Chemical
-C.Electrical
-D.Mechanical
+A. After thinking for a while
 
-44. The energy stored in a dam is
+*B. Without delay or hesitation
 
-A.Kinetic energy
-B.Electrical energy
-*C.Potential energy
-D.None of these
+C. When it's convenient
 
-45. Wind energy is the __________ energy.
+D. With great effort
 
-A.Potential
-B.Transverse
-*C.Kinetic
-D.Mechanical
+33.What does the idiom "a dime a dozen" mean?
 
-46. A device which converts chemical energy into electrical energy is called 
 
-A.motor
-B.generator
-C.moving-coil meter
-*D.battery
+A. Something is rare and valuable.
 
-47. What is the fundamental principle of energy conversion?
+*B. Something is easy to find and not special.
 
-A.Energy can be created from nothing.
-B.Energy can be destroyed and converted to matter.
-*C.Energy can neither be created nor destroyed, only transformed.
-D.Energy can be created by using other forms of energy.
+C. Something is expensive.
 
-48. Which of the following is the largest organ in the human body? 
+D. Something is difficult to obtain.
 
-A.Liver
-B.Brain
-C.Heart
-*D.Skin
 
-49. What is number of bones in human body?
+34.What does the idiom "at sixes and sevens" mean?
 
-A.306
-B.106
-*C.206
-D.215
 
-50.  What is number of milk teeth in human body?
+*A. To be in a state of confusion or disorder.
 
-A.10
-*B.20
-C.30
-D.None of above
+B. To be very organized and efficient.
 
-51. Which is the largest internal organ in human body?
+C. To be in a position of authority.
 
-A.Heart
-B.Kidney
-*C.Liver
-D.None of above
+D. To be successful and confident.
 
-52. The smallest bones in the human body are found in the...
 
-*A.Ears
-B.nose
-C.skull
-D.leg
+35. What does the idiom "to be all agog" mean?
 
-53. Which gland in the human body is called the master gland?
 
-A.Pancreas
-B.Thyroid
-*C.Pituitary
-D.Spleen
+A. To be sad or disappointed.
 
-54. Iodine is concentrated in which gland  ?
+*B. To be excited or eager about something.
 
-A.Spleen
-B.Pituitary
-*C.Thyroid
-D.Pancreas
+C. To be confused or unsure.
 
+D. To be angry or upset.
+
+
+36.What does the idiom "beard the lion in his den" mean?
+
+
+A. To avoid confrontation with a powerful person.
+
+*B. To face a dangerous or powerful person in their own territory.
+
+C. To make friends with someone in power.
+
+D. To express fear in the face of authority.
+
+
+37.What does the idiom "the be-all and end-all" mean?
+
+
+A. Something that is of little importance.
+
+*B. Something that is the most important or ultimate.
+
+C. Something that is easy to obtain.
+
+D. Something that is confusing or hard to understand.
+
+
+38. What does the idiom "bolt from the blue" mean?
+
+
+A. Something planned and expected.
+
+*B. Something sudden and unexpected.
+
+C. Something easy to predict.
+
+D. Something that happens slowly over time.
+
+
+39. What does the idiom "break the ice" mean?
+
+
+A. To cause trouble in a peaceful situation.
+
+B. To end a relationship suddenly.
+
+*C. Silence
+
+D. To go on a vacation during winter
+
+
+40. If someone says, "After years of fighting, the two brothers finally buried the hatchet," what does it mean?
+
+
+A. They started fighting again.
+
+B. They avoided each other completely.
+
+*C. They forgave each other and made peace.
+
+D. They moved to different cities.
+
+
+41. If someone says, "Her English has improved by leaps and bounds," what does it imply?
+
+
+A. Her English has gotten worse.
+
+B. Her progress has been very slow.
+
+*C. Her English has improved rapidly.
+
+D. She no longer studies English.
+
+
+42.What does the idiom "a bluestocking" mean?
+
+
+A. A woman who is very fashionable
+
+B. A woman who enjoys shopping
+
+*C. A woman with strong academic or literary interests
+
+D. A woman who avoids education
+
+
+43.If someone says, "There’s been bad blood between the two neighbors for years," what does it suggest?
+
+
+A. The neighbors have been good friends
+
+B. The neighbors are indifferent to each other
+
+*C. The neighbors have a long history of conflict or dislike
+
+D. The neighbors recently met
+
+
+44.Choose the word that is closest in meaning to "ignite":
+
+
+A. Put out
+
+*B. Inflame
+C. Destroy
+
+D. Cool
+
+45.Which of the following is a synonym of "imbecile"?
+A. Genius
+
+*B. Fool
+
+C. Scholar
+
+D. Leader
+
+46.Which of the following is a synonym of "knave"?
+
+
+A. Gentleman
+
+*B. Dishonest
+C. Hero
+
+D. Scholar
+
+
+46.What word is closest in meaning to "laborious"?
+
+
+A. Effortless
+
+B. Joyful
+
+*C. Difficult
+
+D. Simple
+
+
+48.What word is closest in meaning to "magnanimous"?
+
+
+A. Arrogant
+
+B. Jealous
+
+C. Stingy
+*D. Generous
+
+
+
+49.Which of the following words is NOT an antonym of "malafide"?
+
+
+A. Genuine
+
+B. Honest
+
+C. Truthful
+
+*D. Treacherous
+
+
+50.What word is the opposite of "Machiavellian"?
+
+
+*A. Truthful
+B. Manipulative
+
+C. Deceptive
+
+D. Cunning
+
+
+51.Which of the following is a synonym of "immaculate"?
+
+
+A. Dirty
+
+*B. Flawless
+
+C. Messy
+
+D. Imperfect
+
+52.Which of the following is an antonym of "lackluster"?
+
+
+*A. Exciting
+
+B. Dull
+C. Uninspiring
+
+D. Dreary
+
+
+53.Which of the following is an antonym of "laggard"?
+
+
+*A. Diligent
+
+B. Slow
+
+C. Lazy
+D. Delayed
+
+54.Choose the best antonym for "immense":
+
+
+A. Colossal
+
+*B. Minuscule
+
+C. Expansive
+
+D. Monumental
+
+55.Which of the following is an antonym of "knotty"?
+
+
+A. Confusing
+
+*B. unproblematic
+C. Tangled
+
+D. Unclear
+
+56.How many Takbeers are recited in the Eid prayer (Namaz Eid)?
+
+
+A. Four
+
+B. Five
+
+*C. Six
+D. Seven
+
+
+57.On which day of Hajj do pilgrims stay in Mina?
+
+
+A. 7th Zilhaj
+
+*B. 8th Zilhaj
+
+C. 9th Zilhaj
+
+D. 10th Zilhaj
+
+
+58.Which Surah is the longest in the Quran?
+
+
+A. Surah Al-Fatiha
+
+B. Surah Al-Imran
+C. Surah Al-Ahzab
+
+*D. Surah Al-Baqarah
+
+
+
+
+59.How many ayat (verses) were in the first wahi (revelation) of the Quran?
+
+
+*A. 5
+B. 3
+C. 7
+
+D. 10
+
+60.Which is the first Surah to be revealed completely to the Prophet Muhammad (PBUH)?
+
+
+*A. Surah Al-Fatiha
+
+B. Surah Al-Alaq
+
+C. Surah Al-Baqarah
+
+D. Surah Al-Ikhlas
+
+
+61.Which Surah is called "Ummul Kitab"?
+
+
+A. Surah Al-Baqarah
+
+*B. Surah Al-Fatiha
+
+C. Surah Al-Ikhlas
+
+D. Surah Al-Alaq
+
+
+
+62.Which Surah of the Quran contains "Bismillah" twice?
+
+
+A. Surah Al-Fatiha
+
+B. Surah Al-Tawbah
+C. Surah Al-Baqarah
+
+*D. Surah An-Naml
+
+
+63.Which Surah of the Quran does not begin with "Bismillah"?
+
+
+*A. Surah At-Tawbah
+
+B. Surah Al-Anfal
+
+C. Surah Al-Fath
+
+D. Surah Al-Kahf
+
+64.How many Surahs in the Quran begin with ?uruf al-Muqatta?at?
+
+A. 14
+
+B. 20
+
+*C. 29
+
+D. 30
+
+65.When did the last Wahi (revelation) of the Quran come to the Prophet Muhammad (PBUH)?
+
+A. 12th Rabi-ul-Awal
+
+B. 27th Ramadan
+
+*C. 9th Zilhaj 
+D. 10th Muharram
+
+66. Which country won the ICC Champions Trophy 2025?
+
+
+A. Australia
+
+*B. India
+
+C. New Zealand
+
+D. South Africa
+
+
+
+67.Who was named Player of the Match in the final?
+
+
+A. Virat Kohli
+
+B. Shubman Gill
+C. Kane Williamson
+
+*D. Rohit Sharma
+
+
+
+68.How many ICC Champions Trophy titles has India won as of 2025?
+
+
+A. 2
+
+*B. 3
+
+C. 4
+
+D. 5
+
+
+69.When was the first ICC Champions Trophy held?
+
+*A. 1998
  
-55. Who first discovered how blood circulates in the human body?
+B. 1996
+C. 1999
 
-A.Edward Jenner
-B.Joseph Lister
-*C.William Harvey
-D.Gregor Mendel
+D. 2000
 
-56. The first organ to be successfully transplanted was
 
-A.Heart
-B.Lung
-*C.Kidney
-D.Eye
+70.What is the motto of the United Nations (UN)?
 
-57. __________ are called the powerhouses of the cell?
+A. Peace and Progress
 
-*A.Mitochondria
-B.Vesicles
-C.Lungs
-D.Liver
+B. Unity in Diversity
 
-58. The image formed on the retina of the human eye is?
+*C. It’s Your World
 
-A.Real and upright
-*B.Real and inverted
-C.Virtual and upright
-D.Real and enlarge
+d. Together We Stand
 
-59. Nervous system is affected by the shortage of?
+71.What is the motto of the European Union (EU)?
 
-*A.Sodium
-B.Carbon
-C.Sulphur
-D.Oxygen
+A. One Europe, One People
 
-60. Which one of the following is known as graveyard of RBCs?
+*A. United in Diversity
 
-A.Liver
-*B.Spleen
-C.Pancreas
-D.None of these
+C. Together for Peace
 
-61. The main constituent of hemoglobin is___________?
+D. Harmony in Union
 
-A.Chlorine
-*B.Iron
-C.Calcium
-D.None of these
 
-62. The longest bone in human body is___________?
+72.Where is the headquarters of the IMF located?
 
-A.Tibia
-*B.Femur
-C.Humerus
-D.Ulna
+A. Geneva, Switzerland
 
-63. A person of which of the following blood groups is called a universal donor?
+B. New York, USA
 
-*A.O
-B.AB
-C.A
-D.B
+C. Paris, France
 
-64. The red blood cells originate in the ____________?
+*D. Washington, D.C., USA
 
-A.Brain
-B.Muscles
-C.Ligaments
-*D.Bone Marrow
+73.What is the primary purpose of the IMF?
 
-65. The largest part of the human brain is 
+A. To regulate oil prices
 
-A.Medulla oblongata
-B.Cerebellum
-*C.Cerebrum
-D.None of these
+B. To provide long-term development loans
 
-66. A device used to measure potential difference is called ______?
+*C. To promote international monetary cooperation and exchange stability
 
-A.Galvanometer
-B.Ammeter
-*C.Voltmeter
-D.None of these
+D. To manage global environmental programs
 
-67. What is the weight of the average human brain?
 
-*A.1.2 to 1.4 Kg
-B.1.4 to 1.8 Kg
-C.2.1 to 2.8 Kg
-D.3.1 to 3.4 Kg
+74.How many players are there in a standard football (soccer) team?
 
-68. The volume of Blood in a Human body to be approximately _________ of body weight?
+A. 9
 
-A.6%
-*B.7%
-C.8%
-D.9%
+B. 10
 
-69.Which Khulifa-e-Rashid announced the war against the people who were unwilling to pay zakat?
+C. 12
 
-*A.Hazrat Abu Bakar Siddique (R.A)
-B.Hazrat Umar Farooq (R.A)
-C.Hazrat Usman Ghani (R.A)
-D.Hazrat Ali (R.A)
+*D. 11
 
-70.How many prayers were initially made obligatory in Shab-e-Meraj?
 
-A.15
-B.10
-C.20
-*D.50
+75.How many players are there in a volleyball team on the court at one time?
 
-71. Which book was revealed by Hazrat Dawood (a.s)?
+A. 5
 
-A.Tawrat (Torah)
-*B.Zabur (Psalms)
-C.Injeel (Gospel)
-D.Quran
+*B. 6
 
-72. How many Takbeers are in Namaz-e-Janaza?
+C. 7
 
-*A.Six
-B.Four
-C.Two
-D.One
+D. 8
 
-73. Who are not entitled to get Zakat?
+76.Where is the headquarters of the World Health Organization (WHO) located?
 
-*A.Parents, Husband, wife and children
-B.Uncle, Sister, and Hisband
-C.Brother, Nephew and children
-D.Parents, brother and wife
+*A. Geneva, Switzerland
+ 
+B. Paris, France
+C. Rome, Italy
 
-74. Number of heads for distribution of Zakat is ______.
+D. London, UK
 
-A.7
-B.9
-C.10
-*D.8
+77.Where is the headquarters of the International Court of Justice (ICJ) located?
 
-75. The literal meaning of Zakat is ______.
+A. Geneva, Switzerland
 
-A.Adultration
-*B.Purification
-C.Spending
-D.Saving
+*B. The Hague, Netherlands
 
-76. Last Mughal Empire was___________?
+C. Paris, France
 
-A.Babar
-B.Shah Jahan
-*C.Bahadur Shah II
-D.Jahangir
+D. New York, USA
 
-77. Beginning of Mughal empire started after defeat of__________?
 
-*A.Ibrahim Lodhi
-B.Momal Lodhi
-C.Ranjeet Lodhi
-D.None of these
+78.What is the main objective of BRICS?
 
-78. Which Mughal Emperor transferred the Mughal Capital from Agra to Delhi?
+A. To promote military cooperation
 
-A.Jahangir
-B.Aurangzeb
-*C.Shah jahan
-D.Bahadur Shah
+B. To increase political influence
 
-79. which Mughal emperor built the Agra fort?
+*C. To foster economic growth and development in member countries
 
+D. To promote global democracy
 
-A.Aurangzeb
-B.Shah jahan
-*C.Akbar
-D.Bahadur shah zafar
+79.How many founding members were there in ASEAN?
 
-80. Mughal emperor Akbar enforced Din-I-Ilahi in____________?
+*A. 5
 
-A.1581
-*B.1582
-C.1583
-D.1584
+B. 6
 
-81. The biggest road constructed by Sher Shah Suri reaches from Peshawar to ______ is known as Grand Trunk (GT) Road.
+C. 7
 
-*A.Bengal
-B.Delhi
-C.Mumbai
-D.None of these
+D. 10
 
-82. Total number of Mughal emperor ?
+80.Which country joined the SCO as a full member in 2017?
 
-A.20
-*B.21
-C.22
-D.None of These
+A. India
 
-83. Badshahi mosque at Lahore in 1673 was made by?
+B. Pakistan
 
-A.Shah Jahan
-*B.Aurangzeb
-C.Akbar
-D.None of these
+C. Afghanistan
 
-84. The Mughal emperor who allowed a chain with bells to be hung outside his palace was_________?
+*D. Both A and B
 
-A.Akbar
-*B.Jahangir
-C.Shah Jahan
-D.None of these
+81.Which country was ranked #1 for quality of life in 2024?
 
-85. The first Mughul emperor Babar’s tomb is situated in_________?
+A. Switzerland
 
-A.Agra
-B.Delhi
-C.Lahore
-*D.Kabul
+*B. Denmark
 
-86.Humayun-nama was written by_____________?
+C. Monaco
 
-A.Abul Fazal
-B.Humayun
-C.Badauni
-*D.Gulbadan Begum
+D. Sweden
 
-87. Sher Shah Suri is well-known for his___________?
+82.Which country was ranked #1 in the World Happiness Report 2024?
 
-A.Education System
-B.Military System
-*C.Land Revenue System
-D.Both A & C
+*A. Finland
 
-88. Battle of Chausa was fought between Humayun and Sher Shah Suri at Chausa, near Bihar in which year?
+B.Denmark
 
-*A.1539
-B.1540
-C.1545
-D.1555
+C. Sweden
 
-89. Real name of Sher Shah Suri was__________?
+D. Norway
 
-*A.Farid khan
-B.Khurram
-C.Salim
-D.None
+83.According to the Global Peace Index 2024, which country was ranked the least peaceful?
 
-90.   Who was the first Governor General of Bengal?
+A. Afghanistan
 
-*A.Warren Hastings
-B.Robert Clive
-C.William Bentinck
-D.Lord Cornwallis
+B. Syria
 
-91.  Who was the first Governor General of India?
+*C. Yemen
 
-A.Warren Hastings
-*B.William Bentick
-C.Lord Delhousie
-D.Lord Canning
+D. South Sudan
 
-92. The title of Governor General was changed to Viceroy in the year :
 
-*A.1858 AD
-B.1880 AD
-C.1840 AD
-D.1860 AD
+84.Based on the Human Development Index (HDI), which country was ranked lowest in 2024?
 
-93. Who created a permanent police force in India?
+A. Niger
 
-A.Lord Warren Hastings
-B.Lord Hastings
-C.Lord Wellesley
-*D.Lord Cornwallis
+*B. South Sudan
 
-94. The Gandhi-irwin Pact was signed in___________?
+C. Chad
 
-A.1930
-B.1935
-C.1932
-*D.1931
+D. Central African Republic
 
-95. The Cripps Mission visited India in?
 
-*A.1942
-B.1944
-C.1947
-D.1940
+85.Which country was ranked as the least democratic in 2024 according to the Democracy Index?
 
-96. Sir Syed Ahmed Khan founded Scientific Society in___________?
+A. Turkmenistan
 
-A.1858
-B.1860
-*C.1864
-D.1867
+*B. North Korea
 
-97. Shah Walliullah was born in the year:
+C. China
 
-A.1700
-*B.1703
-C.1705
-D.1707
+D. Russia
 
-98. Who wrote the Persian translation of Holy Quran at first?
+86.DNA stands for:
+*A.deoxyribonucleic acid
+B.dicotyledonous nuclei
+C.deoxidized nuclei
+D.all of above
 
-A.Al-Ghazzali
-*B.Shah walliullah
-C.Ibn-e-Khaldun
-D.Al-Mawardi
 
-99. Shaykh Ahmad Sirhindi’s line of Sufism was:
+87.Metals are good conductors of heat because________________?
+A. they have high density
+B. their atoms-are relatively far apart
+C. they contain free electrons
+*D. their atoms collide frequently
 
-A.Qadiriya
-B.Suhrawardiya
-C.Chishtiyya
-*D.None of these
 
-100. First battle of Panipat began on _________.
+88.lightest metal is__________?
+*A. Lithium
+B. Sodium
+C. Magnesium
+D. Aluminium
 
-A.1524
-*B.1526
-C.1529
-D.1522
+89.Out of the following which is an insulating material____________?
+A. Copper
+B. Gold
+C. Silver
+*D. Rubber
+
+90.Which of these metals is liquid at room temperature?
+
+A. Copper
+
+*B. Mercury
+
+C. Sodium
+
+D. Aluminum
+
+
+91.Which gas is used to extinguish fire?
+A. Nitrous Oxide
+B. Methane
+C. Carbon Dioxide
+*D. Carbon Dioxide 
+
+
+92.The element common to all acids is:__________?
+*A. Hydrogen
+B. Carbon
+C. Sulphur
+D. Oxygen
+
+
+93.The gas, commonly known as “laughing gas”, is
+A. Carbon Dioxide
+B. Sulfur Dioxide
+*C. Nitrous Oxide
+D. Sodium Oxide
+
+
+
+94.The element used in the manufacture of safety matches is
+*A. Phosphorous
+B. Magnesium
+C. Silicon
+D. Sulphur
+
+
+95.Carbon,Diamond and Graphite are together called:___________?
+*A. Allotrope
+B. Isomers
+C. Isomorphs
+D. Isotopes
+
+
+
+96.The most commonly used bleaching agent is_________?
+A. alcohol
+B. carbon dioxide
+*C. chlorine
+D. sodium chlorine
+
+
+97.The gas usually filled in the  electric bulb is___________?
+A. Oxygen
+B. Hydrogen
+C. Carbon dioxide
+*D. Nitrogen
+
+
+98.Brass is an alloy of____________________?
+A. Nickel and tin
+*B. Copper and zinc
+C. Tin and lead
+D. Copper, nickel and zinc
+
+
+99.An atom bomb based upon the principle of ________
+*A. Nuclear fission
+B. Nuclear fussion
+C. Controlled chain reaction
+D. None of these
+
+
+100.Glass is made of the mixture of______________?
+A. Quartz and Mica
+B. Sand and Salt
+*C. Sand and Silicates
+D. None of these
 
 
 
