@@ -1,948 +1,1131 @@
 (function () {
     const quizText = `
 
-[TIMER: 80]
+[TIMER: 60]
 
-1.The revolt of 1857 started first at__________________
-*A. Meeruth
-B. Delhi
-C. Lahore
-D. Maysore
 
-2.In 1861 which Act was passed?
-A. Independence Act
-B. Settlement Act
-*C. Indian Councils Act
-D. Reforms Act
+1. Who was the 3rd Prime Minister of Pakistan?
 
-3.Urdu-Hindi Controversy started in___________?
-A. 1837
-*B. 1867
-C. 1906
-D. 1910
-
-4.Who banned urdu in 1871 in bengal?
-A.Lord Hastings 
-B.Warren Hastings
-*C.George Campbell
-D. Hardinge
-
-
-5.Who was the Viceroy of India at the time of partition of Bengal?
-*A. Lord Curzon
-B. Lord Wavell
-C. Lord Minto
-D. Lord Algan
-
-6.The annulment of partition of Bengal took place ?
-A. 1906
-B. 1908
-C. 1909
-*D. 1911
-
-7.Which Hindu leader started a movement against the partition of Bengal ?
-*A. Surindar Nath Beneijee
-B. Raja Ram Mohn Ray
-C. Dayananda Saraswati
-D. None of these
-
-8.The main demand of Simla deputation was __________ ?
-A. Funds for establishing a university for Muslims
-B. Equal rights and justice for Muslims
-C. Equal employment opportunities
-*D. Separate Electorate
-
-9.The constitution of All India Muslim League was drafted by a committee in 1907 headed by _________,which is also called green book?
-*A. Maulana Muhammad Ali Jauhar
-B. Nawab Mohsin-ul-Mulk
-C. Nawab Viqar-ul-Mulk
-D. Justice Shah Din
-
-10.Who presided over first session of the Muslim League?
-
-A.Agha Khan
-*B.Sir Adamjee Pir Bhai
-C.Maulana Muhammad Ali Johar
-D.Liaqat Al Khan
-
-11.Which of the following leaders was involved in the Lucknow Pact? 
-A.Mahatma Gandhi
-B.Jawaharlal Nehru
-*C.Bal Gangadhar Tilak
-D.Subhas Chandra Bose 
-
-12. Who ordered the firing at Jallianwala Bagh?
-
-*A. General Dyer
-
-B. Mahatma Gandhi
-
-C. Jawaharlal Nehru
-
-D. Winston Churchill
-
-
-13.Report of Montagu - Chelmsford reforms was enacted in year ____?
-A. 1917
-*B. 1919
-C. 1921
-D 1923
-
-14.In March 1920, an Indian Khilafat Deputation visited England. The Deputation was headed by?
-A. Sir Aga Khan
-B. Mohsin-ul-Mulk
-*C. Maulana M.A. Johar
-D. Sir M. Shafi
-
-
-15.Viceroy of India during Simon Commission was___________?
-*A. Lord Irwin
-B. Lord Canning
-C. Lord Mountbaton
-D. None
-
-
-
-16.Which report provided that India should be given the status of Dominion on a unity basis with a parliamentary form of government ?
-
-A. Leaders Report
-B. Political Report
-*C. Nehru Report
-D. Indians Report
-
-
-17.Quaid-e-Azam gave his Fourteen Points in reaction to_________?
-A. Simon Commission
-*B. Nehru report
-C. British people
-D. None of these
-
-
-
-
-18.Allama Muhammad Iqbal delivered his famous Allahabad Address in?
-A. 1929
-*B. 1930
-C. 1931
-D. 1932
-
-
-19.The second Round Table Conference was held in London from___________?
-A. 12 November 1930 to 19 January 1931
-*B. 7 September 1931 to 1 December 1931
-C. 17 November 1932 – 24 December 1932)
-D. None of the above
-
-20.Government of India Act 1935 divided the country into how many provinces?
-A. 7
-B. 9
-*C. 11
-D. 13
-
-
-21.How many paragraphs were in lahore resolution?
-A. 2
-B. 3
-*C. 5
-D. None of these
-
-
-
-
-22.The Cripps Mission arrived in Delhi in?
-A. 1947
-B. 1956
-C. 1946
-*D. 1942
-
-23. In which year was the Wavell Plan introduced?
-A. 1942
-
-*B. 1945
-
-C. 1946
-
-D. 1947
-
-
-24.Who represented the Indian National Congress at the Simla Conference?
-
-A.Jawaharlal Nehru
-
-B. Subhas Chandra Bose
-
-*C. Maulana Abul Kalam Azad
-
-D. Sardar Vallabhbhai Pate
-
-
-25. Who were the members of the Cabinet Mission?
-
-A. Cripps, Mountbatten, and Wavell
-
-B. Attlee, Churchill, and Jinnah
-*C. Cripps, Pethick-Lawrence, and Alexander
-
-D. Nehru, Azad, and Patel
-
-
-26.Which British Prime Minister announced the decision to grant independence to India by June 1948?
-
-A. Winston Churchill
-
-*B. Clement Attlee
-
-C. Harold Macmillan
-
-D. Ramsay MacDonald
-
-27.4. Who presided over the first session of the Constituent Assembly before Jinnah's election?
 A. Liaquat Ali Khan
 
-*B. Jogendra Nath Mandal
+B. Khawaja Nazimuddin
 
-C. Quaid-e-Azam
+*C. Huseyn Shaheed Suhrawardy
 
-D. Muhammad Zafarullah Khan
+D. Muhammad Ali Bogra
 
-28.Who presented the Objective Resolution in the Constituent Assembly?
-A. Muhammad Ali Jinnah
 
-*B. Liaquat Ali Khan
 
-C. Khawaja Nazimuddin
+
+2. Who was the only Vice President in the history of Pakistan?
+
+A. Fazal Elahi Chaudhry
+
+B. Zulfikar Ali Bhutto
+
+*C. Nurul Amin
 
 D. Iskander Mirza
 
-29. In which year was the Bogra Formula introduced?
+3. Who was the first President of Legilative Assembly of Pakistan?
 
-A. 1949
+*A. Muhammad Ali Jinnah
 
-*B. 1953
+B. Maulvi Tamizuddin Khan
 
-C. 1956
+C. Fazal Elahi Chaudhry
+D. Nurul Amin
 
-D. 1958
 
-30.How many Schedules were there in the 1956 Constitution of Pakistan?
-A. 7
 
-B. 8
+4.Who was the 2nd Speaker of the National Assembly of Pakistan?
 
-C. 10
+A. Fazal Ilahi Chaudhry
 
-*D. 6
+*B. Maulvi Tamizuddin Khan
 
-31.What is the meaning of the idiom "ever and anon"?
-A. All the time
+C.Qazi Muhammad Isa
 
-*B.Seldom
-C. Never
+D. Malik Meraj Khalid
 
-D. Immediately
+5.Which Deputy Speaker of the National Assembly was the first female to hold this position?
 
-32.What does the idiom "at the drop of a hat" mean?
+A. Fahmida Mirza
 
-A. After thinking for a while
+*B. None (no female Deputy Speaker yet)
 
-*B. Without delay or hesitation
+C. Shireen Mazari
 
-C. When it's convenient
+D. Marvi Memon
 
-D. With great effort
 
-33.What does the idiom "a dime a dozen" mean?
+6. Who was the 1st Chairman of the Senate of Pakistan?
 
+*A.Habibullah Khan Marwat
 
-A. Something is rare and valuable.
+B. Wasim Sajjad
 
-*B. Something is easy to find and not special.
+C. Ghulam Ishaq Khan
 
-C. Something is expensive.
+D. Sadiq Sanjran
 
-D. Something is difficult to obtain.
 
+7.Who was the last Commander-in-Chief before the title changed to Chief of Army Staff?
 
-34.What does the idiom "at sixes and sevens" mean?
+A. General Ayub Khan
 
+B. General Muhammad Musa
 
-*A. To be in a state of confusion or disorder.
+*C. General Gul Hassan
 
-B. To be very organized and efficient.
+D. General Yahya Khan
 
-C. To be in a position of authority.
 
-D. To be successful and confident.
+8. Who was the 3rd Chief of Army Staff of Pakistan?
 
+A. General Tikka Khan
 
-35. What does the idiom "to be all agog" mean?
+B. General Zia-ul-Haq
 
+*C. General Mirza Aslam Beg
 
-A. To be sad or disappointed.
+D. General Pervez Musharraf
 
-*B. To be excited or eager about something.
 
-C. To be confused or unsure.
 
-D. To be angry or upset.
 
+9. Who was the first Chief of Army Staff of Pakistan?
 
-36.What does the idiom "beard the lion in his den" mean?
+*A. General Tikka Khan
+B. General Ayub Khan
 
+C. General Muhammad Musa
 
-A. To avoid confrontation with a powerful person.
+D. General Frank Messervy
 
-*B. To face a dangerous or powerful person in their own territory.
 
-C. To make friends with someone in power.
+10.  Who was the 10th Chief of Army Staff of Pakistan?
 
-D. To express fear in the face of authority.
 
+A. General Ashfaq Parvez Kayani
 
-37.What does the idiom "the be-all and end-all" mean?
 
+B. General Raheel Sharif
 
-A. Something that is of little importance.
+*C. General Qamar Javed Bajwa
 
-*B. Something that is the most important or ultimate.
 
-C. Something that is easy to obtain.
+D. General Pervez Musharraf
 
-D. Something that is confusing or hard to understand.
 
+11.Who was the 2nd Commander-in-Chief of the Pakistan Army?
 
-38. What does the idiom "bolt from the blue" mean?
 
+A. General Ayub Khan
 
-A. Something planned and expected.
 
-*B. Something sudden and unexpected.
+B. General Muhammad Musa
 
-C. Something easy to predict.
+*C. General Douglas Gracey
 
-D. Something that happens slowly over time.
 
+D. General Frank Messervy
 
-39. What does the idiom "break the ice" mean?
 
+12. What does PEMRA stand for?
 
-A. To cause trouble in a peaceful situation.
 
-B. To end a relationship suddenly.
+A. Pakistan Electronic Media Regulation Agency
 
-*C. Silence
+*B. Pakistan Electronic Media Regulatory Authority
 
-D. To go on a vacation during winter
 
+C. Pakistan Electronic Management and Radio Authority
 
-40. If someone says, "After years of fighting, the two brothers finally buried the hatchet," what does it mean?
 
+D. Pakistan Entertainment Media Regulatory Association
 
-A. They started fighting again.
 
-B. They avoided each other completely.
 
-*C. They forgave each other and made peace.
 
-D. They moved to different cities.
+13.Who is the current Chairman of the Senate of Pakistan?
 
+A. Asad Qaiser
 
-41. If someone says, "Her English has improved by leaps and bounds," what does it imply?
+B. Saad Sabri
 
+C. Raja Pervez Ashraf
 
-A. Her English has gotten worse.
+*D.Yousaf Raza Gilani
 
-B. Her progress has been very slow.
 
-*C. Her English has improved rapidly.
 
-D. She no longer studies English.
 
+14.Shah Waliullah translated the Quran into which language?
 
-42.What does the idiom "a bluestocking" mean?
+A. Arabic
 
+B. Urdu
 
-A. A woman who is very fashionable
+*C.Persian
 
-B. A woman who enjoys shopping
+D. Turkish
 
-*C. A woman with strong academic or literary interests
 
-D. A woman who avoids education
 
+15.Who started the Fraizi Movement in Bengal?
 
-43.If someone says, "There’s been bad blood between the two neighbors for years," what does it suggest?
+A. Rammohan Roy
 
+B. Kazi Nazrul Islam
 
-A. The neighbors have been good friends
+*C. Haji Shariatullah
 
-B. The neighbors are indifferent to each other
+D. Syed Ahmad Shaheed
 
-*C. The neighbors have a long history of conflict or dislike
 
-D. The neighbors recently met
 
 
-44.Choose the word that is closest in meaning to "ignite":
+16.Who is the current Federal Minister for Defence?
 
+A. Rana Tanveer Hussain
 
-A. Put out
+*B. Khawaja Muhammad Asif
 
-*B. Inflame
-C. Destroy
+C. Azam Nazeer Tarar
+D. Abdul Aleem Khan
 
-D. Cool
 
-45.Which of the following is a synonym of "imbecile"?
-A. Genius
+17.Who is the Federal Minister for Finance and Revenue?
 
-*B. Fool
+A. Musadik Masood Malik
+*B. Muhammad Aurangzeb
 
-C. Scholar
+C. Ahad Khan Cheema
 
-D. Leader
+D. Abdul Aleem Khan
 
-46.Which of the following is a synonym of "knave"?
 
 
-A. Gentleman
+18.Who holds the portfolio of Foreign Affairs and also serves as Deputy Prime Minister?
 
-*B. Dishonest
-C. Hero
+A. Ahsan Iqbal Chaudhry
 
-D. Scholar
+B. Attaullah Tarar
 
+*C. Mohammad Ishaq Dar
 
-46.What word is closest in meaning to "laborious"?
+D. Jam Kamal Khan
 
 
-A. Effortless
+19.Who wrote the 14 Points of 1929?
 
-B. Joyful
+A. Allama Iqbal
 
-*C. Difficult
+B. Maulana Azad
 
-D. Simple
+*C. Muhammad Ali Jinnah
 
+D. Liaquat Ali Khan
 
-48.What word is closest in meaning to "magnanimous"?
+20. What was Mahatma Gandhi’s role in the Third Round Table Conference?
 
 
-A. Arrogant
+A. He led the Indian delegation
 
-B. Jealous
 
-C. Stingy
-*D. Generous
+B. He represented the Congress Party
 
+*C. He did not participated
 
 
-49.Which of the following words is NOT an antonym of "malafide"?
+D. He supported the British proposals
 
 
-A. Genuine
 
-B. Honest
 
-C. Truthful
+21. Where did Sir Aga Khan die?
 
-*D. Treacherous
 
+A. London
 
-50.What word is the opposite of "Machiavellian"?
 
+B. Karachi
 
-*A. Truthful
-B. Manipulative
+*C. Geneva
 
-C. Deceptive
 
-D. Cunning
+D. Delhi
 
 
-51.Which of the following is a synonym of "immaculate"?
+22. Who was the first Pakistani to successfully summit K2?
 
+A. Nazir Sabir
 
-A. Dirty
+*B. Ashraf Aman
 
-*B. Flawless
+C. Hassan Sadpara
 
-C. Messy
+D. Ali Sadpara
 
-D. Imperfect
 
-52.Which of the following is an antonym of "lackluster"?
+23. What was the name of Pakistan's first satellite?
 
+*A. Badr-I
 
-*A. Exciting
+B. Rahbar-I
 
-B. Dull
-C. Uninspiring
+C. PakSat-1R
 
-D. Dreary
+D. Shaheen-I
 
 
-53.Which of the following is an antonym of "laggard"?
+24.How did General Zia-ul-Haq die?
 
+A. Assassination by gun
 
-*A. Diligent
+B. Disease
 
-B. Slow
+*C. Plane crash
 
-C. Lazy
-D. Delayed
+D. Bomb blast in a convoy
 
-54.Choose the best antonym for "immense":
 
+25. Why was Benazir’s first government dismissed in 1990 by President Ghulam Ishaq Khan?
 
-A. Colossal
+A. Military dictatorship 
+*B. Allegations of Corruption 
 
-*B. Minuscule
+C. Islamization
+D. Failure to hold elections
 
-C. Expansive
 
-D. Monumental
+26. Who laid the foundation of Pakistan Steel Mills?
 
-55.Which of the following is an antonym of "knotty"?
+A. Liaquat Ali Khan
 
+*B. Zulfikar Ali Bhutto
 
-A. Confusing
+C. General Muhammad Ayub Khan
 
-*B. unproblematic
-C. Tangled
+D. General Zia-ul-Haq
 
-D. Unclear
+27. Who was the Prime Minister of India at the time of the Tashkent Declaration?
 
-56.How many Takbeers are recited in the Eid prayer (Namaz Eid)?
+A. Indira Gandhi
 
+*B. Lal Bahadur Shastri
 
-A. Four
+C. Jawaharlal Nehru
 
-B. Five
+D. Morarji Desai
 
-*C. Six
-D. Seven
+28.How long did the 1965 war between India and Pakistan last?
 
+A. 7 days
 
-57.On which day of Hajj do pilgrims stay in Mina?
+B. 14 days
 
+*C. 17 days
 
-A. 7th Zilhaj
+D. 21 days
 
-*B. 8th Zilhaj
+29.What is the height of Minar-e-Pakistan?
 
-C. 9th Zilhaj
+A. 50 meters
 
-D. 10th Zilhaj
+*B. 70 meters
 
+C. 100 meters
+D. 90 meters
 
-58.Which Surah is the longest in the Quran?
+30.Who was the architect of Minar-e-Pakistan?
 
+A. Ahmed Mukhtar
+*B. Nasreddin Murat-Khan
 
-A. Surah Al-Fatiha
+C.  Bashir Ahmed
+D. Abdur Rehman
 
-B. Surah Al-Imran
-C. Surah Al-Ahzab
 
-*D. Surah Al-Baqarah
 
+31.The process used to prepare polythene is called:
 
+A. Hydrolysis
 
+B. Fermentation
 
-59.How many ayat (verses) were in the first wahi (revelation) of the Quran?
+C. Condensation
 
+*D. Polymerization
 
-*A. 5
-B. 3
-C. 7
 
-D. 10
 
-60.Which is the first Surah to be revealed completely to the Prophet Muhammad (PBUH)?
 
+32.Who discovered radium and polonium?
 
-*A. Surah Al-Fatiha
+A. Albert Einstein
 
-B. Surah Al-Alaq
+*B. Marie Curie
+C. Dmitri Mendeleev
 
-C. Surah Al-Baqarah
+D. Ernest Rutherford
 
-D. Surah Al-Ikhlas
 
+33.What is the meaning of the term "analysis"?
 
-61.Which Surah is called "Ummul Kitab"?
+*A. Breaking down something into parts to understand it
 
+B. Memorizing information
 
-A. Surah Al-Baqarah
+C. Drawing pictures to represent data
 
-*B. Surah Al-Fatiha
+D. Ignoring details in a topic
 
-C. Surah Al-Ikhlas
 
-D. Surah Al-Alaq
 
 
+34. What is a catalyst?
 
-62.Which Surah of the Quran contains "Bismillah" twice?
+A. A substance that is consumed in a reaction
 
+*B. A substance that speeds up a chemical reaction without being consumed
 
-A. Surah Al-Fatiha
+C. A substance that slows down a reaction
 
-B. Surah Al-Tawbah
-C. Surah Al-Baqarah
+D. A product of a chemical reaction
 
-*D. Surah An-Naml
 
 
-63.Which Surah of the Quran does not begin with "Bismillah"?
 
+35. What is evaporation?
 
-*A. Surah At-Tawbah
+*A. The process by which a liquid changes into vapor at any temperature
 
-B. Surah Al-Anfal
+B. The boiling of a liquid at its boiling point
 
-C. Surah Al-Fath
+C. The freezing of a liquid
 
-D. Surah Al-Kahf
+D. The condensation of vapor into liquid
 
-64.How many Surahs in the Quran begin with ?uruf al-Muqatta?at?
 
-A. 14
 
-B. 20
+36.What is fission?
 
-*C. 29
+*A. The splitting of a heavy atomic nucleus into two smaller nuclei
 
-D. 30
+B. The joining of two light nuclei to form a heavier nucleus
 
-65.When did the last Wahi (revelation) of the Quran come to the Prophet Muhammad (PBUH)?
+C. The emission of electrons from a nucleus
 
-A. 12th Rabi-ul-Awal
+D. The fusion of atoms
 
-B. 27th Ramadan
+37. What are isotopes?
 
-*C. 9th Zilhaj 
-D. 10th Muharram
+*A. Atoms of the same element with different numbers of neutrons
 
-66. Which country won the ICC Champions Trophy 2025?
+B. Atoms of different elements with the same number of protons
 
+C. Atoms with different numbers of protons
 
-A. Australia
+D. Molecules of the same compound
 
-*B. India
 
-C. New Zealand
 
-D. South Africa
+38. In a chemical reaction, oxidation is often associated with:
 
+A. Gain of hydrogen
 
+*B. Loss of hydrogen or gain of oxygen
 
-67.Who was named Player of the Match in the final?
+C. Gain of electrons
 
+D. Decrease in oxidation state
 
-A. Virat Kohli
 
-B. Shubman Gill
-C. Kane Williamson
 
-*D. Rohit Sharma
+39.  What is sublimation?
 
+*A. The process in which a solid changes directly into a gas without becoming a liquid
 
+B. The process of a liquid changing into a gas
 
-68.How many ICC Champions Trophy titles has India won as of 2025?
+C. The process of a gas changing into a liquid
+D. The process of a liquid changing into a solid
 
 
-A. 2
 
-*B. 3
+40. Who is credited with the discovery of vitamins?
 
-C. 4
+A. Louis Pasteur
 
-D. 5
+*B. Casimir Funk
 
+C. Alexander Fleming
 
-69.When was the first ICC Champions Trophy held?
+D. Robert Koch
 
-*A. 1998
- 
-B. 1996
-C. 1999
+41.What disease is caused by deficiency of Thiamine (Vitamin B1)?
 
-D. 2000
+A. Scurvy
 
+B. Rickets
 
-70.What is the motto of the United Nations (UN)?
+*C. Beriberi
 
-A. Peace and Progress
+D. Pellagra
 
-B. Unity in Diversity
+42.What is another name for Vitamin C?
 
-*C. It’s Your World
+*A. Ascorbic acid
 
-d. Together We Stand
+B. Thiamine
 
-71.What is the motto of the European Union (EU)?
+C. Riboflavin
 
-A. One Europe, One People
+D. Niacin
 
-*A. United in Diversity
+43. What is the main function of Vitamin K?
 
-C. Together for Peace
+*A. Helps in blood clotting
 
-D. Harmony in Union
+B. Improves vision
 
+C. Strengthens bones
 
-72.Where is the headquarters of the IMF located?
+D. Helps in energy production
 
-A. Geneva, Switzerland
 
-B. New York, USA
 
-C. Paris, France
+44.Banana contains the highest amount of which nutrient?
 
-*D. Washington, D.C., USA
+A. Protein
 
-73.What is the primary purpose of the IMF?
+B. Fat
 
-A. To regulate oil prices
+*C.Carbohydrates
 
-B. To provide long-term development loans
+D. Vitamins
 
-*C. To promote international monetary cooperation and exchange stability
+45. Which two enzymes are found in human saliva?
 
-D. To manage global environmental programs
+*A. Amylase and lysozyme
 
+B. Pepsin and protease 
+C. Lactase and protease
 
-74.How many players are there in a standard football (soccer) team?
+D. Trypsin and maltase
 
-A. 9
+46. How many calories does 1 gram of fat provide?
 
-B. 10
+A. 4 calories
 
-C. 12
+B. 7 calories
 
-*D. 11
+*C.9 calories
 
+D. 12 calories
 
-75.How many players are there in a volleyball team on the court at one time?
 
-A. 5
+47. Cholera primarily affects which part of the body?
 
-*B. 6
+A. Lungs
 
-C. 7
+B. Liver
 
-D. 8
+*C.Small intestine
 
-76.Where is the headquarters of the World Health Organization (WHO) located?
+D. Brain
 
-*A. Geneva, Switzerland
- 
-B. Paris, France
-C. Rome, Italy
 
-D. London, UK
 
-77.Where is the headquarters of the International Court of Justice (ICJ) located?
+48.Ebola virus primarily spreads through:
 
-A. Geneva, Switzerland
+A. Airborne droplets
 
-*B. The Hague, Netherlands
+B. Contaminated food
 
-C. Paris, France
+C.Mosquito bites 
+*D.Direct contact with blood or bodily fluids of infected persons
 
-D. New York, USA
+49.Ringworm primarily affects which part of the body?
 
+A. Lungs
 
-78.What is the main objective of BRICS?
+*B. Skin, hair
+C. Blood
 
-A. To promote military cooperation
+D. Intestines
 
-B. To increase political influence
 
-*C. To foster economic growth and development in member countries
 
-D. To promote global democracy
 
-79.How many founding members were there in ASEAN?
+50. The Tdap vaccine protects against which of the following diseases?
 
-*A. 5
+A. Measles, mumps, and rubella
 
-B. 6
+B. Polio, tetanus, and hepatitis-B
 
-C. 7
+C. Influenza, typhoid, and rabies
 
-D. 10
 
-80.Which country joined the SCO as a full member in 2017?
+*D.Tetanus, diphtheria, and pertussis (whooping cough)
+
+
+
+51. What is the approximate thickness of the Earth's mantle?
+
+A. 100 km
+
+*B. About 2,900 km
+
+C. 500 km
+
+D. 6,371 km
+
+
+52. What is Buran?
+
+A. Hot desert wind
+
+B. Tropical cyclone
+
+*C. Cold wind
+D. Monsoon wind
+
+
+
+
+53.What does an anemometer measure?
+
+A. Temperature
+
+B. Air pressure
+
+*C.Wind speed
+
+D. Humidity
+
+54.Up to what height does the stratosphere extend?
+
+A. 15 km
+
+B. 30 km
+C. 70 km
+*D.50 km
+
+
+
+55.The Earth's crust is primarily made up of which types of rocks?
+
+A. Metamorphic and sedimentary
+
+*B. Igneous, sedimentary, and metamorphic
+
+C. Fossil and volcanic
+
+D. Sand and clay only
+
+56. Which award did King Hamad bin Isa Al Khalifa confer upon General Syed Asim Munir in January 2024?
+
+A. King Hamad Order of the Renaissance
+
+*B. Order of Bahrain First Class
+
+C. Military Medal Order of Bahrain First Class
+
+D. King Hamad Medal of Excellence
+
+
+
+
+57. Who became the first Muslim woman mayor of New Jersey, USA?
+
+A. Ilhan Omar
+
+B. Rashida Tlaib
+
+*C. Fauzia Janjua
+
+D. Ayesha Malik
+
+
+58.Which scientist is honored by having the central library at Imperial College London named after them?
+
+
+A. Albert Einstein
+
+B. Stephen Hawking
+C. Richard Feynman
+
+
+*D. Abdus Salam
+
+
+59. Wheat subsidy in Gilgit-Baltistan (GB) was introduced in which year?
+
+A. 1960s
+
+*B. 1970s
+
+C. 1980s
+
+D. 1990s
+
+
+
+60.Who was given the additional charge of the Interior Ministry and Ministry of Overseas Pakistanis and Human Resource Development in January 2024?
+
+A. Anwaar-ul-Haq Kakar
+
+B. Shah Mahmood Qureshi
+C. Asad Umar
+*D. Gohar Ejaz
+
+
+61. Which country rejected the invitation to join BRICS?
+
+*A. Argentina
+B. Saudi Arabia
+
+C. Turkey
+
+D. Egypt
+
+62. Which famous Australian cricketer announced his retirement from One-Day International (ODI) cricket?
+
+A. Steve Smith
+
+B. Glenn Maxwell
+
+*C. David Warner
+
+D. Mitchell Starc
+
+63.Which country’s scientists have developed the electrically conductive cultivation substrate known as eSoil?
+
+
+A. Germany
+
+*B. Sweden
+
+C. Japan
+D. United States
+
+64. Who won the Men’s Singles title at the 2024 Australian Open?
+
+A. Novak Djokovic
+
+B. Carlos Alcaraz
+
+*C. Jannik Sinner
+
+D. Daniil Medvedev
+
+65.Who won the 2024 FIH Hockey5s Women’s World Cup?
 
 A. India
+B.Poland
 
-B. Pakistan
-
-C. Afghanistan
-
-*D. Both A and B
-
-81.Which country was ranked #1 for quality of life in 2024?
-
-A. Switzerland
-
-*B. Denmark
-
-C. Monaco
-
-D. Sweden
-
-82.Which country was ranked #1 in the World Happiness Report 2024?
-
-*A. Finland
-
-B.Denmark
-
-C. Sweden
-
-D. Norway
-
-83.According to the Global Peace Index 2024, which country was ranked the least peaceful?
-
-A. Afghanistan
-
-B. Syria
-
-*C. Yemen
-
-D. South Sudan
+C. South Africa
 
 
-84.Based on the Human Development Index (HDI), which country was ranked lowest in 2024?
-
-A. Niger
-
-*B. South Sudan
-
-C. Chad
-
-D. Central African Republic
-
-
-85.Which country was ranked as the least democratic in 2024 according to the Democracy Index?
-
-A. Turkmenistan
-
-*B. North Korea
-
-C. China
-
-D. Russia
-
-86.DNA stands for:
-*A.deoxyribonucleic acid
-B.dicotyledonous nuclei
-C.deoxidized nuclei
-D.all of above
-
-
-87.Metals are good conductors of heat because________________?
-A. they have high density
-B. their atoms-are relatively far apart
-C. they contain free electrons
-*D. their atoms collide frequently
-
-
-88.lightest metal is__________?
-*A. Lithium
-B. Sodium
-C. Magnesium
-D. Aluminium
-
-89.Out of the following which is an insulating material____________?
-A. Copper
-B. Gold
-C. Silver
-*D. Rubber
-
-90.Which of these metals is liquid at room temperature?
-
-A. Copper
-
-*B. Mercury
-
-C. Sodium
-
-D. Aluminum
-
-
-91.Which gas is used to extinguish fire?
-A. Nitrous Oxide
-B. Methane
-C. Carbon Dioxide
-*D. Carbon Dioxide 
-
-
-92.The element common to all acids is:__________?
-*A. Hydrogen
-B. Carbon
-C. Sulphur
-D. Oxygen
-
-
-93.The gas, commonly known as “laughing gas”, is
-A. Carbon Dioxide
-B. Sulfur Dioxide
-*C. Nitrous Oxide
-D. Sodium Oxide
+*D. Netherlands
 
 
 
-94.The element used in the manufacture of safety matches is
-*A. Phosphorous
-B. Magnesium
-C. Silicon
-D. Sulphur
+66. Which country unveiled the world's first portable disaster hospital, known as the Aarogya Maitri Cube?
+
+*A. India
+B. United States
+
+C. UK
+D.Japan
 
 
-95.Carbon,Diamond and Graphite are together called:___________?
-*A. Allotrope
-B. Isomers
-C. Isomorphs
-D. Isotopes
+67.What is the theme for the 2024 International Day of Clean Energy?
+
+A. Renewable Energy for a Sustainable Future
+
+B. Transitioning to Green Power
+C. Powering the Planet Sustain
+*D. Clean Energy for All
 
 
 
-96.The most commonly used bleaching agent is_________?
-A. alcohol
-B. carbon dioxide
-*C. chlorine
-D. sodium chlorine
+68.Who has been elected as the Chief Minister of Sindh for the third consecutive term in 2024?
+
+A. Qaim Ali Shah
+
+B. Ali Khursheedi
+
+*C. Syed Murad Ali Shah
+
+D. Faryal Talpur
 
 
-97.The gas usually filled in the  electric bulb is___________?
-A. Oxygen
-B. Hydrogen
-C. Carbon dioxide
-*D. Nitrogen
+69.Who is the first Pakistani appointed as a judge in Canada?
+
+A  Asif Saeed Khosa
+
+B. Iftikhar Muhammad Chaudhry
+
+*C. Shahid Chaudhry
+
+D. Nasir-ul-Mulk
 
 
-98.Brass is an alloy of____________________?
-A. Nickel and tin
-*B. Copper and zinc
-C. Tin and lead
-D. Copper, nickel and zinc
+70.Who is the first Sri Lankan cricketer to score a double century in One Day Internationals (ODIs)?
+A. Sanath Jayasuriya
+B. Kumar Sangakkara
+
+C. Upul Tharanga
+
+*D. Pathum Nissanka
 
 
-99.An atom bomb based upon the principle of ________
-*A. Nuclear fission
-B. Nuclear fussion
-C. Controlled chain reaction
-D. None of these
+
+71. Which country is ranked as the most liberal in the world in 2024?
+
+A. Denmark
+
+B. Norway
+
+*C. Sweden
+
+D. Finland
 
 
-100.Glass is made of the mixture of______________?
-A. Quartz and Mica
-B. Sand and Salt
-*C. Sand and Silicates
-D. None of these
+72. Which country recently inaugurated the world's third-largest mosque?
+
+A. Saudi Arabia
+
+B. Turkey
+
+*C. Algeria
+
+D. Indonesia
+
+73.Which country did Hage Geingob serve as president?
+
+*A.Namibia
+
+B. Botswana
+
+C. Zambia
+ 
+D. Angola
+
+
+74.Which country developed the Five-hundred-meter Aperture Spherical Radio Telescope (FAST)?
+
+A. United States
+
+B. Russia
+
+*C. China
+
+D. India
+
+
+75.What is the theme of World NGO Day 2024?
+
+A. Empowering Communities through Technology
+
+B. NGOs: Champions of Human Rights
+
+*C. Building a Sustainable Future
+D. Bridging Gaps: The Power of Volunteerism
+
+
+
+76.What does the phrase "in cold blood" mean?
+
+
+*A. Doing something deliberately and without feeling
+
+B. Doing something in a hurry
+
+C. Doing something while being very cold
+
+D. Doing something by accident
+
+
+
+
+77. What does the phrase "a brazen-faced person" mean?
+
+
+A. Someone who is very honest
+B. Someone who is very shy
+
+C. Someone who is easily scared
+
+*D. Someone who is shameless 
+
+
+78.The phrase "crocodile tears" is used to describe:
+
+
+A. Real sadness
+
+B. Tears of laughter
+
+*C. False or deceptive sadness
+
+D. Tears caused by cold weather
+
+
+
+79.What does the phrase "cross the Rubicon" mean?
+
+
+*A. To take an irreversible step
+
+B. To go on a vacation
+
+C. To cross a river safely
+
+D. To return back after a mistake
+
+
+
+
+80.What is the meaning of “catch a Tartar” in daily use?
+
+
+A. To discover something sweet
+
+B. To lose a challenge
+
+C. To find a shortcut
+
+*D. To face unexpected resistance or difficulty
+
+
+
+
+81.If someone has "the sword of Damocles" hanging over them, they are:
+
+
+A. Feeling happy and secure
+
+B. Free from all problems
+
+*C. Living under constant fear or danger
+
+D. Surrounded by friends
+
+82.The phrase "as the crow flies" refers to:
+
+
+A. How a crow sings
+
+B. The time it takes to travel
+
+*C. A direct, straight-line route
+
+D. A curved highwa
+
+
+83.What does the word "lacerate" mean?
+
+*A. To tear or wound deeply
+
+B. To make smooth
+
+C. To clean gently
+
+D. To decorate beautifully
+
+
+84. What does the word "jeremiad" mean?
+
+
+*A. A long complaint or list of woes
+
+B. A short poem
+
+C. A happy celebration
+
+D. A type of dance
+
+
+85.Which is the closest synonym of "kindle"?
+
+
+*A. Provoke
+B. Freeze
+
+C. Destroy
+
+D. Delay
+
+
+86.What does the word "laborious" mean?
+
+*A. Requiring a lot of effort and hard work
+
+B. Very fast and easy
+
+C. Done with carelessness
+
+D. Funny and entertaining
+
+
+87.What does the word "laggard" mean?
+
+*A. Someone who moves slowly or falls behind
+
+B. A person who is very fast
+
+C. Someone who leads a group
+
+D. A hardworking individual
+
+
+
+
+88.What is a synonym for "jeopardise"?
+
+
+*A. Endanger
+
+B. Protect
+
+C. Secure
+
+D. Help
+
+89.What is a synonym for "lacerate"?
+
+
+*A. Tear
+
+B. Heal
+
+C. Clean
+
+D. Build
+
+
+90.What is a synonym for "lambent"?
+
+
+*A. Glowing
+B. Dull
+
+C. Harsh
+
+D. Rough
+
+
+91.What is an antonym for "magnanimous"?
+
+
+A. Generous
+*B.Stingy 
+C. Noble
+
+D. Forgiving
+
+
+92.What is an antonym for "malafide"?
+
+
+A. Dishonest
+
+B. Fraudulent 
+*C.Bona fide (in good faith)
+D. Deceptive
+
+93. What is a synonym for "malaise"?
+
+
+A. sTRENGTH
+B. Happiness
+
+C. Excitement
+
+*D. Discomfort
+
+
+94.What is a synonym for "jettison"?
+
+
+*A. Dump
+B. Keep
+
+C. Save
+
+D. Collect
+
+95.What is a synonym for "jabber"?
+
+
+A. Listen
+B. Silence
+
+C. Whisper
+
+*D. Babble
+
+
+96. What does "to kick the bucket" mean?
+
+*A. To die
+
+B. To hurt your foot
+
+C. To get angry
+
+D. To run away
+
+
+97.What does the phrase "over the moon" mean?
+
+A. Very bored
+B. Very tired
+
+C. Very angry
+
+*D. Very happy
+
+
+
+
+98.Which sentence uses the phrase correctly?
+
+A. I took my eye off the ball and won the race
+
+*B. He lost the game because he took his eye off the ball
+
+C. She took her eye off the ball and passed the test
+
+D. They took their eye off the ball and got a reward
+
+
+
+
+99.If someone is "cooling their heels," they are:
+
+A. Rushing somewhere
+
+B.Playing outside
+*C.Waiting, often impatiently 
+D. Getting angry
+
+
+100. What does "to put the cart before the horse" mean?
+
+*A. To put wrong things first
+
+B. To travel with animals
+
+C. To prepare well
+
+D. To move very slowly
+
 
 
 
