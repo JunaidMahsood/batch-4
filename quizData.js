@@ -4,1105 +4,1053 @@
 [TIMER: 60]
 
 
-1.The phrase "Birds of the same feather flock together" suggests that:
+1.What is the synonym of sabotage?
+
+A. Assist
+
+*B.Disrupt
+C. Protect
+
+D. Support
+
+2.What is the antonym of taint?
+
+*A.Purify
+
+B. Pollute
+
+C. Damage
+
+D. Corrupt
+
+3.What is the synonym of tantrum?
+
+A. Whisper
+
+B. Smile
+
+*C.Outburst
+
+D. Hug
+
+4.What is the antonym of unanimity?
+
+A. Agreement
+
+*B.Discord
+C. Harmony
+
+D. Unity
+
+5.What is the synonym of uncouth?
+
+A. Polite
+
+B. Elegant
+
+*C.Rude
+
+D. Graceful
+
+6.What is the antonym of valedictory?
+
+A. Closing
+
+B. Farewell
+
+C. Goodbye 
+*D.Welcomig
+
+7. What is the synonym of venal?
+
+A. Honest
+
+*B.Corrupt
+
+C. Trustworthy
+
+D. Pure
+
+8.What is the antonym of waif?
+
+*A.Resident
+B. Orphan
+
+C. Homeless
+
+D. Stray
 
 
-A. Everyone likes to be alone
+9.What is the synonym of yokel?
 
-B. Opposites attract
+A. Sophisticate
 
-*C.Similar people often form friendships
+B. Urbanite
 
-D. Birds live in different places
+*C.Peasant
+D. Intellectual
 
+10.What is the antonym of zealot?
 
+A. Fanatic
 
+*B.Moderate 
+C. Enthusiast
 
-2.Which situation best represents the phrase "Ball in a china shop"?
+D. Devotee
 
+11.What does the phrase "with a grain of salt" mean?
 
-A. A cat carefully walking on a shelf
+*A.To believe only a part
+B. To believe everything completely
 
-B. A painter creating fine artwork
+C. To take something literally
 
+D. To add flavor to a story
 
-C. Someone reading quietly in a library
+12.Which situation best represents the green-eyed monster?
 
-*D. A child running wildly through a room full of fragile items
+A. Celebrating a friend’s success
 
-3. If you "give the devil his due," you:
+B. Helping someone in need
 
-A. Praise someone undeservedly
-*B.Admit the positive aspects of someone you don’t like
+*C.Feeling bitter when someone else wins
 
-C. Refuse to recognize anyone’s strengths
-
-D. Tell a story about a devil
-
-
-
-
-4. What does the phrase "to play ducks and drakes" mean?
-
-*A.To waste money or resources recklessly
-B. To take care of animals carefully
-C. To play a game with ducks
-
-D. To go fishing
+D. Ignoring someone’s achievements
 
 
 
+13.Which situation best reflects “sauce for the goose is sauce for the gander”?
 
-5.What does the phrase "at the end of one's tether" mean?
+A. A teacher gives leniency only to top students
 
+B. A boss gives a promotion without a reason
 
-A. Feeling very calm and relaxed
-
-B. Having lots of patience left
-
-*C.Being completely exhausted or fed up
-D. Starting a new journey
+C. Parents favor one child over another
 
 
+*D.A rule applies equally to both employees
 
+14.What does the phrase "to grease one's palm" mean?
 
-6.Which of the following is an example of "feathering one’s nest"?
+A. To apply lotion
 
+*B.To bribe someone
 
-A. Donating money to charity
+C. To make a deal legally
 
-*B. A politician accepting bribes for personal gain
-
-C. Teaching children in school
-
-D. Volunteering for a cause
+D. To give a handshake
 
 
 
+15.Which situation best fits “running with the hare and hunting with the hound”?
 
-7.What does the phrase "the cherry on the cake" mean?
+A. Standing up for your friend
 
+B. Avoiding a group fight
 
-A. The first step in a process
+*C.Pretending to agree with both opposing teams
 
-B. A bad ending to a situation
-*C. An additional good thing that makes something already good even better
-
-D. A random decoration
-
+D. Being silent during a debate
 
 
 
-8. Which situation best shows "playing fast and loose" ?
+16.What does the phrase "bring home" (in the idiomatic sense) mean?
+
+A. To return with shopping
+
+B. To decorate a house
+
+C. To clean the house
 
 
-A. A student studying hard for exams
+*D.To make someone clearly understand
 
-B. A driver following traffic rules
+ 
+17.Which situation best reflects “it never rains but it pours”?
+
+A. Getting a raise and buying a car
+
+*B.Failing a test, losing your phone, and falling sick—all in one day
+
+C. Having a calm and peaceful weekend
+
+D. Planning a vacation in good weather
 
 
-C. A person saving money wisely
+18.Which of the following is closest in meaning to “a nine days’ wonder”?
 
-*D. An employee manipulating accounts for personal gain
+A. A lasting memory
+
+B. A permanent change
+
+*C.A short-lived sensation
+
+D. A deep secret
+
+19.Which of the following is closest in meaning to the phrase?
+
+A. Living in comfort
+
+*B.Surviving financial hardship
+
+C. Saving for retirement
+D. Avoiding chores
+
+
+
+20.What does the phrase "backdoor influence" mean?
+
+A. Helping openly
+
+B. Influencing with honestly
+C. Entering through the wrong place
+
+*D.Gaining advantage secretly or unfairly
+
+
+21.What does an algometer measure?
+
+A. Temperature changes
+
+*B.Pain sensitivity
+
+C. Air pressure
+
+D. Heartbeat rate
+
+
+
+22.  What does a chronograph primarily measure?
+
+A. Sound intensity
+
+B. Temperature variation
+*C.Time intervals
+
+D. Light reflection
+
+
+
+24.What does a dilatometer measure? 
+
+*A.Expansion
+B. Sound waves
+
+C. Magnetic field strength
+
+D. Blood pressure
+
+
+
+25.What does an ergograph measure?
+
+A. Lung capacity
+
+B. Blood circulation
+
+*C.Work done by muscles
+
+D. Bone density
+
+
+
+26. What does a heliometer measure?
+
+A. Solar wind speed
+
+B. Ultraviolet radiation
+
+*C.Diameter of the sun or angular distances
+
+D. Earth's magnetic field
+
+
+
+27.What does a lactometer measure?
+A. Fat content in milk
+
+*B.Purity or specific gravity of milk
+
+C. Temperature of milk
+
+D. Sugar level in milk
+
+28.  What does a nephograph record?
+
+A. Brain waves
+B. Earthquake tremors
+
+
+C. Heart rhythms
+
+*D. Movements of clouds
+
+
+29.Which instrument is used to measure the size and quality of eggs?
+
+A. Lactometer
+
+B. Barometer
+
+*C.Ovometer
+
+D. Anemometer
+
+
+
+30.Which instrument is used to measure the thickness of thin materials like paper or plastic?
+
+A. Micrometer
+
+B. Vernier caliper
+
+*C.Patchometer
+
+D. Spectrometer
+
+31.Which instrument is used to measure the noise or interference in telephone lines?
+
+A. Oscilloscope
+
+B. Voltmeter
+
+C. Galvanometer
+
+
+*D.Psophometer
+
+ 
+32. Which instrument is used to measure the hardness of materials?
+
+*A.Sclerometer
+
+B. Barometer
+
+C. Hydrometer
+
+D. Chronometer
+
+33.Which instrument is used to measure pulse rate?
+
+A. Glucometer
+
+*B.Sphygmomanometer
+
+C. Thermometer
+
+D. Spirometer
+
+
+
+34. Which instrument is used to record the speed of rotation?
+
+A. Chronometer
+
+B. Odometer
+
+*C.Tachograph
+
+D. Speedometer
+
+
+
+35. Which instrument is used to measure rainfall?
+
+A. Hygrometer
+
+*B. Udometer
+
+C. Anemometer
+
+D. Barometer
+ 
+36.What quantity is measured by a barn?
+
+A. Electric current
+
+B. Pressure
+
+*C.Cross-sectional area in nuclear physics
+
+D. Temperature
+
+
+
+37.What quantity is measured by a knot?
+
+A. Temperature
+
+B. Pressure
+
+C. Electric current
+
+
+*D.Speed (nautical miles per hour)
+
+ 
+38.What does the unit phon measure?
+
+A. Light intensity
+
+*B.Loudness of sound
+
+C. Electrical resistance
+
+D. Magnetic field strength
+
+
+
+39.What quantity is measured by torr?
+
+*A.Pressure
+
+B. Temperature
+
+C. Electric current
+
+D. Sound intensity
+
+40.What quantity is measured by steradian?
+
+A. Electric charge
+
+B. Force
+
+*C.Solid angle
+
+D. Frequency
+
+
+
+41. Who was the flag bearer in Ghazwa Abwa (Waddan)?
+
+A. Ali ibn Abi Talib
+
+*B.Hamza ibn Abdul Muttalib
+
+C. Zubair ibn Al-Awwam
+
+D. Umar ibn Al-Khattab
+
+42.Who was the oldest companion and fought in the front line during the Battle of Badr?
+
+A. Abu Bakr As-Siddiq
+
+B. Sa’d ibn Mu’adh
+
+*C.Abu Ubaidah ibn al-Harith
+
+D. Zayd ibn Harithah
+
+
+
+43. Who commanded the infidels (Quraysh) during the Battle of Uhud?
+
+A. Abu Jahl
+
+*B. Abu Sufyan ibn Harb
+
+C. Khalid ibn Al-Walid
+
+D. Amr ibn Al-As
+
+44. which battle did the Holy Prophet (S.A.W) missed four prayers?
+A. Battle of Uhud
+
+B. Battle of Khaybar
+
+*C.Battle of the Trench (Khandaq)
+
+D. Battle of Badr
+
+
+
+45. What was the number of Muslim soldiers in the Battle of Hunayn?
+
+A. 5,000
+
+B. 8,000
+
+C. 15,000
+
+*D.12,000
+
+
+
+46.What is the meaning of the word "Khalifa"?
+
+A. Warrior
+
+*B.Successor or deputy
+
+C. Prophet
+
+D. Teacher
+
+47. In which caliphate era did some people refuse to pay Zakat, leading to the Ridda Wars?
+
+A. Umar ibn Al-Khattab
+
+*B.Abu Bakr As-Siddiq
+
+C. Uthman ibn Affan
+
+D. Ali ibn Abi Talib
+
+48. The Islamic state stretched from Libya to Makran and from Yemen to Armenia during the caliphate of:
+
+A. Abu Bakr As-Siddiq
+
+B. Uthman ibn Affan
+
+*C.Umar ibn Al-Khattab
+
+D. Ali ibn Abi Tali
+
+49.Who was the first Hafiz (memorizer) of the Quran?
+
+*A.Uthman ibn Affan
+B. Ali ibn Abi Talib
+C. Abu Bakr As-Siddiq  
+
+D. Zayd ibn Thabit
+
+
+
+50.Who led the Janaza (funeral prayer) of Uthman ibn Affan?
+
+A. Ali ibn Abi Talib
+
+*B.Jabir bin Mut‘am
+
+C. Hasan ibn Ali
+
+D. Abdullah ibn Mas'ud
+
+
+
+51.Who assassinated Hazrat Ali (RA)?
+
+A. Muawiyah ibn Abi Sufyan
+
+B. Talha ibn Ubaydullah
+
+*C.Abd al-Rahman ibn Muljam
+
+D. Amr ibn al-As
+
+
+
+52. Who was the 10th Sultan of the Ottoman Empire?
+
+A. Ahmed I
+
+B. Murad IV
+
+*C.Beyazid II
+
+D. Suleiman the Magnificent
+
+
+
+53.What is the style of the Quran?
+
+*A. Prose mixed with poetry
+
+ B.Rhythmic and eloquent prose (Saj‘)
+
+C. Pure poetry
+
+D. Narrative only
+
+
+
+55.How many verses (Ayat) are there in the first Surah of the Quran (Surah Al-Fatiha)?
+
+A. Five
+
+B. Six
+
+*C.Seven
+
+D. Eight
+
+56.What is the meaning of Surah Al-An'am?
+
+A. The Prophets
+
+B. The Bees
+
+C. The Heights
+
+*D.The Cattle
+
+57.What is the special subject of Surah Al-Hijr?
+A. Laws of inheritance
+
+*B.Protection of the Quran
+
+C. Migration of the Prophet
+
+D. Battle strategies
+
+
+
+58.What is the meaning of Surah Ash-Shu'ara?
+
+A. The Prophets
+
+B. The Angels
+
+*C.The Poets
+
+D. The Believers
+
+Want the next one?
+
+
+
+
+
+
+
+
+
+59. What is the meaning of Surah Az-Zukhruf?
+
+*A. The Ornaments of Gold
+B. The Thrones
+
+C.The Silver coins
+
+D. The Treasures
+
+60.What is the meaning of Surah Ad-Dukhan?
+
+A. The Stars
+
+*B.The Smoke
+
+C. The Fire
+
+D. The Darkness
+
+61.What is the subject of the 2nd Amendment to the Constitution of Pakistan (1973)?
+
+A. Provincial autonomy
+
+B. Judiciary reforms
+
+*C.Declaration of Ahmadis as non-Muslims
+
+D. Presidential powers
+
+
+
+62.What is the main subject of the 18th Amendment to the Constitution of Pakistan (1973)?
+
+*A. Devolution of powers from President to Prime Minister and removal of Article 58(2)(b)
+
+B. Changes in the electoral process
+
+C.Introduction of military courts
+
+D. Ban on dual nationality
+
+63. What is the approximate range of Pakistan’s location in east longitude?
+
+A. 60°00'E to 75°00'E
+
+B. 61°15'E to 78°30'E
+
+*C.60°50'E to 77°50'E
+
+D. 59°30'E to 76°15'E
+
+
+
+64.Where is the Manthokha Waterfall located?
+
+A. Swat Valley
+
+*B.Kharmang Valley,Skardu, Gilgit-Baltistan
+
+C. Muzaffarabad
+
+D. Chilas
+
+65.Where is Cham Waterfall located?
+
+A. Swat Valley
+
+B. Abbottabad
+
+*C. Hathian Bala, Azad Kashmir
+
+D. Skardu
+
+66.What is the approximate elevation of the Katpana Desert in Pakistan?
+
+A. 1800 meters
+
+B. 2000 meters
+
+C. 2500
+*D.2226 meters
+
+ 
+67.The Potohar Plateau is bounded on the south by which geographical feature?
+
+*A.Salt Range
+
+B. Thar Desert
+
+C. Sulaiman Mountains
+
+D. Kirthar Range
+
+
+
+68.Tochi Pass connects which areas between Pakistan and Afghanistan?
+
+A. Kabul and Peshawar
+
+B. Spin Boldak and Quetta
+
+*C.Ghazni and Bannu
+
+D. Jalalabad and Landi Kotal
+
+
+
+69.What is the approximate length of the Hindu Kush mountain range?
+
+A. 1200 km
+
+*B.800 km
+
+C. 600 km
+
+D. 1000 km
+
+
+
+70.In which year was the Tarbela Dam completed?
+
+A. 1974
+
+B. 1976
+
+*C.1976
+
+D. 1980
 
  
 
-9. What does the phrase "from pillar to post" mean?
+71.What is the total installed power generation capacity of the Warsak Dam Hydropower Project?
 
-*A. Being sent from one place or person to another without getting help
- 
+A. 150 MW
 
-B. Moving carefully between safe places
-C. Traveling on a straight path
+*B.243 MW
 
-D. Building a strong foundation
+C. 525 MW
 
+D. 500 MW
 
 
 
-10. Which situation shows the meaning of "a fly in the ointment"?
+72.What is the approximate length of the Sutlej River?
+A. 1300 kilometers
 
+B. 1700 kilometers
 
-A. A perfect meal served on time
+C. 1550 kilometers
 
-*B. A great party spoiled by loud neighbors
+*D.1450 kilometers
 
-C. A successful exam result
 
-D. A calm day with no worries
 
+73. Where is Hamal Lake located?
 
-11. Which of the following is the closest synonym of "narcissism"?
+A. Quetta, Balochistan
 
+*B.Qambar Shahdadkot, Sindh
 
-A. Generosity
+C. Swat, Khyber Pakhtunkhwa
 
-B.Humility
+D. Multan, Punjab
 
-*C. Self-love
 
-D. Kindness
 
+75.Where is Lalusar Lake located?
+A. Skardu, Gilgit-Baltistan
 
+B. Shandur, Khyber Pakhtunkhwa
 
+*C.Naran Valley, Khyber Pakhtunkhwa
 
-12.Which of the following best represents the opposite of a "necropolis"?
+D. Chilas, Gilgit-Baltistan
 
 
-*A. City full of life
 
-B.Graveyard
-C. Tomb
+76.Rechna Doab is the land between which two rivers?
 
-D. Crematorium
+A. Chenab and Ravi
 
+B. Ravi and Jhelum
 
-13. What is the most appropriate antonym of "obdurate"?
+*C.Chenab and Ravi
 
+D. Indus and Chenab
 
-A. Harsh
 
-*B.Docile
 
-C. Cruel
+77.Which barrage is the source of the D.G. Khan Canal?
 
-D. Cold
+A. Jinnah Barrage
 
+*B.Taunsa Barrage
 
+C. Guddu Barrage
 
+D. Sukkur Barrage
 
-14.What is the closest synonym of the word "oblivious"?
 
 
-A. Alert
+78.Guddu Barrage is built on which river?
 
-B. Attentive
+*A.Indus River
 
-C  Watchful
-*D. Unaware
+B. Chenab River
+C. Sutlej River
 
+D. Jhelum River
 
 
-15. What is the closest synonym of the word "painstaking"?
 
+79.Who was the first Governor of Khyber Pakhtunkhwa (formerly NWFP) after independence?
 
-A. Careless
+A. Ghulam Muhammad
 
-*B.Meticulous
+B. Abdul Rab Nishtar
 
-C. Quick
+*C.Sir George Canningham
 
-D. Lazy
+D. Iskander Mirza
 
 
-16.What is the most appropriate antonym of "palaver"?
 
+80.Who was the first Pakistani woman to summit Mount Everest?
 
-A. Gossip
+A. Naila Kiani
 
-B. Chatter
+*B.Samina Baig
 
-*C.Sooth 
-D. Ramble
+C. Uzma Yousaf
 
+D. Namira Salim
 
-17.Which word is similar in meaning to "quagmire"?
 
 
-A. Escape
+81. Which Pakistani mountaineer became the first Pakistani woman to summit 11 peaks over 8,000 meters in the world?
 
-*B.Dilemma
+A. Samina Baig
 
-C. Comfort
+B. Uzma Yousaf
 
-D. Success
+*C.Naila Kiani
 
+D. Shehroze Kashif
 
-18. What is the most appropriate antonym of "quandary"?
+82. Which team won the Sultan Azlan Shah Cup 2024 by defeating Pakistan in the final?
 
-*A.Certainty
-B.  Confusion
+A. Malaysia
 
-C. Dilemma
+B. South Korea
 
-D. Hesitation
-
-
-
-
-19.Which word is most similar in meaning to "raillery"?
-
-
-A. Criticism
-
-*B.Mockery 
-C. Scolding
-
-D. Silence
-
-
-20.What is the most suitable antonym of "rambunctious"?
-
-
-A. Wild
-
-B. Rowdy
-
-*C.Genial
-D. Loud
-
-
-21.Rohri Junction, known for having the largest platform in Pakistan, is located in which province?
-
-
-A. Punjab
-
-*B.Sindh
-
-C. Khyber Pakhtunkhwa
-
-D. Balochistan
-
-22. What is the official national tree of Pakistan?
-
-
-A. Banyan
-
-B. Eucalyptus
-
-*C.Cedrus deodara
-D. Neem
-
-
-24. Who was the first captain of the Pakistan national cricket team?
-
-
-*A. Abdul Hafeez Kardar
-
-B. Imran Khan
-
-C. Hanif Mohammad
-
-D. Fazal Mahmood
-
-
-
-25. Who hit 9 Test centuries in the year 2006, setting a world record?
-
-
-A. Ricky Ponting
-
-*B.Mohammad Yousuf
-
-C. Jacques Kallis
-
-D. Rahul Dravid
-
-
-
-
-26. Who is the author of the book "Five Thousand Years of Pakistan"?
-
-
-A. Rafique Mughal
-
-B. Ahmed Dani
-*C.Mortimer Wheeler
-D. I.H. Qureshi
+C. India
+*D.Japan
 
  
-27.What was the old name of the city now known as Attock?
+83.Which Pakistani female lieutenant general won the 3rd Bint-e-Hawa Achievement Award in 2024?
 
+A. Samina Baig
 
-A. Kalabagh
+*B.Nigar Johar
 
-*B.Campbellpur
+C. Sharmeen Obaid-Chinoy
+D. Naila Kiani
 
-C. Gandhara
+84.Which Pakistani missile system was successfully test-fired in May 2024 with a range of 400 kilometers?
 
-D. Taxila 
+*A.Fatah-II
 
-28.  Where is the highest ATM in Pakistan located?
+B. Shaheen-III
 
+C. Ghaznavi
 
-*A. Khunjerab Pass
+D. Babur-III
 
-B. Nanga Parbat Base Camp
+85.Which country introduced an AI-generated spokesperson named Victoria Shi in May 2024?
 
-C. Fairy Meadows
+A. China
 
-D. Deosai Plains
+*B.Ukraine
 
-29.Which mosque in Pakistan is claimed to be the largest single-domed mosque?
+C. Estonia
 
+D. Singapore
 
-A. Faisal Mosque
+86. Which England cricketer announced his retirement from international cricket in May 2024?
 
-B. Badshahi Mosque
+A. Joe Root
 
-*C.Masjid-e-Tooba
-D. Shah Jahan Mosque
+*B.James Anderson
 
+C. Ben Stokes
 
+D. Jos Buttler
 
-30. The Pakistan Atomic Energy Commission’s main nuclear research center is located at:
+87. Who became Brighton and Hove's first South Asian Muslim mayor in May 2024?
 
+*A. Mohammed Asaduzzaman
 
-A. Karachi
+B. Imran Hussain
 
-*B. Nilore
+C. Imran Khan
 
-C. Faisalabad
+D. Rishi Sunak
 
-D. Quetta
+88.In which country was the world's first 100% biodegradable pen launched in May 2024?
 
+A. Canada
+B. Japan
+C. Germany
 
-31. From which launch site was Pakistan's Badr-2 satellite launched?
+*D.India
 
 
-A. Sonmiani Test Range
+89.On which date is the World Migratory Bird Day celebrated?
 
-B. Xichang Satellite Launch Center
+A. April 5
 
-*C.Baikonur Cosmodrome
+*B. May 11
 
-D. Jiuquan Satellite Launch Center
+C. June 8
 
+D. July 15
 
+90. Who became the first female brigadier in the Pakistan Army from the Christian and minority community in May 2024?
 
+*A. Dr.Helen Mary Roberts
 
-32. The M-5 Motorway connects which two cities in Pakistan?
+B. Shazia Anwar
 
+C. Sherry Rehman
 
-A. Islamabad and Lahore
+D. Asma Jahangir
 
-B. Karachi and Hyderabad
+91.What is the name of the military operation Pakistan planned to launch against terrorism in June 2024?
 
-C. Peshawar and Rawalpindi
+A. Operation Zarb-e-Azb
 
+B. Operation Radd-ul-Fasaad
 
-*D.Multan and Sukkur
+*C.Operation Azm-e-Istehkam
 
+D. Operation Rah-e-Nijat
 
+92. What was the total outlay of the Punjab government's budget for the fiscal year 2024–2025?
+A. PKR 4.5 trillion
 
+*B.PKR 5.45 trillion
+C. PKR 5.0 trillion
 
-33. What is the total length of the E-75 Expressway in Pakistan?
+D. PKR 6.0 trillion
 
+93. Taskeen Zafar, who passed away in June 2024, was associated with which field?
 
-A. 80 km
+A. Sports
 
-B. 100 km
+B. Literature
 
-*C.90 km
+*C.Broadcasting
 
-D. 70 km
+D. Politics
 
+94.What is the installed power generation capacity of the Suki Kinari Hydropower Project located in Kunhar river Mnasehra,KPK?
 
-34. What share did Sindh receive under the 7th NFC Award?
+A. 720 MW
 
-A. 17.5%
+B. 1000 MW
 
-B. 21.2%
+C. 960 MW
+*D.884MW 
 
-*C.24.55%
+95.Which Pakistani author was awarded the King Charles Pen Award by the Canadian government in recognition of his outstanding services?
 
-D. 29.00%
 
+A. Bina Shah
 
-35. Which article of the Constitution of Pakistan deals with the NFC Award?
+*B.Anwar Maqsood
 
-A. Article 142
+C. Harris Khalique
 
-*B. Article 160
+D. Rukhsana Khan
 
-C. Article 153
+96.Who was crowned the Boys' Under-19 champion at the 31st Asian Junior Individual Squash Championship?
 
-D. Article 161
 
- 
-36.Who was the first female justice of Balochistan?
+A. Noor Zaman
 
-A. Nasira Iqbal
+B. Sohail Adnan
 
-B. Ashraf Jehan
+*C.Hamza Khan
+D. Abdullah Nawaz
 
-C. Ayesha Malik
-*D.Syeda Tahira Safdar
+97.Who was appointed as the Chief Justice of the Sindh High Court in June 2024?
 
 
+A. Justice Irfan Saadat Khan
 
+B. Justice Muhammad Junaid Ghaffar
 
-37."Fort Munro" is located in which province of Pakistan?
+*C.Justice Muhammad Shafi Siddiqui
 
+D. Justice Aqeel Ahmed Abbasi
 
-A. Khyber Pakhtunkhwa
+98.In which country were Pakistani students attacked in May 2024?
 
-*B.Punjab
 
-C. Balochistan
+A. India
 
-D. Sindh
-
- 
-
-
-38."Lake Haleji" is situated in which province of Pakistan?
-
-
-A. Punjab
-
-*B.Sindh
-
-C. Balochistan
-
-D. Khyber Pakhtunkhwa
-
-
-
-
-39.How many administrative divisions are there in Khyber Pakhtunkhwa (KPK)?
-
-
-A. 05
-
-B. 06
-
-*C.07
-
-D. 08
-
-40. What was Pakistan's rank in the 2022 Corruption Perceptions Index (CPI) released by Transparency International?
-
-
-A. 120th
-
-B. 130th
-
-C. 150th
-*D.140th
-
-
-
-41. Who became the first Sikh minister in the Punjab province of Pakistan in March 2024?
-
-A. Sardar Tarlochan Singh
-
-B. Amarjeet Singh
-
-*C.Sardar Ramesh Singh Arora
-
-D. Harmeet Singh
-
-
-42.The first polio case of 2024 in Balochistan was reported from which district?
-
-A. Quetta
-
-B. Pishin
-
-*C.Dera Bugti
-
-D. Chaman
-
-
-43. Who became the first female fast-bowling coach in the history of the Pakistan Super League (PSL)?
-
-A. Kim Cotton
-
-B. Alex Hartley
-
-C. Sana Mir
-*D.Catherine Dalton
-
- 
-
-44. What is the commonly used name for the Pakistan-Iran gas pipeline project?
-
-A. Peace Corridor
-
-*B.Peace Pipeline
-
-C. Gas Friendship Line
-
-D. Energy Unity Line
-
-
-45. Which country became the first to explicitly guarantee the right to abortion in its constitution in March 2024?
-
-A. United States
-
-B. Canada
-
-*C.France
-
-D. Germany
-
-
-46.Which countries have planned to build a nuclear power plant on the Moon?
-
-
-A. United States and Japan
-
-*B.China and Russia
-
-C. India and Japan
-
-D. United Kingdom and France 
-
-
-47. Where was the world's first 3D-printed mosque opened?
-
-
-A. Dubai, United Arab Emirates
-
-B. Riyadh, Saudi Arabia
-
-C. Cairo, Egypt 
-*D.Jeddah, Saudi Arabia
-
- 
-
-48. Which city dethroned Beijing to become Asia's billionaire capital for the first time in March 2024?
-
-
-*A. Mumbai
-
-B. Dhaka
-C. New Delhi
-
-D. Shanghai
-
-
-49.What was the theme for World Poetry Day 2024?
-
-
-A. Poetry as a Bridge for Peace and Inclusion
-
-*B.Standing on the Shoulders of Giants
-
-C. Embrace the Poet Within, Even in Prose
-
-D. Poetry: A Voice for the Voiceless
-
-
-50.According to the World Bank's April 2024 update, what was Pakistan's projected GDP growth rate for FY2024?
-
-A. 2.0%
-B. 2.5%
-C. 3.0%
-
-*D.1.8%
-
- 
-51.Which female police officer from Punjab was honored with the IAWP's 'Excellence in Performance Award' in April 2024?
-
-
-*A.SSP Riffat Bukhari
-
-B. SSP Sonia Shamroz Khan
-
-C. ASP Syeda Shehrbano Naqvi
-
-D. SP Anoosh Masood Chaudhry 
-
-52. Which country did Pakistan pitch an "epic menu" of $30 billion investment projects to in April 2024?
-
-A. Iraq
 B. China
 
-*C.Saudi Arabia
+*C.Kyrgyzstan
 
-D. Azerbaijan
+D. Iran
 
-53.What was the codename of Iran's April 2024 attack on Israel?
 
+99.Who was appointed as the Inspector General (IG) of Azad Kashmir Police in June 2024?
 
-A. Operation Desert Storm
 
-*B. Operation True Promise
+A. Sohail Habib Tajik
 
-C. Operation Iron Shield
+B. Amir Ahmed Sheikh
 
-D. Operation Thunderbolt
+C. Salahuddin Khan
+*D.Rana Abdul Jabbar
 
-55.According to the World Meteorological Organization, which region was hit hardest by climate and weather disasters in 2023?
+100. Who was appointed as the Chairman of the Council of Islamic Ideology (CII) on May 21, 2024?
 
+*A. Allama Dr.Raghib Hussain Naeemi
+B. Dr.Tahir Ashrafi
 
-*A.Asia
+C. Dr.Qibla Ayaz
+D. Mufti Taqi Usman
 
-B. Africa
 
-C. South America
-
-D. Europe
-
-56. Where is Mount Erebus, the volcano that emits approximately 80 grams of gold daily, located?
-
-
-A. Chile
-B. Iceland
-
-C. Indonesia
-
-*D.Antarctica
- 
-
-57.Where were the 2024 Asian Wrestling Championships held?
-
-
-A. Amman, Jordan
-B. Astana, Kazakhstan
-
-*C.Bishkek, Kyrgyzstan
-
-D. Ulaanbaatar, Mongolia 
-
-58.Chakisaurus nekul belongs to which species group?
-
-A.Theropod dinosaur
-*B.Herbivorous dinasaur
-C. Sauropod dinosaur
-
-D. Ceratopsian dinosaur
-
-59. What was the theme for International Children's Book Day (ICBD) 2024?
-
-
-*A.Cross the Seas on the Wing of your Imagination
-
-B. Stories are Wings that Help You Soar Every Day
-
-C. I Am a Book, Read Me
-
-D. The Music of Words
-
-60.Who won the 2024 Shanghai Grand Prix?
-
-A. Sergio Pérez
-B. Lewis Hamilton
-
-C. Charles Leclerc
-
-*D.Max Verstappen
-
-
-61.In which context is "abatement" commonly used?
-
-A. Cooking
-
-*B.Environmental control
-
-C. Fashion
-
-D. Sports
-
-
-
-62.What is compost primarily made from?
-
-*A.Decomposed organic matter
-
-B. Processed chemicals
-
-C. Crushed stones
-
-D. Industrial waste
-
-63.What does the term "dumping" usually refer to in environmental science?
-
-A.Recycling of plastic
-B. Planting of trees
-
-*C.Disposal of waste materials
- 
-D. Building of dams
-
-64. What is the primary function of an incinerator?
-
-*A.Burning waste materials
-
-B. Recycling plastic
-
-C. Purifying air
-
-D. Filtering water
-
-65.A benefit of MBT is:
-
-A. Increasing landfills
-*B.Reducing landfill waste
-
-C. Water purification
-
-D. Tree plantation
-
-66.Which of the following is an example of a zero-emission vehicle?
-
-A. Diesel truck
-
-B. Gasoline scooter
-*C.Electric car 
-
-D. Hybrid motorcycle
-
-67.What is the focus of areology?
-
-A. Earth's crust
-
-*B.Planet Mars
-
-C. Human anatomy
-
-D. Ocean currents
-
-68.What does coleopterology study?
-
-*A.Beetles
-
-B. Butterflies
-
-C. Spiders
-
-D. Ants
-
-69.What does gemology study?
-
-A. Minerals
-
-B. Rocks
-
-*C.Gemstones
-
-D. Metals
-
-70.What does heliology focus on?
-
-A. The Earth
-
-B. The Moon
-
-C. The stars
-*D.The Sun
-
- 
-71.What is the main focus of kymatology?
-
-A. Study of light
-
-*B.Study of waves
-
-C. Study of particles
-
-D. Study of forces
-
-72.What is the main focus of orology?
-
-*A.Mountains
-
-B.Rivers
-C. Deserts
-
-D. Forests
-
-73. Pomologists are experts in:
-
-A. Animal breeding
-
-*B.Fruit production and quality
-
-C. Soil conservation
-
-D. Forest management
-
-
-
-74.What does seismology primarily study?
-
-A. Volcanic eruptions
-
-*B.Earthquakes
-
-C. Weather patterns
-
-D. Ocean currents
-
-75.What is the main focus of urology?
-
-A. Digestive system
-
-*B.Urinary tract and male reproductive system
-
-C. Respiratory system
-
-D. Nervous system
-
-76.What is the main focus of zoopsychology?
-
-A. Plant growth
-
-B. Human psychology
-
-*C.Animal behavior and cognition
-D. Microbiology
-
-77.What does rheumatology primarily focus on?
-
-A. Cardiovascular diseases
-
-B. Respiratory disorders
-
-C. Neurological conditions
-*D.Disorders of joints and connective tissues
-
-
-78.Which part of the body does an otologist specialize in?
-
-A. Lungs
-
-B. Skin
-
-*C.Auditory system
-
-D. Digestive tract
-
-79.What does oncology focus on?
-
-*A.Cancer
-
-B. Cardiovascular diseases
-
-C. Infectious diseases
-D. Neurological disorders
-
-80.Nephology helps in understanding:
-
-A. Earthquakes
-
-B. Soil erosion
-
-*C.Weather and precipitation patterns
-
-D. Volcanic activity
-
-81. Which body of water is located to the east of the Arabian Peninsula?
-
-A. Red Sea
-
-B. Gulf of Aden
-
-*C.Persian Gulf
-
-D. Black Sea
-
-
-
-82.Who among the pre-Islamic Arabs were known for worshipping stars and planets?
-
-A. Quraish
-
-*B.Sabeans
-
-C. Banu Thaqif
-
-D. Banu Aus
-
-
-
-83.Which Prophet is considered the "Father of Translators"?
-
-A. Yusuf (A.S.)
-
-B. Dawood (A.S.)
-
-*C.Ismail (A.S.)
-
-D. Musa (A.S.)
-
-84.What profession is Prophet Dhul-Kifl (A.S.) associated with?
-
-A. Carpenter
-
-B. Trader
-
-*C.Baker and judge
-
-D. Shepherd
-
-
-85.What was the name of the clan of Amina bint Wahb bin Abd Manaf (mother of Prophet Muhammad PBUH)?
-
-A. Banu Hashim
-
-*B. Banu Zuhrah
-
-C. Banu Umayyah
-
-D. Banu Asad
-
-
-86.How many foster sisters did Prophet Muhammad (S.A.W) have?
-
-*A.Two
-
-B. Three
-
-C. Four
-
-D. Five
-
-
-
-87. Who was the second paternal uncle of Prophet Muhammad (S.A.W)?
-
-A. Abu Talib
-
-B. Abu Lahab
-
-*C.Abbas ibn Abdul Muttalib
-
-D. Hamza ibn Abdul Muttalib.
-
-88.Who was the first paternal aunt of Prophet Muhammad (S.A.W)?
-
-A. Arwa bint Abdul Muttalib
-
-*B.Safiyyah bint Abdul Muttalib
-
-C. Atikah bint Abdul Muttalib
-
-D. Barrah bint Abdul Muttalib
-
-
-
-89.How much was the mahr (dowry) given by Prophet Muhammad (S.A.W) to Hazrat Khadijah (R.A)?
-
-*A.20 camels and 12 ounces of silver
-
-B. 10 camels and 50 ounces of silver
-
-C. 5 camels and 50 ounces of silver
-
-D. 50 camels and 100 ounces of silver
-
-
-
-90.In which battle did Ayesha bint Abi Bakr (R.A) lead an Islamic army?
-
-A.Battle of Badr
-B. Battle of Uhud
-
-C. Battle of Khandaq
-
-*D.Battle of Jamal (Camel)
-
-
-91.Which wife of Prophet Muhammad (S.A.W) is famous for being the guardian of the first written Quran?
-
-A. Hafsa bint Umar (R.A)
-B. Aisha bint Abi Bakr (R.A)
-*C.Hafsa bint Umar (R.A)
-
-D. Zaynab bint Jahsh (R.A)
-
-92.hat was the name of the Prophet Muhammad's (S.A.W) wife who was previously divorced by the Prophet's adopted son, Zayd ibn Harithah (R.A)?
-
-*A.Zaynab bint Jahsh (R.A)
-
-B. Umm Salama (R.A)
-
-C. Aisha bint Abi Bakr (R.A)
-
-D. Safiyya bint Huyayy (R.A)
-
-
-
-93.Which daughter of Prophet Muhammad (S.A.W) is known as Khatun-e-Jannat (Lady of Paradise)?
-
-A. Zainab bint Muhammad (R.A)
-
-*B.Fatimah bint Muhammad (R.A)
-
-C. Ruqayyah bint Muhammad (R.A)
-
-D. Umm Kulthum bint Muhammad (R.A)
-
-
-
-94.Who was the youngest son of Prophet Muhammad (S.A.W)?
-
-A. Abdullah (Tayyib and Tayyir)
-
-B. Qasim ibn Muhammad
-
-*C.Ibrahim ibn Muhammad
-
-D. Ali ibn Muhammad
-
-
-
-95.When was fasting (Sawm) made obligatory for Muslims?
-
-A. During the first revelation
-
-*B. In the 2nd Hijri
-
-C. In the 6th Hijri
-
-D. During the Battle of Badr
-
-
-
-96.Who was the first Sahabi (companion) of Prophet Muhammad (S.A.W)?
-
-A. Abu Bakr Siddiq (R.A)
-
-B. Umar ibn al-Khattab (R.A)
-
-C. Ali ibn Abi Talib (R.A)
-
-*D.Zayd ibn Harithah (R.A)
-
-
-
-97.What is considered the first written constitution in Islamic history?
-
-A. Constitution of Makkah
-
-*B. Constitution of Madinah (Constitution of Medina)
-
-C. Constitution of Uhud
-
-D. Treaty of Hudaybiyyah
-
-
-
-98.How many people were there in the Muslim army during the Battle of Uhud?
-
-*A. 600
-
-B. 700
-
-C. 1,000
-
-D. 3,000
-
-99.How many people were there in the non-Islamic force during the Battle of Uhud?
-
-A. 2,000
-
-B. 1,000
-
-*C. 3,000
-D. 700
-
-100. How many Muslim fighters were martyred in the Battle of Badr?
-
-A. 10
-
-B. 20
-
-C. 50
-*D.14
 
 
 
