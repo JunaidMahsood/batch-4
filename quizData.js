@@ -4,1058 +4,874 @@
 [TIMER: 60]
 
 
-1.What is the synonym of sabotage?
+1.What is hard water?
 
-A. Assist
+A. Water that contains high amounts of chlorine and fluoride
 
-*B.Disrupt
-C. Protect
+*B.Water that does not form lather easily
+C. Water that is unsafe for drinking due to microbes
 
-D. Support
+D. Water that evaporates quickly under sunlight
 
-2.What is the antonym of taint?
 
-*A.Purify
 
-B. Pollute
 
-C. Damage
+2.What is a nuclear fission reaction?
 
-D. Corrupt
+*A.A reaction in which a heavy nucleus splits into two lighter nuclei
+B. A reaction in which two light nuclei combine to form a heavier nucleus
 
-3.What is the synonym of tantrum?
+C. A chemical reaction involving the breaking of covalent bonds
 
-A. Whisper
+D. A process of radioactive decay involving alpha emission
 
-B. Smile
 
-*C.Outburst
+3.What is an empirical formula?
 
-D. Hug
+A. A formula showing the actual number of atoms of each element in a molecule
 
-4.What is the antonym of unanimity?
+B. A chemical equation balanced with mass and charge
+*C.A formula showing the simplest whole-number ratio of atoms of each element in a compound
 
-A. Agreement
+D. A graphical representation of molecular struct
 
-*B.Discord
-C. Harmony
 
-D. Unity
+4. What is a meteorite?
 
-5.What is the synonym of uncouth?
+A. A man-made satellite orbiting the Earth
+*B.A fragment of a meteoroid that survives passage through the atmosphere and reaches Earth's surface
 
-A. Polite
+C. A flash of light caused by reflection from the Moon
 
-B. Elegant
+D. A piece of rock that burns up completely in the Earth’s atmosphere
 
-*C.Rude
+5.What is smog?
 
-D. Graceful
+*A.A type of air pollution formed by the mixture of smoke and fog
 
-6.What is the antonym of valedictory?
+B. A dense form of water vapor
 
-A. Closing
+C. A cloud formed in deserts
 
-B. Farewell
+D. A layer of ozone in the atmosphere
 
-C. Goodbye 
-*D.Welcomig
 
-7. What is the synonym of venal?
 
-A. Honest
 
-*B.Corrupt
+6. What is the centre of gravity of a body?
+A. The point where all the mass is concentrated
 
-C. Trustworthy
+*B.The point through which the weight of the body appears to act
 
-D. Pure
+C. The point with maximum density
 
-8.What is the antonym of waif?
+D. The point of zero weight
 
-*A.Resident
-B. Orphan
 
-C. Homeless
+7.What is velocity?
 
-D. Stray
+*A.The rate of change of displacement with respect to time
 
+B. The rate of change of speed with time
 
-9.What is the synonym of yokel?
+C. The total distance covered
 
-A. Sophisticate
+D. The speed of an object without direction
 
-B. Urbanite
 
-*C.Peasant
-D. Intellectual
 
-10.What is the antonym of zealot?
+8. In a transverse wave, the particles of the medium move:
 
-A. Fanatic
+A. Parallel to the wave direction
 
-*B.Moderate 
-C. Enthusiast
+*B.Perpendicular to the direction of wave propagation
 
-D. Devotee
+C. In a circular motion
 
-11.What does the phrase "with a grain of salt" mean?
+D. Backward only
 
-*A.To believe only a part
-B. To believe everything completely
 
-C. To take something literally
 
-D. To add flavor to a story
+9.What type of image is formed by a convex mirror?
 
-12.Which situation best represents the green-eyed monster?
+A. Real, inverted, and magnified
+B. Real, erect, and diminished
+*C.Virtual, erect, and diminished
 
-A. Celebrating a friend’s success
+D. Virtual, inverted, and magnified
 
-B. Helping someone in need
 
-*C.Feeling bitter when someone else wins
 
-D. Ignoring someone’s achievements
+10.Which instrument is used to measure heat?
 
-
-
-13.Which situation best reflects “sauce for the goose is sauce for the gander”?
-
-A. A teacher gives leniency only to top students
-
-B. A boss gives a promotion without a reason
-
-C. Parents favor one child over another
-
-
-*D.A rule applies equally to both employees
-
-14.What does the phrase "to grease one's palm" mean?
-
-A. To apply lotion
-
-*B.To bribe someone
-
-C. To make a deal legally
-
-D. To give a handshake
-
-
-
-15.Which situation best fits “running with the hare and hunting with the hound”?
-
-A. Standing up for your friend
-
-B. Avoiding a group fight
-
-*C.Pretending to agree with both opposing teams
-
-D. Being silent during a debate
-
-
-
-16.What does the phrase "bring home" (in the idiomatic sense) mean?
-
-A. To return with shopping
-
-B. To decorate a house
-
-C. To clean the house
-
-
-*D.To make someone clearly understand
-
- 
-17.Which situation best reflects “it never rains but it pours”?
-
-A. Getting a raise and buying a car
-
-*B.Failing a test, losing your phone, and falling sick—all in one day
-
-C. Having a calm and peaceful weekend
-
-D. Planning a vacation in good weather
-
-
-18.Which of the following is closest in meaning to “a nine days’ wonder”?
-
-A. A lasting memory
-
-B. A permanent change
-
-*C.A short-lived sensation
-
-D. A deep secret
-
-19.Which of the following is closest in meaning to the phrase?
-
-A. Living in comfort
-
-*B.Surviving financial hardship
-
-C. Saving for retirement
-D. Avoiding chores
-
-
-
-20.What does the phrase "backdoor influence" mean?
-
-A. Helping openly
-
-B. Influencing with honestly
-C. Entering through the wrong place
-
-*D.Gaining advantage secretly or unfairly
-
-
-21.What does an algometer measure?
-
-A. Temperature changes
-
-*B.Pain sensitivity
-
-C. Air pressure
-
-D. Heartbeat rate
-
-
-
-22.  What does a chronograph primarily measure?
-
-A. Sound intensity
-
-B. Temperature variation
-*C.Time intervals
-
-D. Light reflection
-
-
-
-24.What does a dilatometer measure? 
-
-*A.Expansion
-B. Sound waves
-
-C. Magnetic field strength
-
-D. Blood pressure
-
-
-
-25.What does an ergograph measure?
-
-A. Lung capacity
-
-B. Blood circulation
-
-*C.Work done by muscles
-
-D. Bone density
-
-
-
-26. What does a heliometer measure?
-
-A. Solar wind speed
-
-B. Ultraviolet radiation
-
-*C.Diameter of the sun or angular distances
-
-D. Earth's magnetic field
-
-
-
-27.What does a lactometer measure?
-A. Fat content in milk
-
-*B.Purity or specific gravity of milk
-
-C. Temperature of milk
-
-D. Sugar level in milk
-
-28.  What does a nephograph record?
-
-A. Brain waves
-B. Earthquake tremors
-
-
-C. Heart rhythms
-
-*D. Movements of clouds
-
-
-29.Which instrument is used to measure the size and quality of eggs?
-
-A. Lactometer
+A. Thermometer
 
 B. Barometer
 
-*C.Ovometer
+*C.Calorimeter
 
-D. Anemometer
+D. Hygrometer
 
+11.In external fertilization, the number of eggs produced is usually:
 
+A. Very few, to conserve energy
 
-30.Which instrument is used to measure the thickness of thin materials like paper or plastic?
+*B.Very large, to increase chances of survival
 
-A. Micrometer
+C. Moderate, same as internal fertilization
 
-B. Vernier caliper
-
-*C.Patchometer
-
-D. Spectrometer
-
-31.Which instrument is used to measure the noise or interference in telephone lines?
-
-A. Oscilloscope
-
-B. Voltmeter
-
-C. Galvanometer
+D. None, only sperm are released
 
 
-*D.Psophometer
+12.What is transcription in biology?
+
+A. The process of copying DNA into DNA
+
+B. The process of translating RNA into protein
+
+*C.The process of copying DNA into messenger RNA 
+D. The process of replicating the entire genome
+
+13.What is malnutrition?
+
+A. Eating too much food regularly
+
+B. Excessive exercise
+C. A disease caused by infection
+
+*D.A condition caused by lack of proper nutrients in the diet
+
+14.What causes measles?
+
+A. Bacteria
+
+*B.Virus
+
+C. Fungus
+
+D. Parasite
+
+
+
+15.Which of the following is an example of an exocrine gland?
+
+*A.Salivary gland
+B. Thyroid gland
+ 
+C. Pituitary gland
+
+D. Adrenal gland
+
+
+
+16.hobias are classified under which type of disorder?
+
+A. Infectious diseases
+
+B. Autoimmune diseases
+
+
+C. Genetic disorders
+
+*D.Phsycological disorder
+
+17.How many pairs of cranial nerves are there in the human body?
+
+A. 10
+
+B. 12
+
+*C.12
+
+D. 14
+
+18.What is magnetic tape mainly used for?
+
+*A.Data storage
+
+B. Cooking
+
+C. Wireless communication
+
+D. Generating electricity
+
+
+
+19.What is computer hardware?
+A. The software installed on a computer
+*B.The physical components of a computer system
+
+C. The files saved in memory
+
+D. The apps used for communication
+
+
+
+20. Which of the following is a feature of 3rd generation computers?
+
+A. Used only mechanical parts
+B. Used punch cards for input
+
+C. Very large in size and slow
+
+*D.Smaller size and more reliable
+
+
+21.
+
+
+22.Who proudly represented Pakistan at the 73rd Miss Universe pageant in Mexico in November 2024?
+
+A. Nimra Jacob
+
+B. Anzela Abbasi
+
+*C.Noor Xarmina
+
+D. Hoor Mahaveera
+
+
+
+23.Which province launched a socio-economic registry project in July 2024 to enhance social protection?
+
+
+A. Sindh
+
+B. Khyber Pakhtunkhwa
+
+*C.Punjab
+
+D. Balochistan
+
+24. Which province launched its first air ambulance service in July 2024?
+
+
+*A.Punjab
+B. Khyber Pakhtunkhwa
+
+C. Sindh
+
+
+D. Balochistan
+
+25.Which Pakistani boxer became the Asian middleweight champion in July 2024 by defeating an Indian opponent?
+
+
+A. Usman Wazeer
+
+B. Agha Kaleem
+
+*C.Shahir Afridi
+
+D. Ilyas Hazara
+
+26. Which Christian man was sentenced to death in Sahiwal in July 2024 for allegedly posting blasphemous content on social media?
+
+
+A. Shafqat Emmanuel
+
+*B.Ehsan Shan
+
+C. Junaid Hafeez
+
+D. Shagufta Kausar
+
+27.Minamitorishima Island, recently seen in the news, is located in which ocean?
+
+
+A. Atlantic Ocean
+
+B. Indian Ocean
+
+*C.Pacific Ocean
+
+D. Arctic Ocean
+
+28. Scientists from which country developed a robot face covered with living skin that can smile?
+
+
+A. South Korea
+
+*B.Japan
+
+C. United States
+
+D. Germany
+
+29.Who became Rawalpindi's first female Chief Traffic Officer (CTO) in August 2024?
+
+
+A. Ammara Athar
+
+*B.Beenish Fatima
+
+C. Aisha Butt
+
+D. Taimoor Khan
+
+30. In which city did the Punjab Police introduce the first-ever Lady Dolphin Squad in august 2024?
+
+
+A. Lahore
+
+*B.Faisalabad
+
+C. Rawalpindi
+
+D. Multan
+
+31. Which province banned the use of plastic water bottles in government offices in August 2024?
+
+A. Punjab
+
+*B.Sindh
+
+C. Balochistan
+
+D. Khyber Pakhtunkhwa
+
+
+
+32.Which Bangladeshi all-rounder was booked in a murder case during the Rawalpindi Test series in Pakistan?
+
+A. Mehidy Hasan Miraz
+
+B. Litton Das
+
+*C.Shakib Al Hasan
+
+D. Taskin Ahmed
+
+
+
+33.Which city in Pakistan was set to get the first digitized transport system in September 2024?
+
+*A.Rawalpindi
+
+B. Lahore
+
+C. Karachi
+
+D. Islamabad
+
+34.Which country reportedly signed a $1.6 billion deal with Pakistan in September 2024 to purchase JF-17 Block III fighter jets?
+
+
+A. Egypt
+
+B. Saudi Arabia
+C. Nigeria
+
+*D.Azerbaijan
+
+35.Who won the bronze medal in the men’s discus throw F37 event for Pakistan at the 2024 Summer Paralympics?
+
+A. Arshad Nadeem
+
+B. Muhammad Zaman
+
+*C.Haider Ali
+
+D. Imran Khan
+
+36.Which country ranked last (bottom) in the 17th Global Innovation Index 2024?
+
+A. Haiti
+
+B. Yemen
+
+*C.Angola
+
+D. Guinea
+
+37.Who was the UN High Commissioner for Refugees (UNHCR) who visited Pakistan in July 2024?
+A. AntonioGuterres
+B. Fillipo Grandi
+
+*C.Fillipo Grandi
+
+D. Volker Turk
+
+38.Which Pakistani peacekeeper won the UN Gender Advocacy Award in August 2024?
+
+*A. Major Sania Safdar
+
+B. Major Komal Masood
+
+C. Squadron Leader Syme
+
+D. Sepoy Amir Aslam
+
+39.Who was the Deputy Prime Minister of the Russian Federation who led a high-level delegation to Pakistan on 18–19 September 2024?
+
+A. Dmitry Chernyshenko
+
+*B.Alexei Overchuk
+
+C. Andrei Belousov
+
+D. Mikhail Mishustin
+
+40.Who became the first Christian Special Services Group (SSG) commando to be promoted to the rank of Major General in the Pakistan Army in July 2024?
+
+A. Noel Israel Khokhar
+
+B. Julian Peter
+
+*C.Julian Moazzam James
+
+D. Helen Mary Roberts
+
+
+
+41.Which hadith is reported by such a large number of companions that its authenticity is beyond doubt?
+A. Ahad
+B. Marfu
+*C.Mutawatir
+D. Munkar
+
+42.Which companion wrote 1560 hadiths?
+A. Abu Hurairah (RA)
+*B.Hazrat Jabir ibn Abdullah (RA)
+C. Abdullah ibn Umar (RA)
+D. Abdullah ibn Abbas (RA)
+
+43.What are the sayings, counsels, and precepts of the Prophet (SAW)called?
+A. Sunnat-ul-Fi’l
+B. Sunnat-ul-Taqreer
+C. Sunnat-ul-Hikmah
+*D. Sunnat-ul-Qawl
+
+44.How can Ijma be constituted?
+A. Only by parliament
+*B.By decision expressed in words or practice of jurists
+C. By public voting
+D. Through dreams
+
+45.What is the other name for Explicit Ijma?
+*A.Ijma Sarih
+B. Ijma Sukuti
+C. Ijma Qiyas
+D. Ijma Maqbool
+
+46.How many types of Qiyas are there?
+A. One
+B. Four
+*C.Three
+D. Five
+
+47.What is Al Qiyas al Awla?
+A. Qiyas of lowest order
+*B.Qiyas of higher order
+C. Qiyas of equivalent order
+D. Qiyas of medium order
+
+48.In the analogy of Qiyas, what is the 'Asl (original case)?
+A. Nabeez
+B. Hukm
+*C.Khamr (wine)
+D. Illah
+
+49.Istidlal is:
+A. A type of Qiyas
+*B.A branch of Qiyas
+C. Unrelated to Qiyas
+D. A Hadith term
+
+50.The second category of ijtihad is:
+A. General and limited
+*B.Actual and potential
+C. Mutlaq and muqayyad
+D. Primary and secondary
+
+51.Which Surah is about the mystic night of power in which revelation came to a darkened world?
+*A. Surah Al-Qadr
+B. Surah Al-Tin
+C. Surah Al-Zilzal
+D. Surah Al-Falaq
+
+52.The Holy Quran was first translated into Latin by:
+A. Du Ryer
+*B.Robertus Ketenensis
+C. Schwigger
+D. Alexander Ross
+
+53.Who applied diacritical points in the Holy Quran?
+A. Zaid bin Thabit
+B. Hazrat Uthman
+C. Imam Shafi
+*D.Hajjaj bin Yousaf
+
+54.Which tafseer has gained more popularity among the ulema and is voluminous?
+A. Tafseer-i-Tabri
+B. Tafseer-i-Kashshaf
+C. Anwar-ut-Tanzil
+*D.Tafseer Ibn-i-Kathir
+
+55.Among the following, whose Quran commentary is explicitly mentioned as not accepted by the ulema?
+A. Maulana Abul Kalam Azad
+B. Muhammad Rashid Ridha
+*C.Sir Sayyid Ahmad Khan
+D. Sheikh Tantawi
+
+56.The words "al-hayat" (life) and "al-maout" (death) are each mentioned how many times?
+A. 24
+B. 88
+*C.145
+D. 2697
+
+57.What does Madhu hadith mean?
+A.Strong hadith
+B.Authentic hadith
+C.Weak hadith
+*D.Forged hadith
+
+58.Which Surah repeatedly asks, "Is there any that will receive admonition?" and highlights past stories of sin?
+A.Surah Al-Mulk
+B.Surah At-Tur
+*C.Surah Al-Qamar
+D.Surah An-Najm
+
+59.What is the theme of Surah Ad-Dahr (Time), also known as Surah Al-Insan?
+A.Angels and their duties
+*B.The contrast between those who choose good and those who choose evil
+C.The lineage of prophets
+D.Laws of trade and honesty
+
+60.What is the meaning of Surah Al-Qalam, and in which Manzil (stage) of the Quran is it included?
+A.The Pen, 6th Manzil
+B.he Inkpot, 7th Manzil
+C.The Tablet, 6th Manzil
+*D.The Pen, 7th Manzil
+
+61.Which word can best replace “accomplice” in the sentence: “The police arrested the thief and his accomplice”?
+
+A. Witness
+
+*B. Associate
+
+C. Guard
+
+D. Observer
+
+62.What is the antonym of the word “bandy”?
+
+A. Argue
+
+B. Discuss
+
+*C.Overtook
+D. Exchange
+
+
+
+63. What is the closest synonym of the word “beatitude”?
+
+A. Suffering
+
+*B.Ectsasy
+C. Conflict
+
+D. Boredom
+
+64.What is the antonym of the word “calumniate”?
+*A.Compliment
+B. Blame
+C. Slander
+
+D. Insult
+
+
+
+65.What is the closest synonym of the word “cant”?
+
+A. Truth
+
+B. Silence
+
+*C.Hypocrisy
+
+D. Wisdom
+
+
+
+66.What is the antonym of the word “debilitate”?
+A. Destroy
+
+B. Injure
+
+C. Exhaust
+*D.Strengthen
+
+67.What is the closest synonym of the word “edify”?
+
+A. Confuse
+
+B. Entertain
+
+*C.Enlighten
+
+D. Ignore
+
+68.Which word is opposite in meaning to “effusive”?
+
+*A.Apathetic 
+B. Outspoken
+
+C. Warm
+
+D. Cheerful
+
+69. What is the closest synonym of the word “accede”?
+
+A. Deny
+
+*B.Endorse
+
+C. Reject
+
+D. Argue
+
+70.What is the antonym of the word “fawning”?
+
+A. Flattering
+
+B. Humble
+
+*C.Arrogant
+D. Obedient
+
+71.Which situation best describes “no man’s land”?
+
+A. A crowded street
+
+B. A protected wildlife zone
+
+C. A farmland under cultivation
+
+
+*D.A barren zone between two enemy trenches
 
  
-32. Which instrument is used to measure the hardness of materials?
+72.What does the phrase “to cry wolf” mean?
 
-*A.Sclerometer
+A. To warn others about danger truthfully
 
-B. Barometer
+*B.To raise a false alarm
 
-C. Hydrometer
+C. To howl loudly
 
-D. Chronometer
+D. To ask for help in an emergency
 
-33.Which instrument is used to measure pulse rate?
 
-A. Glucometer
 
-*B.Sphygmomanometer
+73.If someone says “That story is all moonshine,” they mean:
 
-C. Thermometer
+A. The story is very inspiring
 
-D. Spirometer
+B. The story is about the moon
 
+*C.The story is not true or is nonsense
 
+D. The story is very funny
 
-34. Which instrument is used to record the speed of rotation?
+74.When someone says “let bygones be bygones,” they want to:
 
-A. Chronometer
+A. Keep arguing
 
-B. Odometer
+*B.Move on from past disagreements
 
-*C.Tachograph
+C. Revisit old problems
 
-D. Speedometer
+D. Hold a grudge
 
 
+75.Which of the following is the opposite of “letting the grass grow under one’s feet”?
 
-35. Which instrument is used to measure rainfall?
+*A.Taking prompt action
+B. Procrastinating
+C. Daydreaming
 
-A. Hygrometer
+D. Being lazy
 
-*B. Udometer
+76.The phrase “laugh to scorn” means:
 
-C. Anemometer
+A. Laugh happily with friends
 
-D. Barometer
- 
-36.What quantity is measured by a barn?
+*B.Mock or ridicule someone or something
 
-A. Electric current
+C. Laugh quietly to oneself
 
-B. Pressure
+D. Laugh out of relief
 
-*C.Cross-sectional area in nuclear physics
+77.If someone is “on the carpet,” they are likely:
 
-D. Temperature
+A. Relaxing comfortably
 
+B. Decorating a room
+C. Hosting guests
 
+*D.Being called out for a mistake
 
-37.What quantity is measured by a knot?
 
-A. Temperature
+78.Which of the following sentences correctly uses a preposition to show place?
 
-B. Pressure
 
-C. Electric current
+A. She looked after the painting carefully.
 
+B. The cat jumped over the fence silently.
 
-*D.Speed (nautical miles per hour)
+*C. The keys are under the couch in the living room.
 
- 
-38.What does the unit phon measure?
+D. He ran during the race very fast.
 
-A. Light intensity
+79.In the sentence, “She walked alongside her friend,” the preposition “alongside” shows:
 
-*B.Loudness of sound
+*A. Place
 
-C. Electrical resistance
+B. Time
 
-D. Magnetic field strength
+C. Manner
 
+D. Cause
 
 
-39.What quantity is measured by torr?
 
-*A.Pressure
+80.In the sentence "He looked around," the word "around" is functioning as:
 
-B. Temperature
+A. Preposition
+*B. Adverb
 
-C. Electric current
+C. Conjunction
 
-D. Sound intensity
+D. Adjective
 
-40.What quantity is measured by steradian?
 
-A. Electric charge
 
-B. Force
+81.Who was the Prime Minister of Pakistan during enforcement of first constitution?
+A. Mohammad Ali Bogra
+B. Khwaja Nazim Uddin
+*C.Choudhry Mohammad Ali
+D. Ibrahim Ismail Chundrigar
 
-*C.Solid angle
-
-D. Frequency
-
-
-
-41. Who was the flag bearer in Ghazwa Abwa (Waddan)?
-
-A. Ali ibn Abi Talib
-
-*B.Hamza ibn Abdul Muttalib
-
-C. Zubair ibn Al-Awwam
-
-D. Umar ibn Al-Khattab
-
-42.Who was the oldest companion and fought in the front line during the Battle of Badr?
-
-A. Abu Bakr As-Siddiq
-
-B. Sa’d ibn Mu’adh
-
-*C.Abu Ubaidah ibn al-Harith
-
-D. Zayd ibn Harithah
-
-
-
-43. Who commanded the infidels (Quraysh) during the Battle of Uhud?
-
-A. Abu Jahl
-
-*B. Abu Sufyan ibn Harb
-
-C. Khalid ibn Al-Walid
-
-D. Amr ibn Al-As
-
-44. which battle did the Holy Prophet (S.A.W) missed four prayers?
-A. Battle of Uhud
-
-B. Battle of Khaybar
-
-*C.Battle of the Trench (Khandaq)
-
-D. Battle of Badr
-
-
-
-45. What was the number of Muslim soldiers in the Battle of Hunayn?
-
-A. 5,000
-
-B. 8,000
-
-C. 15,000
-
-*D.12,000
-
-
-
-46.What is the meaning of the word "Khalifa"?
-
-A. Warrior
-
-*B.Successor or deputy
-
-C. Prophet
-
-D. Teacher
-
-47. In which caliphate era did some people refuse to pay Zakat, leading to the Ridda Wars?
-
-A. Umar ibn Al-Khattab
-
-*B.Abu Bakr As-Siddiq
-
-C. Uthman ibn Affan
-
-D. Ali ibn Abi Talib
-
-48. The Islamic state stretched from Libya to Makran and from Yemen to Armenia during the caliphate of:
-
-A. Abu Bakr As-Siddiq
-
-B. Uthman ibn Affan
-
-*C.Umar ibn Al-Khattab
-
-D. Ali ibn Abi Tali
-
-49.Who was the first Hafiz (memorizer) of the Quran?
-
-*A.Uthman ibn Affan
-B. Ali ibn Abi Talib
-C. Abu Bakr As-Siddiq  
-
-D. Zayd ibn Thabit
-
-
-
-50.Who led the Janaza (funeral prayer) of Uthman ibn Affan?
-
-A. Ali ibn Abi Talib
-
-*B.Jabir bin Mut‘am
-
-C. Hasan ibn Ali
-
-D. Abdullah ibn Mas'ud
-
-
-
-51.Who assassinated Hazrat Ali (RA)?
-
-A. Muawiyah ibn Abi Sufyan
-
-B. Talha ibn Ubaydullah
-
-*C.Abd al-Rahman ibn Muljam
-
-D. Amr ibn al-As
-
-
-
-52. Who was the 10th Sultan of the Ottoman Empire?
-
-A. Ahmed I
-
-B. Murad IV
-
-*C.Beyazid II
-
-D. Suleiman the Magnificent
-
-
-
-53.What is the style of the Quran?
-
-*A. Prose mixed with poetry
-
- B.Rhythmic and eloquent prose (Saj‘)
-
-C. Pure poetry
-
-D. Narrative only
-
-
-
-55.How many verses (Ayat) are there in the first Surah of the Quran (Surah Al-Fatiha)?
-
-A. Five
-
-B. Six
-
-*C.Seven
-
-D. Eight
-
-56.What is the meaning of Surah Al-An'am?
-
-A. The Prophets
-
-B. The Bees
-
-C. The Heights
-
-*D.The Cattle
-
-57.What is the special subject of Surah Al-Hijr?
-A. Laws of inheritance
-
-*B.Protection of the Quran
-
-C. Migration of the Prophet
-
-D. Battle strategies
-
-
-
-58.What is the meaning of Surah Ash-Shu'ara?
-
-A. The Prophets
-
-B. The Angels
-
-*C.The Poets
-
-D. The Believers
-
-Want the next one?
-
-
-
-
-
-
-
-
-
-59. What is the meaning of Surah Az-Zukhruf?
-
-*A. The Ornaments of Gold
-B. The Thrones
-
-C.The Silver coins
-
-D. The Treasures
-
-60.What is the meaning of Surah Ad-Dukhan?
-
-A. The Stars
-
-*B.The Smoke
-
-C. The Fire
-
-D. The Darkness
-
-61.What is the subject of the 2nd Amendment to the Constitution of Pakistan (1973)?
-
-A. Provincial autonomy
-
-B. Judiciary reforms
-
-*C.Declaration of Ahmadis as non-Muslims
-
-D. Presidential powers
-
-
-
-62.What is the main subject of the 18th Amendment to the Constitution of Pakistan (1973)?
-
-*A. Devolution of powers from President to Prime Minister and removal of Article 58(2)(b)
-
-B. Changes in the electoral process
-
-C.Introduction of military courts
-
-D. Ban on dual nationality
-
-63. What is the approximate range of Pakistan’s location in east longitude?
-
-A. 60°00'E to 75°00'E
-
-B. 61°15'E to 78°30'E
-
-*C.60°50'E to 77°50'E
-
-D. 59°30'E to 76°15'E
-
-
-
-64.Where is the Manthokha Waterfall located?
-
-A. Swat Valley
-
-*B.Kharmang Valley,Skardu, Gilgit-Baltistan
-
-C. Muzaffarabad
-
-D. Chilas
-
-65.Where is Cham Waterfall located?
-
-A. Swat Valley
-
-B. Abbottabad
-
-*C. Hathian Bala, Azad Kashmir
-
-D. Skardu
-
-66.What is the approximate elevation of the Katpana Desert in Pakistan?
-
-A. 1800 meters
-
-B. 2000 meters
-
-C. 2500
-*D.2226 meters
-
- 
-67.The Potohar Plateau is bounded on the south by which geographical feature?
-
-*A.Salt Range
-
-B. Thar Desert
-
-C. Sulaiman Mountains
-
-D. Kirthar Range
-
-
-
-68.Tochi Pass connects which areas between Pakistan and Afghanistan?
-
-A. Kabul and Peshawar
-
-B. Spin Boldak and Quetta
-
-*C.Ghazni and Bannu
-
-D. Jalalabad and Landi Kotal
-
-
-
-69.What is the approximate length of the Hindu Kush mountain range?
-
-A. 1200 km
-
-*B.800 km
-
-C. 600 km
-
-D. 1000 km
-
-
-
-70.In which year was the Tarbela Dam completed?
-
-A. 1974
-
-B. 1976
-
-*C.1976
-
-D. 1980
-
- 
-
-71.What is the total installed power generation capacity of the Warsak Dam Hydropower Project?
-
-A. 150 MW
-
-*B.243 MW
-
-C. 525 MW
-
-D. 500 MW
-
-
-
-72.What is the approximate length of the Sutlej River?
-A. 1300 kilometers
-
-B. 1700 kilometers
-
-C. 1550 kilometers
-
-*D.1450 kilometers
-
-
-
-73. Where is Hamal Lake located?
-
-A. Quetta, Balochistan
-
-*B.Qambar Shahdadkot, Sindh
-
-C. Swat, Khyber Pakhtunkhwa
-
-D. Multan, Punjab
-
-
-
-75.Where is Lalusar Lake located?
-A. Skardu, Gilgit-Baltistan
-
-B. Shandur, Khyber Pakhtunkhwa
-
-*C.Naran Valley, Khyber Pakhtunkhwa
-
-D. Chilas, Gilgit-Baltistan
-
-
-
-76.Rechna Doab is the land between which two rivers?
-
-A. Chenab and Ravi
-
-B. Ravi and Jhelum
-
-*C.Chenab and Ravi
-
-D. Indus and Chenab
-
-
-
-77.Which barrage is the source of the D.G. Khan Canal?
-
-A. Jinnah Barrage
-
-*B.Taunsa Barrage
-
-C. Guddu Barrage
-
-D. Sukkur Barrage
-
-
-
-78.Guddu Barrage is built on which river?
-
-*A.Indus River
-
-B. Chenab River
-C. Sutlej River
-
-D. Jhelum River
-
-
-
-79.Who was the first Governor of Khyber Pakhtunkhwa (formerly NWFP) after independence?
-
-A. Ghulam Muhammad
-
-B. Abdul Rab Nishtar
-
-*C.Sir George Canningham
-
-D. Iskander Mirza
-
-
-
-80.Who was the first Pakistani woman to summit Mount Everest?
-
-A. Naila Kiani
-
-*B.Samina Baig
-
-C. Uzma Yousaf
-
-D. Namira Salim
-
-
-
-81. Which Pakistani mountaineer became the first Pakistani woman to summit 11 peaks over 8,000 meters in the world?
-
-A. Samina Baig
-
-B. Uzma Yousaf
-
-*C.Naila Kiani
-
-D. Shehroze Kashif
-
-82. Which team won the Sultan Azlan Shah Cup 2024 by defeating Pakistan in the final?
-
-A. Malaysia
-
-B. South Korea
-
-C. India
-*D.Japan
-
- 
-83.Which Pakistani female lieutenant general won the 3rd Bint-e-Hawa Achievement Award in 2024?
-
-A. Samina Baig
-
-*B.Nigar Johar
-
-C. Sharmeen Obaid-Chinoy
-D. Naila Kiani
-
-84.Which Pakistani missile system was successfully test-fired in May 2024 with a range of 400 kilometers?
-
-*A.Fatah-II
-
-B. Shaheen-III
-
-C. Ghaznavi
-
-D. Babur-III
-
-85.Which country introduced an AI-generated spokesperson named Victoria Shi in May 2024?
-
-A. China
-
-*B.Ukraine
-
-C. Estonia
-
-D. Singapore
-
-86. Which England cricketer announced his retirement from international cricket in May 2024?
-
-A. Joe Root
-
-*B.James Anderson
-
-C. Ben Stokes
-
-D. Jos Buttler
-
-87. Who became Brighton and Hove's first South Asian Muslim mayor in May 2024?
-
-*A. Mohammed Asaduzzaman
-
-B. Imran Hussain
-
-C. Imran Khan
-
-D. Rishi Sunak
-
-88.In which country was the world's first 100% biodegradable pen launched in May 2024?
-
-A. Canada
-B. Japan
-C. Germany
-
-*D.India
-
-
-89.On which date is the World Migratory Bird Day celebrated?
-
-A. April 5
-
-*B. May 11
-
-C. June 8
-
-D. July 15
-
-90. Who became the first female brigadier in the Pakistan Army from the Christian and minority community in May 2024?
-
-*A. Dr.Helen Mary Roberts
-
-B. Shazia Anwar
-
-C. Sherry Rehman
-
-D. Asma Jahangir
-
-91.What is the name of the military operation Pakistan planned to launch against terrorism in June 2024?
-
-A. Operation Zarb-e-Azb
-
-B. Operation Radd-ul-Fasaad
-
-*C.Operation Azm-e-Istehkam
-
-D. Operation Rah-e-Nijat
-
-92. What was the total outlay of the Punjab government's budget for the fiscal year 2024–2025?
-A. PKR 4.5 trillion
-
-*B.PKR 5.45 trillion
-C. PKR 5.0 trillion
-
-D. PKR 6.0 trillion
-
-93. Taskeen Zafar, who passed away in June 2024, was associated with which field?
-
-A. Sports
-
-B. Literature
-
-*C.Broadcasting
-
-D. Politics
-
-94.What is the installed power generation capacity of the Suki Kinari Hydropower Project located in Kunhar river Mnasehra,KPK?
-
-A. 720 MW
-
-B. 1000 MW
-
-C. 960 MW
-*D.884MW 
-
-95.Which Pakistani author was awarded the King Charles Pen Award by the Canadian government in recognition of his outstanding services?
-
-
-A. Bina Shah
-
-*B.Anwar Maqsood
-
-C. Harris Khalique
-
-D. Rukhsana Khan
-
-96.Who was crowned the Boys' Under-19 champion at the 31st Asian Junior Individual Squash Championship?
-
-
-A. Noor Zaman
-
-B. Sohail Adnan
-
-*C.Hamza Khan
-D. Abdullah Nawaz
-
-97.Who was appointed as the Chief Justice of the Sindh High Court in June 2024?
-
-
-A. Justice Irfan Saadat Khan
-
-B. Justice Muhammad Junaid Ghaffar
-
-*C.Justice Muhammad Shafi Siddiqui
-
-D. Justice Aqeel Ahmed Abbasi
-
-98.In which country were Pakistani students attacked in May 2024?
-
-
-A. India
-
-B. China
-
-*C.Kyrgyzstan
-
-D. Iran
-
-
-99.Who was appointed as the Inspector General (IG) of Azad Kashmir Police in June 2024?
-
-
-A. Sohail Habib Tajik
-
-B. Amir Ahmed Sheikh
-
-C. Salahuddin Khan
-*D.Rana Abdul Jabbar
-
-100. Who was appointed as the Chairman of the Council of Islamic Ideology (CII) on May 21, 2024?
-
-*A. Allama Dr.Raghib Hussain Naeemi
-B. Dr.Tahir Ashrafi
-
-C. Dr.Qibla Ayaz
-D. Mufti Taqi Usman
-
-
-
-
-
-
-
+82.Who abrogated 1956 constitution?
+A. Ayub Khan
+B. Tikka Khan
+*C.Iskander Mirza
+D. Yahya Khan
+
+83.who elects the President according to 1973 constitution?
+A. National Assembly
+B. Senate
+C. Provincial Assemblies
+*D. All of them
+E. None of them
+
+84.The 1962 Constitution of Pakistan was passed during the regime of?
+A. Sikandar Mirza
+*B.Ayoub Khan
+C. Yahya Khan
+D. Ch. Muhammad Ali
+
+85.The ruins of Harrapa are situated in district?
+A. Multan
+B. Okara
+C. Lahore
+*D.Sahiwal
+
+86.The name of poet whose collection of poetry is called “Shah jo Risalu”?
+A. Khushal Khan Khattak
+B. Waris Shah
+C. Makhdum Muhammad Hashim
+*D.Shah Abdul Latif Bhatai
+
+87.Who was the leader of the Young Bengal Movement?
+A. Raja Ram Mohan Roy
+*B.Henry Vivian Derozio
+C. David Hare
+D. Debendranath Tagore
+
+88.Which one of the following was the first fort constructed by the British in India ?
+A. Fort St. David
+B. Fort William
+C. Fort St.Angelo
+*D.Fort St.George
+
+89.Who was the author of the book “Jinnah; India Partition ” ?
+A. Imtiaz Gul
+*B.Jaswant Singh
+C. Tariq Ali
+D. G.W Chaudhry
+
+90.Kalabagh iron deposits are largest in Pakistan with an estimated reserve of ?
+*A.309mtons
+B. 509mtons
+C. 709mtons
+D. None ofthese
+
+91.The battle of Dharmat was fought between ?
+A. Babur and Afghans
+B. Muhammad Ghori and Jai Chand
+C. Ahmad Shah Durrani and the Marathas
+*D. Aurangzeb and Dara Shikoh
+
+92.Which of the following Sufi saints belong to “Chistia order”?
+A. Baha-ud-Din Zakariya
+B. Shah Rukn-i-Alam
+*C.Farid-ud-Din Ganj Shakar
+D. Mansur al-Hallaj
+
+
+93.Who was the shortest-serving Chief Justice of Pakistan?
+A. Mohammad Haleem
+*B.Muhammad Shahabuddin
+C. Mian Abdur Rashid
+D. Iftikhar Muhammad Chaudhry
+
+94.Which one of the following is Largest Division of Pakistan?
+A. Bahawalpur Division
+B. Malakand Division
+C. Lahore Division
+*D.Kalat Division
+
+
+95.Watersports at Khanpur Dam was?
+*A.Beat The Waves
+B. Game of Thrones
+C. Battle of War
+D. Swimming
+
+96.Lyallpur is the old name of ?
+A. Punjab
+B. Mardan
+*C.Faisalabad
+D. Lahore
+
+97.Who played role of Quaid-e-Azam in film “Jinnah” which was released 7 November
+1998?
+A. Micky arther
+*B.Christopher Lee
+C. Shashi Kapoor
+D. Jamil Dehalvi
+
+98.Name the cricket Stadium which is located in Khyber Agency and inaugurated by Gen
+Raheel Sharif in November 2016?
+A. Younas Khan cricket stadium
+*B.Shahid Afridi cricket stadium
+C. Gaddafi Stadium
+D. Arbab Niaz Stadium
+
+99.Sheena is a local language of ?
+*A.Gilgit Baltistan
+B. Sindh
+C. Punjab
+D. None of them
+
+100.Who was the first person the climb the Nanga parbat?
+A. R.d Banerjee
+B. Martin Conway
+*C.Hermann Buhl
+D. Ashraf Aman
 
 
 
