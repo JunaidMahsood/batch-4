@@ -4,874 +4,954 @@
 [TIMER: 60]
 
 
-1.What is hard water?
+1. Who was the Prime Minister of Pakistan during enforcement of first constitution? 
+A. Mohammad Ali Bogra 
+B. Khwaja Nazim Uddin 
+*C.Choudhry Mohammad Ali 
+D. Ibrahim Ismail Chundrigar 
+
+2. The first general elections in pakistan were held under President?
+A. Iskander Mirza 
+*B.Yahya Khan 
+C. Ayub khan 
+D. Zulfikar Ali Bhutto 
+
+3.Which city of Pakistan is referred to as “Shaheeno ka city”?  
+A. Swat 
+*B.Sargodha 
+C. Lahore 
+D. Faisalabad
+
+4. Muztagh pass connects  ? 
+A. Hunza with Gilgit 
+*B.Baltistan with Yarkand 
+C. Bannu with Afghanistan 
+D. Gilgit with Kashgar 
+
+5. Rechina Doab lies b/w which two rivers? 
+A. Chenab & Jehlum
+*B.Ravi & Chenab
+C. Sindh & Chenab
+D. Sindh & Ravi
+
+6. In what condition the opposition may declare a vote of no confidence against PM in national assembly of Pakistan? 0  
+A. If PM is Mentally sick 
+B. If PM is physically unwell
+C. If PM is violating the Constitution 
+*D.All of the above  
+
+7. Darawar fort was built by Sadiq Muhammad khan. It is near  ? 
+A. Abbotabad 
+*B. Bahawalpur 
+C. Thatta 
+D. Lahore 
+
+8. The Land lying between the River Indus and River Jhelum is called: 
+A. Bari Doab 
+B. Chaj Doab 
+C. Rachna Doab 
+*D.Sindh sagar Doab  
+
+9. Who was the First Caretaker Prime Minister of Pakistan? 
+A. Ghulam Haider 
+B. Chaudary Rehmat Ali 
+*C.Ghulam Mustafa Jatoi 
+D. None of these 
+
+10. From which one of the following sites, was the famous Bull-seal of Indus Valley found?
+A. Harappa 
+B. Chanhudaro 
+C. Lothal 
+*D. Mohenjodaro  
 
-A. Water that contains high amounts of chlorine and fluoride
+11.Name the Architecture of Mazar e iqbal ? 
+A. Nawab Zainunddin 
+B. Nawab Faizuddin 
+*C.Nawab Zain yar jang Bahadur 
+D. Nawab Faiz yar jang Bahadur  
 
-*B.Water that does not form lather easily
-C. Water that is unsafe for drinking due to microbes
+12.Campbellpur is the old name of  ? 
+A. Khanewal 
+*B.Attock 
+C. Abbotabad 
+D. Sargodha 
 
-D. Water that evaporates quickly under sunlight
+13.What is the National Sweet of Pakistan? 
+A. Barfi 
+*B.Gulab jamun 
+C. Jalebi 
+D. None of these  
 
+14. The First Urdu Newspaper daily published after creation of Pakistan was?  
+A. Mashriq 
+*B.Imroze 
+C. Watan 
+D. Nawa-e-Waqat 
 
+15. Baba-e-Sahafat is the title of?
+*A.Zafar Ali Khan 
+B. Molvi Abdul Haq  
+C. Ahsan Danish 
+D. Galib 
 
+16. Who wrote book “If I am assassinated”? 
+A. Benzir Bhutto 
+*B. Zulfiqar Ali Bhutto 
+C. Nelson Mandela 
+D. Vladimir Lenin 
 
-2.What is a nuclear fission reaction?
 
-*A.A reaction in which a heavy nucleus splits into two lighter nuclei
-B. A reaction in which two light nuclei combine to form a heavier nucleus
+17. The book ” Friends not Masters” was written by?
+A. Sir Syed Ahmed Khan 
+B. Liaquat Ali Khan 
+C. Zulfiqar Ali Bhutto 
+*D.General Ayoub Khan 
 
-C. A chemical reaction involving the breaking of covalent bonds
+18. Islam is declared as a state religion under which article of the Constitution of Pakistan 1973 ? 
+A. Article: 1 
+*B.Article: 2 
+C. Article: 3 
+D. Article: 4 
 
-D. A process of radioactive decay involving alpha emission
+19.Which city of Sindh is called ‘Paris of Sindh’ ?  
+*A.Shikarpur 
+B. Larkana 
+C. Jamshoro 
+D. Karachi 
 
+20. Which city is to be called Madinat-Ul-Auliaya ?
+A. Ajmeer
+B. Sehwan 
+*C.Multan 
+D. Pakpattan 
 
-3.What is an empirical formula?
+21. Hazrat Nurrudin Noorani introduced which Sufi order in India?
 
-A. A formula showing the actual number of atoms of each element in a molecule
+A. Qadriya
 
-B. A chemical equation balanced with mass and charge
-*C.A formula showing the simplest whole-number ratio of atoms of each element in a compound
+B. Chishtiya
 
-D. A graphical representation of molecular struct
+*C.Rishi order
 
+D. Suhrawardiya
 
-4. What is a meteorite?
+22. Which door of Jannah is reserved for those who fast?
 
-A. A man-made satellite orbiting the Earth
-*B.A fragment of a meteoroid that survives passage through the atmosphere and reaches Earth's surface
+*A.Ar-Rayyan
 
-C. A flash of light caused by reflection from the Moon
+B. As-Sadaqah
 
-D. A piece of rock that burns up completely in the Earth’s atmosphere
+C. Al-Tawbah
 
-5.What is smog?
+D. Al-Hajj
 
-*A.A type of air pollution formed by the mixture of smoke and fog
+23.What is the name of the 7th month in the Islamic calendar?
 
-B. A dense form of water vapor
+A. Jumada al-Awwal
 
-C. A cloud formed in deserts
+B. Shawwal
 
-D. A layer of ozone in the atmosphere
+*C.Rajab
 
+D. Safar
 
+24.Hajj becomes obligatory on Muslims once in a:
 
+*A.Lifetime
 
-6. What is the centre of gravity of a body?
-A. The point where all the mass is concentrated
+B. Decade
 
-*B.The point through which the weight of the body appears to act
+C. Year
 
-C. The point with maximum density
+D. Century
 
-D. The point of zero weight
+25. Ashura holds historical significance due to the martyrdom of:
 
+A. Hazrat Ali (R.A)
 
-7.What is velocity?
+*B.Imam Hussain (R.A)
 
-*A.The rate of change of displacement with respect to time
+C. Hazrat Uthman (R.A)
 
-B. The rate of change of speed with time
+D. Hazrat Umar (R.A)
 
-C. The total distance covered
 
-D. The speed of an object without direction
 
 
 
-8. In a transverse wave, the particles of the medium move:
+26.How many letters are there in Kalma Tayyabah?
 
-A. Parallel to the wave direction
+A. 58
+B. 69
+*C.48
 
-*B.Perpendicular to the direction of wave propagation
+D. 36
 
-C. In a circular motion
+27.How many times is the word "Salat" mentioned in the Quran?
 
-D. Backward only
+*A.82 times
 
+B. 65 times
 
+C. 99 times
 
-9.What type of image is formed by a convex mirror?
+D. 114 time
 
-A. Real, inverted, and magnified
-B. Real, erect, and diminished
-*C.Virtual, erect, and diminished
+28.How much percentage of Zakat is given on wealth?
 
-D. Virtual, inverted, and magnified
+A. 1%
 
+*B. 2.5%
 
+C. 5%
 
-10.Which instrument is used to measure heat?
+D. 10%
 
-A. Thermometer
 
-B. Barometer
+29.What is the theme of the second Ashrah of Ramadan?
 
-*C.Calorimeter
+A. Patience
 
-D. Hygrometer
+B. Mercy
 
-11.In external fertilization, the number of eggs produced is usually:
+*C.Forgiveness (Maghfirah)
 
-A. Very few, to conserve energy
+D. Thankfulness
 
-*B.Very large, to increase chances of survival
+30.How many times must a pilgrim run between Safa and Marwah during Sa’i?
 
-C. Moderate, same as internal fertilization
+A. 5 times
 
-D. None, only sperm are released
+*B.7 times
+C. 6 times
 
+D. 8 times
 
-12.What is transcription in biology?
+31.What is the 3rd article of faith in Islam known as?
 
-A. The process of copying DNA into DNA
+A. Belief in Allah
 
-B. The process of translating RNA into protein
+B. Belief in Angels
 
-*C.The process of copying DNA into messenger RNA 
-D. The process of replicating the entire genome
+*C.Belief in the Books of Allah
 
-13.What is malnutrition?
+D. Belief in the Day of Judgment
 
-A. Eating too much food regularly
+32.What is the duty of Hazrat Mika'il (A.S)?
 
-B. Excessive exercise
-C. A disease caused by infection
+A. Bringing revelations
 
-*D.A condition caused by lack of proper nutrients in the diet
+B. Taking souls
 
-14.What causes measles?
+C. Blowing the trumpet
+*D.To administer life processes
 
-A. Bacteria
+33.What does the word "Torat" (Tawrat) mean?
 
-*B.Virus
+A. Book
 
-C. Fungus
+B. Scripture
 
-D. Parasite
+*C.Law
 
+D. Message
 
 
-15.Which of the following is an example of an exocrine gland?
 
-*A.Salivary gland
-B. Thyroid gland
+
+
+
+
+
+
+
+34.What is the original language of the Vedas in Hinduism?
+
+*A.Sanskrit
+
+B. Pali
+
+C. Hindi
+D. Prakrit
+
+35.How many Prophets are mentioned by name in the Quran?
+
+A. 20
+
+B. 30
+
+C. 40
+*D.25
+
+36.What is the Arabic name for "The Day of Separation"?
+
+A. Yawm al-Qiyamah
+
+B. Yawm al-Deen
+
+*C.Yawm al-Fasl
+
+D. Yawm al-Hashr
+
+37.The concept of Tawheed in Islam is based on:
+
+A. Polytheism
+
+*B.Monotheism
+
+C. Atheism
+D. Dualism
+
+38.The Islamic New Year is observed because of:
+
+*A.Migration (Hijrah) of the Prophet (PBUH) from Makkah to Madinah
+B. Revelation of Quran
+
+C. Birth of Prophet Muhammad (PBUH)
+D. Victory of Badr
+
+39.What is the most sacred day of the week for Jews?
+
+A. Sunday
+
+B. Friday
+
+*C.Saturday (Sabbath/Shabbat)
+
+D. Monday
+
+40.Yom Kippur is the holy day of which religion?
+
+A. Christianity
+
+B. Islam
+
+C. Hinduism
+*D.Judaism
+
+
+41.What is a synonym of the word "garnish"?
+
+A. Remove
+
+B. Hide
+
+*C.Ornament
+D. Destroy
+
+42.What is an antonym of the word "harrowing"?
+
+A. Painful
+
+B. Disturbing
+
+C. Terrifying
+*D.Gratifying
+
+43.What is a synonym of the word "immure"?
+
+*A.Release
+
+B. Imprison
+
+C. Invite
+
+D. Rescue
+
+44.What is the antonym of "jubilation"?
+
+A. Excitement
+
+B. Celebration
+
+*C.Misery
+
+D. Delight
+
+45.What is the synonym of "languor"?
+
+A. Energy
+
+*B.Dullness
+
+C. Excitement
+
+D. Alertness
+
+46. What is the antonym of "malefactor"?
+
+A. Villain
+
+B. Offender
+
+C.Criminal
+*D.Police
+
  
-C. Pituitary gland
+47.What is the synonym of "impecunious"?
 
-D. Adrenal gland
+A. Wealthy
+
+B. Generous
+
+*C. Poor/needy
+
+D. Greedy
+
+48.What is the antonym of "heed"?
+
+*A.Inattention
+B. Observe
+
+C. Notice
+D. Follow
+
+49.What is the synonym of "languid"?
+
+A. Energetic
+
+*B.Sluggish
+
+C. Alert
+
+D. Active
+
+50. What is the antonym of "laud"?
+
+A. Praise
+
+B. Admire
+
+*C.Deprecate
+D. Applaud
+
+51. What does the phrase "It never rains but it pours" mean?
+
+A. It rains very lightly
+
+B. The weather is unpredictable
+
+*C.Problems or misfortunes come all at once
+
+D. Rain brings happiness
+
+52.What does the phrase "a man in the street" mean?
+A. A homeless person
+
+B. A traffic controller
+
+C. A police officer
+*D.An ordinary person
+
+ 
+53.What is the meaning of the phrase "a dark horse"?
+
+
+A. A person who is always honest and open
+
+B. A person who never takes part in any contest
+
+*C.A person who unexpectedly wins or succeeds
+
+D. A person who is afraid of competition
+
+54. What is the meaning of the phrase "now or never"?
+
+
+A. Do it later if possible
+
+B. Take time to decide
+
+C. Wait for the right moment
+
+*D. =Immediate action must be taken or the chance will be lost
+
+55.What does the phrase "out of all proportion" mean?
+
+
+A. Completely fair and balanced
+
+*B. Extremely exaggerated or excessive
+
+C. Reduced to minimum size
+
+D. Equal in every aspect
+
+56.What does the phrase "play upon one's fear" mean?
+
+
+A. To ignore someone's anxiety
+
+B. To comfort someone in fear
+
+*C.To take advantage of someone's fear
+
+D. To pretend to be afraid
+
+57.What does the phrase "the pros and cons" mean?
+
+
+A. Only the positive aspects
+
+*B.The advantages and disadvantages
+
+C. The rules and regulations
+
+D. The facts and figures
+
+58.What does the phrase "rack one's brain" mean?
+
+
+A. To relax and think clearly
+
+B. To hurt someone mentally
+
+*C.To try very hard to remember or think of something
+
+D. To ignore all thoughts
+
+59.What does the phrase "old head on young shoulders" mean?
+
+
+A. A child pretending to be old
+
+B. A young person acting foolishly
+
+C. An old man behaving like a child
 
 
 
-16.hobias are classified under which type of disorder?
-
-A. Infectious diseases
-
-B. Autoimmune diseases
 
 
-C. Genetic disorders
 
-*D.Phsycological disorder
 
-17.How many pairs of cranial nerves are there in the human body?
 
-A. 10
 
-B. 12
+*D.A young person who is wise and mature
+
+ 
+60.What does the phrase "cut off one's nose to spite one's face" mean?
+
+
+A. To take revenge wisely
+
+B. To help someone at your own cost
+
+*C.To harm yourself in an attempt to harm someone else
+
+D. To make a smart sacrifice
+
+61.1. What does DVD stand for?
+
+A. Digital Video Data
+
+*B.Digital Versatile Disc
+
+C. Data Visual Disc
+
+D. Disc for Video Display
+
+62.What does DOS stand for?
+
+*A.Disk Operating System
+B. Data Operating Software
+
+C. Digital Operating Service
+
+D. Direct OS
+
+63. What is the motherboard in a computer?
+
+*A.Main circuit board connecting all components
+
+B. Power supply unit
+
+C. External casing of a computer
+
+D. Secondary storage device
+
+64.RAM is primarily used for:
+
+A. Long-term storage
+
+*B.Temporarily holding data for currently running programs
+
+C. Booting the system
+
+D. Connecting to the internet
+
+65.The contents of ROM are:
+
+A. Lost when power is off
+
+B. User-editable frequently
+
+*C.Permanently written and not erased
+
+D. Always blank
+
+
+
+66.What is the function of the Ctrl + A keyboard shortcut?
+
+A. Copy selected text
+
+B. Paste content
+
+C. Undo last action
+
+
+*D.Select all content
+
+ 
+67.What does the Alt + Enter keyboard shortcut usually do in Windows?
+
+A. Minimize window
+
+*B.Display properties of the selected item
+C. Rename a file
+
+D. Open Task Manager
+
+68.What does the Windows Logo + L keyboard shortcut do?
+
+A. Log out and shut down
+
+*B.Lock the computer
+
+C. Launch Task Manager
+
+D. Load Control Panel
+
+
+
+69.The size or memory capacity of a computer is measured in:
+
+A. Hertz
+
+B. Pixels
+
+*C.Bytes
+
+D. Inches
+
+
+
+70.What is a cursor in computer terminology?
+
+A. A type of virus
+
+B. A storage device
+
+*C.A movable indicator on the screen
+
+D. A command line tool
+
+71.What is a floppy disk used for?
+
+A. Printing documents
+
+*B.Storing and transferring data
+
+C. Accessing the internet
+
+D. Displaying graphics
+
+
+
+72.What type of monitor is commonly used in laptops?
+
+A. CRT
+
+*B.LCD/LED
+
+C. Plasma
+
+D. OLED only
+
+
+
+73.What is a microprocessor?
+
+A. A storage device
+
+B. A power supply
+
+*C.A central processing unit on a single chip
+
+D. A software application
+
+
+
+74. What does MIPS stand for in computer terminology?
+
+A. Mega Integrated Processing System
+
+*B.Million Instructions Per Second
+
+C. Multiple Input Processing Signals
+
+D. Mainframe Instruction Processing Set
+
+75. A supercomputer is primarily used for:
+
+A. Typing and internet browsing
+
+B. Watching movies
+
+*C.Performing complex scientific calculations
+
+D. Playing basic video games
+
+76. A transistor is a:
+A. Memory device
+
+*B.Semiconductor device used to amplify or switch electronic signals
+
+C. Display unit
+
+D. Type of battery
+
+77.A notebook in computing refers to a:
+
+A. Paper notepad
+
+B. Mobile phone
+
+*C.Portable personal computer (laptop)
+
+D. Smartwatch
+
+78. A menu-driven interface allows users to:
+
+*A.Choose options from a list
+B. Write programs directly
+
+C. Type long commands
+
+D. Only use a mouse
+
+
+
+79.A peripheral device is:
+
+A. Part of the CPU
+
+*B.An external device connected to a computer
+
+C. A software program
+
+D. A type of virus
+
+80.A disk drive is used to:
+A. Display images
+
+B. Print documents
+
+C. Connect to the internet
+
+
+*D.Read and/or write data to storage disks
+
+ 
+81.How many members voted against the 26th Constitutional Amendment in Pakistan's National Assembly in October 2024?
+
+A. 5
+
+B. 8
 
 *C.12
 
-D. 14
-
-18.What is magnetic tape mainly used for?
-
-*A.Data storage
-
-B. Cooking
-
-C. Wireless communication
-
-D. Generating electricity
+D. 16
 
 
 
-19.What is computer hardware?
-A. The software installed on a computer
-*B.The physical components of a computer system
+82.Which Pakistani actress was appointed as UNICEF's first National Ambassador for Child Rights in Pakistan in October 2024?
 
-C. The files saved in memory
+*A.Saba Qamar
+B. Sajal Aly
 
-D. The apps used for communication
+C. Mahira Khan
+D. Mehwish Hayat
 
+83.Which country announced plans to establish textile parks in Pakistan in late 2024?
 
+A. India
 
-20. Which of the following is a feature of 3rd generation computers?
+*B.China
 
-A. Used only mechanical parts
-B. Used punch cards for input
+C. Turkey
 
-C. Very large in size and slow
+D. Bangladesh
 
-*D.Smaller size and more reliable
+84.Where was the first-ever barter trade agreement between Pakistan and Russia signed in October 2024?
 
+*A.Moscow, Russia
 
-21.
+B. Islamabad, Pakistan
 
+C. Beijing, China
 
-22.Who proudly represented Pakistan at the 73rd Miss Universe pageant in Mexico in November 2024?
+D. St. Petersburg, Russia
 
-A. Nimra Jacob
+85.Who became the first South Korean woman to win the Nobel Prize in Literature in 2024?
 
-B. Anzela Abbasi
+A. Ko Un
 
-*C.Noor Xarmina
+B. Park Sang in
 
-D. Hoor Mahaveera
+*C. Han Kang
 
-
-
-23.Which province launched a socio-economic registry project in July 2024 to enhance social protection?
-
-
-A. Sindh
-
-B. Khyber Pakhtunkhwa
-
-*C.Punjab
-
-D. Balochistan
-
-24. Which province launched its first air ambulance service in July 2024?
+D. Min Jin Lee
 
 
-*A.Punjab
-B. Khyber Pakhtunkhwa
 
-C. Sindh
+86.Which award was conferred upon Dr. Amjad Saqib in November 2024?
+
+A. Hilal-e-Imtiaz
+
+B. Ramon Magsaysay Award
+
+C. Global Man of the Decade
+*D.Brain of the Year Award 2025 by The Brain Trust
+
+87. Which country set a new world record by creating the largest human flag in November 2024?
+
+A. India
+
+*B.Pakistan
+
+C. Bangladesh
+
+D. Nepal
+
+88. Which city was approved for Pakistan's first Tier-Four Data Center in November 2024?
+
+A. Karachi
+
+B. Islamabad
+
+*C.Lahore
+
+D. Peshawar
+
+89.Which U.S. state holds the most electoral votes in a presidential election?
+
+A. Florida
+
+*B.California(54)
+
+C. Texas
+
+D. New York
+
+90.Which city was officially approved as the 10th division of Punjab in December 2024?
+
+A. Multan
+
+B. Rawalpindi
+
+*C.Gujrat
+
+D. Sargodha
+
+91. Which doctor was awarded the Order of Canada in December 2024 for contributions to maternal and child health?
+
+A. Dr. David Chitayat
+
+B. Dr. Nada Jabado
+
+C. Dr. George Trusler
+*D.Dr. Zulfiqar Bhutta
 
 
-D. Balochistan
+92.Who was recently inducted into the Professional Squash Association (PSA) Hall of Fame in December 2024?
 
-25.Which Pakistani boxer became the Asian middleweight champion in July 2024 by defeating an Indian opponent?
+*A.Jahangir Khan
 
+B. Susan Devoy
 
-A. Usman Wazeer
+C. Jansher Khan (alongside Nicol David)
 
-B. Agha Kaleem
+D. Ali Farag
 
-*C.Shahir Afridi
-
-D. Ilyas Hazara
-
-26. Which Christian man was sentenced to death in Sahiwal in July 2024 for allegedly posting blasphemous content on social media?
+93.According to CRSS data, which two provinces were the worst-hit by violence in December 2024?
 
 
-A. Shafqat Emmanuel
+A. Punjab and Sindh
 
-*B.Ehsan Shan
+B. Sindh and Islamabad
 
-C. Junaid Hafeez
+*C.Khyber Pakhtunkhwa (KP) and Balochistan
 
-D. Shagufta Kausar
-
-27.Minamitorishima Island, recently seen in the news, is located in which ocean?
+D. Punjab and KP
 
 
-A. Atlantic Ocean
 
-B. Indian Ocean
+94.A long-time Safari Park resident elephant that faced sudden death in December 2024 was named?
+A. Madhubala
 
-*C.Pacific Ocean
+B. Malika
 
-D. Arctic Ocean
+C. Noor Jehan
+*D.Sonia
 
-28. Scientists from which country developed a robot face covered with living skin that can smile?
+95. Who won the 2024 The Best FIFA Women’s Player award in December 2024?
 
+A. Barbra Banda
+
+B. Caroline Graham Hansen
+
+*C.Aitana?Bonmati
+D. Lindsey Horan
+
+96.Who won the ICC Men’s Player of the Month award for November 2024?
+
+A. Jasprit Bumrah
+
+*B.Haris Rauf
+ 
+C. Marco Jansen
+
+D. Noman Ali
+
+97. Which team defeated Pakistan 5–3 in the final of the Men's Junior Asia Cup Hockey 2024?
 
 A. South Korea
 
-*B.Japan
+B. Malaysia
 
-C. United States
+*C.India
 
-D. Germany
+D. Japan
 
-29.Who became Rawalpindi's first female Chief Traffic Officer (CTO) in August 2024?
+98.Which Pakistani was awarded the Sheikh Zayed International Award for contributions to both traditional and modern medicine in December 2024?
 
+*A.Prof. Dr. Muhammad Iqbal Choudhary
+B. Dr. Pervez Hoodbhoy
 
-A. Ammara Athar
+C. Dr. Sania Nishtar
+D. Dr. Atta-ur-Rahman
 
-*B.Beenish Fatima
+99.As of December 2024, which country was Pakistan's largest trade partner?
 
-C. Aisha Butt
+A. India
 
-D. Taimoor Khan
+*B.United States
 
-30. In which city did the Punjab Police introduce the first-ever Lady Dolphin Squad in august 2024?
+C. China
 
+D. United Arab Emirates
 
-A. Lahore
+100. Who was elected unopposed as President of the Pakistan Olympic Association for the 2025–2029 term in December 2024?
 
-*B.Faisalabad
+A. Syed Arif Hasan
 
-C. Rawalpindi
+B. Syed Muhammad Abid Qadri Gillani
 
-D. Multan
+*C.Arif Saeed
 
-31. Which province banned the use of plastic water bottles in government offices in August 2024?
-
-A. Punjab
-
-*B.Sindh
-
-C. Balochistan
-
-D. Khyber Pakhtunkhwa
-
-
-
-32.Which Bangladeshi all-rounder was booked in a murder case during the Rawalpindi Test series in Pakistan?
-
-A. Mehidy Hasan Miraz
-
-B. Litton Das
-
-*C.Shakib Al Hasan
-
-D. Taskin Ahmed
-
-
-
-33.Which city in Pakistan was set to get the first digitized transport system in September 2024?
-
-*A.Rawalpindi
-
-B. Lahore
-
-C. Karachi
-
-D. Islamabad
-
-34.Which country reportedly signed a $1.6 billion deal with Pakistan in September 2024 to purchase JF-17 Block III fighter jets?
-
-
-A. Egypt
-
-B. Saudi Arabia
-C. Nigeria
-
-*D.Azerbaijan
-
-35.Who won the bronze medal in the men’s discus throw F37 event for Pakistan at the 2024 Summer Paralympics?
-
-A. Arshad Nadeem
-
-B. Muhammad Zaman
-
-*C.Haider Ali
-
-D. Imran Khan
-
-36.Which country ranked last (bottom) in the 17th Global Innovation Index 2024?
-
-A. Haiti
-
-B. Yemen
-
-*C.Angola
-
-D. Guinea
-
-37.Who was the UN High Commissioner for Refugees (UNHCR) who visited Pakistan in July 2024?
-A. AntonioGuterres
-B. Fillipo Grandi
-
-*C.Fillipo Grandi
-
-D. Volker Turk
-
-38.Which Pakistani peacekeeper won the UN Gender Advocacy Award in August 2024?
-
-*A. Major Sania Safdar
-
-B. Major Komal Masood
-
-C. Squadron Leader Syme
-
-D. Sepoy Amir Aslam
-
-39.Who was the Deputy Prime Minister of the Russian Federation who led a high-level delegation to Pakistan on 18–19 September 2024?
-
-A. Dmitry Chernyshenko
-
-*B.Alexei Overchuk
-
-C. Andrei Belousov
-
-D. Mikhail Mishustin
-
-40.Who became the first Christian Special Services Group (SSG) commando to be promoted to the rank of Major General in the Pakistan Army in July 2024?
-
-A. Noel Israel Khokhar
-
-B. Julian Peter
-
-*C.Julian Moazzam James
-
-D. Helen Mary Roberts
-
-
-
-41.Which hadith is reported by such a large number of companions that its authenticity is beyond doubt?
-A. Ahad
-B. Marfu
-*C.Mutawatir
-D. Munkar
-
-42.Which companion wrote 1560 hadiths?
-A. Abu Hurairah (RA)
-*B.Hazrat Jabir ibn Abdullah (RA)
-C. Abdullah ibn Umar (RA)
-D. Abdullah ibn Abbas (RA)
-
-43.What are the sayings, counsels, and precepts of the Prophet (SAW)called?
-A. Sunnat-ul-Fi’l
-B. Sunnat-ul-Taqreer
-C. Sunnat-ul-Hikmah
-*D. Sunnat-ul-Qawl
-
-44.How can Ijma be constituted?
-A. Only by parliament
-*B.By decision expressed in words or practice of jurists
-C. By public voting
-D. Through dreams
-
-45.What is the other name for Explicit Ijma?
-*A.Ijma Sarih
-B. Ijma Sukuti
-C. Ijma Qiyas
-D. Ijma Maqbool
-
-46.How many types of Qiyas are there?
-A. One
-B. Four
-*C.Three
-D. Five
-
-47.What is Al Qiyas al Awla?
-A. Qiyas of lowest order
-*B.Qiyas of higher order
-C. Qiyas of equivalent order
-D. Qiyas of medium order
-
-48.In the analogy of Qiyas, what is the 'Asl (original case)?
-A. Nabeez
-B. Hukm
-*C.Khamr (wine)
-D. Illah
-
-49.Istidlal is:
-A. A type of Qiyas
-*B.A branch of Qiyas
-C. Unrelated to Qiyas
-D. A Hadith term
-
-50.The second category of ijtihad is:
-A. General and limited
-*B.Actual and potential
-C. Mutlaq and muqayyad
-D. Primary and secondary
-
-51.Which Surah is about the mystic night of power in which revelation came to a darkened world?
-*A. Surah Al-Qadr
-B. Surah Al-Tin
-C. Surah Al-Zilzal
-D. Surah Al-Falaq
-
-52.The Holy Quran was first translated into Latin by:
-A. Du Ryer
-*B.Robertus Ketenensis
-C. Schwigger
-D. Alexander Ross
-
-53.Who applied diacritical points in the Holy Quran?
-A. Zaid bin Thabit
-B. Hazrat Uthman
-C. Imam Shafi
-*D.Hajjaj bin Yousaf
-
-54.Which tafseer has gained more popularity among the ulema and is voluminous?
-A. Tafseer-i-Tabri
-B. Tafseer-i-Kashshaf
-C. Anwar-ut-Tanzil
-*D.Tafseer Ibn-i-Kathir
-
-55.Among the following, whose Quran commentary is explicitly mentioned as not accepted by the ulema?
-A. Maulana Abul Kalam Azad
-B. Muhammad Rashid Ridha
-*C.Sir Sayyid Ahmad Khan
-D. Sheikh Tantawi
-
-56.The words "al-hayat" (life) and "al-maout" (death) are each mentioned how many times?
-A. 24
-B. 88
-*C.145
-D. 2697
-
-57.What does Madhu hadith mean?
-A.Strong hadith
-B.Authentic hadith
-C.Weak hadith
-*D.Forged hadith
-
-58.Which Surah repeatedly asks, "Is there any that will receive admonition?" and highlights past stories of sin?
-A.Surah Al-Mulk
-B.Surah At-Tur
-*C.Surah Al-Qamar
-D.Surah An-Najm
-
-59.What is the theme of Surah Ad-Dahr (Time), also known as Surah Al-Insan?
-A.Angels and their duties
-*B.The contrast between those who choose good and those who choose evil
-C.The lineage of prophets
-D.Laws of trade and honesty
-
-60.What is the meaning of Surah Al-Qalam, and in which Manzil (stage) of the Quran is it included?
-A.The Pen, 6th Manzil
-B.he Inkpot, 7th Manzil
-C.The Tablet, 6th Manzil
-*D.The Pen, 7th Manzil
-
-61.Which word can best replace “accomplice” in the sentence: “The police arrested the thief and his accomplice”?
-
-A. Witness
-
-*B. Associate
-
-C. Guard
-
-D. Observer
-
-62.What is the antonym of the word “bandy”?
-
-A. Argue
-
-B. Discuss
-
-*C.Overtook
-D. Exchange
-
-
-
-63. What is the closest synonym of the word “beatitude”?
-
-A. Suffering
-
-*B.Ectsasy
-C. Conflict
-
-D. Boredom
-
-64.What is the antonym of the word “calumniate”?
-*A.Compliment
-B. Blame
-C. Slander
-
-D. Insult
-
-
-
-65.What is the closest synonym of the word “cant”?
-
-A. Truth
-
-B. Silence
-
-*C.Hypocrisy
-
-D. Wisdom
-
-
-
-66.What is the antonym of the word “debilitate”?
-A. Destroy
-
-B. Injure
-
-C. Exhaust
-*D.Strengthen
-
-67.What is the closest synonym of the word “edify”?
-
-A. Confuse
-
-B. Entertain
-
-*C.Enlighten
-
-D. Ignore
-
-68.Which word is opposite in meaning to “effusive”?
-
-*A.Apathetic 
-B. Outspoken
-
-C. Warm
-
-D. Cheerful
-
-69. What is the closest synonym of the word “accede”?
-
-A. Deny
-
-*B.Endorse
-
-C. Reject
-
-D. Argue
-
-70.What is the antonym of the word “fawning”?
-
-A. Flattering
-
-B. Humble
-
-*C.Arrogant
-D. Obedient
-
-71.Which situation best describes “no man’s land”?
-
-A. A crowded street
-
-B. A protected wildlife zone
-
-C. A farmland under cultivation
-
-
-*D.A barren zone between two enemy trenches
-
- 
-72.What does the phrase “to cry wolf” mean?
-
-A. To warn others about danger truthfully
-
-*B.To raise a false alarm
-
-C. To howl loudly
-
-D. To ask for help in an emergency
-
-
-
-73.If someone says “That story is all moonshine,” they mean:
-
-A. The story is very inspiring
-
-B. The story is about the moon
-
-*C.The story is not true or is nonsense
-
-D. The story is very funny
-
-74.When someone says “let bygones be bygones,” they want to:
-
-A. Keep arguing
-
-*B.Move on from past disagreements
-
-C. Revisit old problems
-
-D. Hold a grudge
-
-
-75.Which of the following is the opposite of “letting the grass grow under one’s feet”?
-
-*A.Taking prompt action
-B. Procrastinating
-C. Daydreaming
-
-D. Being lazy
-
-76.The phrase “laugh to scorn” means:
-
-A. Laugh happily with friends
-
-*B.Mock or ridicule someone or something
-
-C. Laugh quietly to oneself
-
-D. Laugh out of relief
-
-77.If someone is “on the carpet,” they are likely:
-
-A. Relaxing comfortably
-
-B. Decorating a room
-C. Hosting guests
-
-*D.Being called out for a mistake
-
-
-78.Which of the following sentences correctly uses a preposition to show place?
-
-
-A. She looked after the painting carefully.
-
-B. The cat jumped over the fence silently.
-
-*C. The keys are under the couch in the living room.
-
-D. He ran during the race very fast.
-
-79.In the sentence, “She walked alongside her friend,” the preposition “alongside” shows:
-
-*A. Place
-
-B. Time
-
-C. Manner
-
-D. Cause
-
-
-
-80.In the sentence "He looked around," the word "around" is functioning as:
-
-A. Preposition
-*B. Adverb
-
-C. Conjunction
-
-D. Adjective
-
-
-
-81.Who was the Prime Minister of Pakistan during enforcement of first constitution?
-A. Mohammad Ali Bogra
-B. Khwaja Nazim Uddin
-*C.Choudhry Mohammad Ali
-D. Ibrahim Ismail Chundrigar
-
-82.Who abrogated 1956 constitution?
-A. Ayub Khan
-B. Tikka Khan
-*C.Iskander Mirza
-D. Yahya Khan
-
-83.who elects the President according to 1973 constitution?
-A. National Assembly
-B. Senate
-C. Provincial Assemblies
-*D. All of them
-E. None of them
-
-84.The 1962 Constitution of Pakistan was passed during the regime of?
-A. Sikandar Mirza
-*B.Ayoub Khan
-C. Yahya Khan
-D. Ch. Muhammad Ali
-
-85.The ruins of Harrapa are situated in district?
-A. Multan
-B. Okara
-C. Lahore
-*D.Sahiwal
-
-86.The name of poet whose collection of poetry is called “Shah jo Risalu”?
-A. Khushal Khan Khattak
-B. Waris Shah
-C. Makhdum Muhammad Hashim
-*D.Shah Abdul Latif Bhatai
-
-87.Who was the leader of the Young Bengal Movement?
-A. Raja Ram Mohan Roy
-*B.Henry Vivian Derozio
-C. David Hare
-D. Debendranath Tagore
-
-88.Which one of the following was the first fort constructed by the British in India ?
-A. Fort St. David
-B. Fort William
-C. Fort St.Angelo
-*D.Fort St.George
-
-89.Who was the author of the book “Jinnah; India Partition ” ?
-A. Imtiaz Gul
-*B.Jaswant Singh
-C. Tariq Ali
-D. G.W Chaudhry
-
-90.Kalabagh iron deposits are largest in Pakistan with an estimated reserve of ?
-*A.309mtons
-B. 509mtons
-C. 709mtons
-D. None ofthese
-
-91.The battle of Dharmat was fought between ?
-A. Babur and Afghans
-B. Muhammad Ghori and Jai Chand
-C. Ahmad Shah Durrani and the Marathas
-*D. Aurangzeb and Dara Shikoh
-
-92.Which of the following Sufi saints belong to “Chistia order”?
-A. Baha-ud-Din Zakariya
-B. Shah Rukn-i-Alam
-*C.Farid-ud-Din Ganj Shakar
-D. Mansur al-Hallaj
-
-
-93.Who was the shortest-serving Chief Justice of Pakistan?
-A. Mohammad Haleem
-*B.Muhammad Shahabuddin
-C. Mian Abdur Rashid
-D. Iftikhar Muhammad Chaudhry
-
-94.Which one of the following is Largest Division of Pakistan?
-A. Bahawalpur Division
-B. Malakand Division
-C. Lahore Division
-*D.Kalat Division
-
-
-95.Watersports at Khanpur Dam was?
-*A.Beat The Waves
-B. Game of Thrones
-C. Battle of War
-D. Swimming
-
-96.Lyallpur is the old name of ?
-A. Punjab
-B. Mardan
-*C.Faisalabad
-D. Lahore
-
-97.Who played role of Quaid-e-Azam in film “Jinnah” which was released 7 November
-1998?
-A. Micky arther
-*B.Christopher Lee
-C. Shashi Kapoor
-D. Jamil Dehalvi
-
-98.Name the cricket Stadium which is located in Khyber Agency and inaugurated by Gen
-Raheel Sharif in November 2016?
-A. Younas Khan cricket stadium
-*B.Shahid Afridi cricket stadium
-C. Gaddafi Stadium
-D. Arbab Niaz Stadium
-
-99.Sheena is a local language of ?
-*A.Gilgit Baltistan
-B. Sindh
-C. Punjab
-D. None of them
-
-100.Who was the first person the climb the Nanga parbat?
-A. R.d Banerjee
-B. Martin Conway
-*C.Hermann Buhl
-D. Ashraf Aman
+D. Khalid Mahmood
 
 
 
