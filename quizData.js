@@ -529,7 +529,7 @@ A. Neither of the boys have submitted their paper.
 C. Neither of the boy has submitted his paper.
 D. Neither of boys has submitted their paper.
 
-**88. Choose the meaning of idiom: “To weather the storm”
+88. Choose the meaning of idiom: “To weather the storm”
 A. To create a problem
 B. To avoid confrontation
 *C. To survive a difficult situation
